@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\BrawlyBoys.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{F32CECA7-CAF7-4D6A-9211-3EE06B682140}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BrawlyBoys.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\BrawlyBoysEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{8294A891-7FC0-4E1B-B9FB-587BD89ABDFC}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\BrawlyBoys">
+			<UniqueIdentifier>{5E64A68F-0F86-4B7C-858D-8A5D9FB25984}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BrawlyBoys\BrawlyBoys.Build.cs">
+			<Filter>Source\BrawlyBoys</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\BrawlyBoys\BrawlyBoys.cpp">
+			<Filter>Source\BrawlyBoys</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BrawlyBoys\BrawlyBoys.h">
+			<Filter>Source\BrawlyBoys</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BrawlyBoys\BrawlyBoysCharacter.cpp">
+			<Filter>Source\BrawlyBoys</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BrawlyBoys\BrawlyBoysCharacter.h">
+			<Filter>Source\BrawlyBoys</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BrawlyBoys\BrawlyBoysGameMode.cpp">
+			<Filter>Source\BrawlyBoys</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BrawlyBoys\BrawlyBoysGameMode.h">
+			<Filter>Source\BrawlyBoys</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

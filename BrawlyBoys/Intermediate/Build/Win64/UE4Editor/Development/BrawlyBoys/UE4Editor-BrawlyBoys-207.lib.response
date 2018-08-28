@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BrawlyBoys-207.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Users\brandon.van7367\Documents\Unreal Projects\BrawlyBoys\Intermediate\Build\Win64\BrawlyBoysEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Users\brandon.van7367\Documents\Unreal Projects\BrawlyBoys\Intermediate\Build\Win64\UE4Editor\Development\BrawlyBoys\BrawlyBoys.cpp.obj"
+"D:\Users\brandon.van7367\Documents\Unreal Projects\BrawlyBoys\Intermediate\Build\Win64\UE4Editor\Development\BrawlyBoys\BrawlyBoysCharacter.cpp.obj"
+"D:\Users\brandon.van7367\Documents\Unreal Projects\BrawlyBoys\Intermediate\Build\Win64\UE4Editor\Development\BrawlyBoys\BrawlyBoysGameMode.cpp.obj"
+"D:\Users\brandon.van7367\Documents\Unreal Projects\BrawlyBoys\Intermediate\Build\Win64\UE4Editor\Development\BrawlyBoys\BrawlyBoys.init.gen.cpp.obj"
+"D:\Users\brandon.van7367\Documents\Unreal Projects\BrawlyBoys\Intermediate\Build\Win64\UE4Editor\Development\BrawlyBoys\BrawlyBoysCharacter.gen.cpp.obj"
+"D:\Users\brandon.van7367\Documents\Unreal Projects\BrawlyBoys\Intermediate\Build\Win64\UE4Editor\Development\BrawlyBoys\BrawlyBoysGameMode.gen.cpp.obj"
+"D:\Users\brandon.van7367\Documents\Unreal Projects\BrawlyBoys\Intermediate\Build\Win64\UE4Editor\Development\BrawlyBoys\PCLaunch.rc.res"
+/OUT:"D:\Users\brandon.van7367\Documents\Unreal Projects\BrawlyBoys\Intermediate\Build\Win64\UE4Editor\Development\BrawlyBoys\UE4Editor-BrawlyBoys-207.lib"
