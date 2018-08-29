@@ -1,3 +1,0 @@
-D:\Users\brandon.van7367\Documents\Unreal Projects\BrawlyBoys\Source\BrawlyBoys\BrawlyBoys.Build.cs
-D:\Users\brandon.van7367\Documents\Unreal Projects\BrawlyBoys\Source\BrawlyBoys.Target.cs
-D:\Users\brandon.van7367\Documents\Unreal Projects\BrawlyBoys\Source\BrawlyBoysEditor.Target.cs

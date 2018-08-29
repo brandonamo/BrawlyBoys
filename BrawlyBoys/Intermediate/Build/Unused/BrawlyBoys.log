@@ -1,9 +1,0 @@
-﻿  Compiling game modules for hot reload
-  Building 3 actions with 8 processes...
-    [1/3] BrawlyBoysCharacter.cpp
-    [2/3] UE4Editor-BrawlyBoys-5200.lib
-       Creating library D:\Users\brandon.van7367\Documents\Unreal Projects\BrawlyBoys\Intermediate\Build\Win64\UE4Editor\Development\BrawlyBoys\UE4Editor-BrawlyBoys-5200.lib and object D:\Users\brandon.van7367\Documents\Unreal Projects\BrawlyBoys\Intermediate\Build\Win64\UE4Editor\Development\BrawlyBoys\UE4Editor-BrawlyBoys-5200.exp
-    [3/3] UE4Editor-BrawlyBoys-5200.dll
-       Creating library D:\Users\brandon.van7367\Documents\Unreal Projects\BrawlyBoys\Intermediate\Build\Win64\UE4Editor\Development\BrawlyBoys\UE4Editor-BrawlyBoys-5200.suppressed.lib and object D:\Users\brandon.van7367\Documents\Unreal Projects\BrawlyBoys\Intermediate\Build\Win64\UE4Editor\Development\BrawlyBoys\UE4Editor-BrawlyBoys-5200.suppressed.exp
-  Deploying BrawlyBoysEditor Win64 Development...
-  Total build time: 1.91 seconds (Parallel executor: 1.32 seconds)
