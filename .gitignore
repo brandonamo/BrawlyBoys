@@ -75,3 +75,16 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Test/Intermediate/
+
+Test/Saved/
+<<<<<<< HEAD
+
+=======
+>>>>>>> Jayden
+
+Test/Intermediate/
+
+Test/Saved/
+
