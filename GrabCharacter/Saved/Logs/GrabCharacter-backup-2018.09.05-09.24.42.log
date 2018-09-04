@@ -1,0 +1,754 @@
+﻿Log file open, 09/05/18 07:32:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GrabCharacter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.271609
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.131s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/apps/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.007s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.04-19.32.14:654][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.04-19.32.14:654][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.04-19.32.14:692][  0]LogHAL: Display: Platform has ~ 32 GB [34317541376 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.04-19.32.14:692][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.04-19.32.14:692][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.04-19.32.14:693][  0]LogInit: Computer: 1805C027
+[2018.09.04-19.32.14:693][  0]LogInit: User: EthanHop7668
+[2018.09.04-19.32.14:693][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.04-19.32.14:693][  0]LogInit: High frequency timer resolution =3.515626 MHz
+[2018.09.04-19.32.14:693][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.09.04-19.32.14:693][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.04-19.32.14:693][  0]LogMemory: Process Physical Memory: 101.72 MB used, 101.72 MB peak
+[2018.09.04-19.32.14:693][  0]LogMemory: Process Virtual Memory: 93.68 MB used, 93.68 MB peak
+[2018.09.04-19.32.14:693][  0]LogMemory: Physical Memory: 10593.45 MB used,  22134.31 MB free, 32727.76 MB total
+[2018.09.04-19.32.14:693][  0]LogMemory: Virtual Memory: 552.51 MB used,  22134.31 MB free, 134217728.00 MB total
+[2018.09.04-19.32.14:717][  0]LogInit: Using OS detected language (en-US).
+[2018.09.04-19.32.14:717][  0]LogInit: Using OS detected locale (en-US).
+[2018.09.04-19.32.14:718][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.04-19.32.15:030][  0]LogStreaming: Display: Took  0.313s to InitEngineTextLocalization.
+[2018.09.04-19.32.15:031][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.04-19.32.15:066][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.04-19.32.15:066][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.04-19.32.15:279][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.04-19.32.15:279][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.04-19.32.15:333][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.09.04-19.32.15:333][  0]LogD3D11RHI:       8086/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.04-19.32.15:337][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.04-19.32.15:337][  0]LogD3D11RHI:       0/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.04-19.32.15:337][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.04-19.32.15:345][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.04-19.32.15:345][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.04-19.32.15:345][  0]LogWindows: EnumDisplayDevices:
+[2018.09.04-19.32.15:345][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.09.04-19.32.15:345][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.09.04-19.32.15:346][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.04-19.32.15:346][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.04-19.32.15:346][  0]LogWindows:    4. 'Mirage Driver' (P:0 D:0)
+[2018.09.04-19.32.15:346][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.09.04-19.32.15:346][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.09.04-19.32.15:346][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.09.04-19.32.15:346][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.09.04-19.32.15:346][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.09.04-19.32.15:377][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.04-19.32.15:407][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.09.04-19.32.15:493][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Intermediate/Shaders/WorkingDirectory/15692/).
+[2018.09.04-19.32.15:493][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Users/Ethan.Hop7668/AppData/Local/Temp/UnrealShaderWorkingDir/9E2AC96F4EC407E7C460C4B02EF1B9AC/'.
+[2018.09.04-19.32.15:746][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.04-19.32.15:764][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.04-19.32.15:785][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.04-19.32.15:802][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.04-19.32.15:821][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.04-19.32.15:840][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.04-19.32.15:858][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.04-19.32.15:875][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.04-19.32.15:882][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.04-19.32.15:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.04-19.32.15:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.04-19.32.15:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.04-19.32.15:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.04-19.32.15:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.04-19.32.15:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.04-19.32.15:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.04-19.32.15:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.04-19.32.15:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.04-19.32.15:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.04-19.32.15:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.04-19.32.15:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.04-19.32.15:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.04-19.32.15:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.04-19.32.15:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.04-19.32.15:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.04-19.32.15:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.04-19.32.15:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.04-19.32.15:981][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.04-19.32.16:051][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.04-19.32.16:051][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.04-19.32.16:085][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.04-19.32.16:086][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.04-19.32.16:102][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.04-19.32.16:119][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.04-19.32.16:138][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.04-19.32.16:158][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.04-19.32.16:168][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.04-19.32.16:168][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.04-19.32.16:235][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.04-19.32.16:235][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.04-19.32.16:235][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.04-19.32.16:968][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.04-19.32.17:017][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB D:/Users/Ethan.Hop7668/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.04-19.32.17:017][  0]LogDerivedDataCache: Display: Loaded Boot cache: D:/Users/Ethan.Hop7668/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.04-19.32.17:019][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.04-19.32.17:019][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.04-19.32.17:020][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.04-19.32.17:020][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.04-19.32.17:031][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.04-19.32.17:043][  0]LogDerivedDataCache: Using Local data cache path D:/Users/Ethan.Hop7668/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.04-19.32.17:043][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.04-19.32.17:043][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.04-19.32.17:060][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.04-19.32.17:061][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.04-19.32.17:061][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.04-19.32.17:143][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2018.09.04-19.32.17:586][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.04-19.32.17:712][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.04-19.32.17:716][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.04-19.32.17:716][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.04-19.32.17:716][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.04-19.32.17:716][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.04-19.32.17:736][  0]LogNetVersion: GrabCharacter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1405580293)
+[2018.09.04-19.32.18:724][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.517277 seconds
+[2018.09.04-19.32.18:730][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.04-19.32.18:730][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.04-19.32.18:730][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.04-19.32.19:861][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.04-19.32.19:876][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.04-19.32.19:876][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.09.04-19.32.20:061][  0]SourceControl: Source control is disabled
+[2018.09.04-19.32.20:061][  0]SourceControl: Source control is disabled
+[2018.09.04-19.32.20:063][  0]SourceControl: Source control is disabled
+[2018.09.04-19.32.20:065][  0]SourceControl: Source control is disabled
+[2018.09.04-19.32.20:399][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.04-19.32.20:445][  0]LogOcInput: OculusInput pre-init called
+[2018.09.04-19.32.20:500][  0]LogEngine: Initializing Engine...
+[2018.09.04-19.32.20:501][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.04-19.32.20:502][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.04-19.32.20:502][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.04-19.32.20:503][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2018.09.04-19.32.20:503][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.04-19.32.20:701][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.04-19.32.20:715][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.04-19.32.20:761][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.04-19.32.20:770][  0]LogInit: FAudioDevice initialized.
+[2018.09.04-19.32.20:770][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.04-19.32.20:894][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB D:/Users/Ethan.Hop7668/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.04-19.32.20:894][  0]LogInit: Texture streaming: Enabled
+[2018.09.04-19.32.20:909][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.04-19.32.20:922][  0]LogInit: Transaction tracking system initialized
+[2018.09.04-19.32.20:942][  0]BlueprintLog: New page: Editor Load
+[2018.09.04-19.32.21:052][  0]LocalizationService: Localization service is disabled
+[2018.09.04-19.32.21:347][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.04-19.32.21:347][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.04-19.32.21:347][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.04-19.32.21:347][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.04-19.32.21:347][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.04-19.32.21:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2018.09.04-19.32.21:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.04-19.32.21:473][  0]LogFileCache: Scanning file cache for directory 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/' took 0.02s
+[2018.09.04-19.32.21:474][  0]SourceControl: Source control is disabled
+[2018.09.04-19.32.21:474][  0]Cmd: MAP LOAD FILE="H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Demo/Maps/DemoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.04-19.32.21:475][  0]LightingResults: New page: Lighting Build
+[2018.09.04-19.32.21:477][  0]MapCheck: New page: Map Check
+[2018.09.04-19.32.21:477][  0]LightingResults: New page: Lighting Build
+[2018.09.04-19.32.22:041][  0]LogTexture: Display: Building textures: Happy_mask (BGRA8, 30X30)
+[2018.09.04-19.32.22:047][  0]LogAIModule: Creating AISystem for world DemoLevel
+[2018.09.04-19.32.22:052][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.04-19.32.22:076][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.04-19.32.22:217][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 141.914ms to complete.
+[2018.09.04-19.32.22:217][  0]LogFileHelpers: Loading map 'DemoLevel' took 0.744
+[2018.09.04-19.32.22:356][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-19.32.22:364][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-19.32.22:371][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-19.32.22:379][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-19.32.22:392][  0]LogCollectionManager: Loaded 0 collections in 0.003266 seconds
+[2018.09.04-19.32.22:454][  0]LogFileCache: Scanning file cache for directory 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/Collections/' took 0.01s
+[2018.09.04-19.32.22:454][  0]LogFileCache: Scanning file cache for directory 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Developers/EthanHop7668/Collections/' took 0.01s
+[2018.09.04-19.32.22:454][  0]LogFileCache: Scanning file cache for directory 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Collections/' took 0.01s
+[2018.09.04-19.32.22:454][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.04-19.32.22:465][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2572 classes and 603 folders.
+[2018.09.04-19.32.22:479][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.04-19.32.22:566][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.09.04-19.32.22:578][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.04-19.32.22:639][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.04-19.32.22:642][  0]LogSlate: Took 0.000751 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.04-19.32.22:650][  0]LogSlate: Took 0.000994 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.04-19.32.22:732][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2018.09.04-19.32.22:894][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.04-19.32.22:894][  0]LogLoad: (Engine Initialization) Total time: 10.98 seconds
+[2018.09.04-19.32.22:894][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.04-19.32.22:928][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.09.04-19.32.22:929][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/', and we were unable to create a new request.
+[2018.09.04-19.32.22:929][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.09.04-19.32.22:929][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Developers/EthanHop7668/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.09.04-19.32.22:929][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.09.04-19.32.22:932][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.04-19.32.22:962][  0]LogSlate: Took 0.001056 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.04-19.32.22:980][  1]LogAssetRegistry: Asset discovery search completed in 5.8589 seconds
+[2018.09.04-19.32.22:982][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.04-19.32.22:982][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2018.09.04-19.32.22:982][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.09.04-19.32.22:984][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/Collections/', and we were unable to create a new request.
+[2018.09.04-19.32.22:985][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Developers/EthanHop7668/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.09.04-19.32.22:987][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Developers/EthanHop7668/Collections/', and we were unable to create a new request.
+[2018.09.04-19.32.22:987][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.09.04-19.32.22:990][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Collections/', and we were unable to create a new request.
+[2018.09.04-19.32.32:228][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.04-19.32.32:316][301]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.04-19.32.32:343][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.04-19.32.32:362][301]PIE: New page: PIE session: DemoLevel (Sep 5, 2018, 7:32:32 PM)
+[2018.09.04-19.32.32:362][301]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_DemoLevel
+[2018.09.04-19.32.32:366][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004208s)
+[2018.09.04-19.32.32:366][301]LogAIModule: Creating AISystem for world DemoLevel
+[2018.09.04-19.32.32:367][301]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2018.09.04-19.32.32:367][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/DemoLevel.DemoLevel to /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.005592s)
+[2018.09.04-19.32.32:390][301]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.04-19.32.32:396][301]LogInit: FAudioDevice initialized.
+[2018.09.04-19.32.32:408][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-19.32.32:465][301]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.04-19.32.32:473][301]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.09.05-07.32.32
+[2018.09.04-19.32.32:474][301]LogWorld: Bringing up level for play took: 0.001437
+[2018.09.04-19.32.32:501][301]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.09.04-19.32.32:513][301]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_DemoLevel -0.4
+[2018.09.04-19.32.32:559][301]LogRenderer: Reallocating scene render targets to support 1208x684 Format 10 NumSamples 1 (Frame:1).
+[2018.09.04-19.32.38:229][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-19.32.38:253][977]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.04-19.32.38:285][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.04-19.32.38:338][979]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.09.04-19.32.40:557][244]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.04-19.32.40:565][244]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/OurDude.OurDude
+[2018.09.04-19.32.40:994][244]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.09.04-19.32.41:735][244]LogSlate: Took 0.001328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.04-19.32.41:895][245]LogSlate: Took 0.001498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.04-19.33.10:873][451]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Demo/Sprites/Happy/A_Running.A_Running
+[2018.09.04-19.33.13:298][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Sprites/Happy/A_Running" FILE="H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Demo/Sprites/Happy/A_Running.uasset" SILENT=true
+[2018.09.04-19.33.13:360][711]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/A_Running83CB8F1649DF80F1386F568549D96969.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Demo/Sprites/Happy/A_Running.uasset'
+[2018.09.04-19.33.14:614][856]LogSlate: Window 'A_Running' being destroyed
+[2018.09.04-19.33.14:617][856]LogSlate: Window 'A_Running' being destroyed
+[2018.09.04-19.33.20:957][595]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/OurDude.OurDude
+[2018.09.04-19.33.24:746][964]BlueprintLog: New page: Compile OurDude
+[2018.09.04-19.33.26:398][130]LogSlate: Window 'OurDude*' being destroyed
+[2018.09.04-19.33.26:402][130]LogSlate: Window 'OurDude*' being destroyed
+[2018.09.04-19.33.27:760][284]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.04-19.33.27:784][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.04-19.33.27:784][284]PIE: New page: PIE session: DemoLevel (Sep 5, 2018, 7:33:27 PM)
+[2018.09.04-19.33.27:785][284]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_DemoLevel
+[2018.09.04-19.33.27:786][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001627s)
+[2018.09.04-19.33.27:787][284]LogAIModule: Creating AISystem for world DemoLevel
+[2018.09.04-19.33.27:787][284]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2018.09.04-19.33.27:787][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/DemoLevel.DemoLevel to /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.002776s)
+[2018.09.04-19.33.27:818][284]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.04-19.33.27:824][284]LogInit: FAudioDevice initialized.
+[2018.09.04-19.33.27:832][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-19.33.27:868][284]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.04-19.33.27:869][284]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.09.05-07.33.27
+[2018.09.04-19.33.27:869][284]LogWorld: Bringing up level for play took: 0.000550
+[2018.09.04-19.33.27:883][284]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_DemoLevel 0.971
+[2018.09.04-19.33.37:355][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-19.33.37:382][414]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.04-19.33.37:413][414]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.04-19.33.37:469][416]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.09.04-19.34.22:493][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.04-19.34.22:609][978]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.04-19.34.22:635][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.04-19.34.22:635][978]PIE: New page: PIE session: DemoLevel (Sep 5, 2018, 7:34:22 PM)
+[2018.09.04-19.34.22:635][978]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_DemoLevel
+[2018.09.04-19.34.22:637][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001957s)
+[2018.09.04-19.34.22:638][978]LogAIModule: Creating AISystem for world DemoLevel
+[2018.09.04-19.34.22:638][978]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2018.09.04-19.34.22:638][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/DemoLevel.DemoLevel to /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.002838s)
+[2018.09.04-19.34.22:662][978]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.04-19.34.22:668][978]LogInit: FAudioDevice initialized.
+[2018.09.04-19.34.22:677][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-19.34.22:716][978]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.04-19.34.22:716][978]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.09.05-07.34.22
+[2018.09.04-19.34.22:717][978]LogWorld: Bringing up level for play took: 0.000470
+[2018.09.04-19.34.22:731][978]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_DemoLevel -0.18
+[2018.09.04-19.34.25:570][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-19.34.25:595][311]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.04-19.34.25:626][311]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.04-19.34.25:670][313]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.09.04-19.34.57:304][106]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/OurDude.OurDude
+[2018.09.04-19.35.02:596][659]LogRenderer: Reallocating scene render targets to support 1208x720 Format 10 NumSamples 1 (Frame:193).
+[2018.09.04-19.35.23:924][198]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.04-19.35.23:959][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.04-19.35.23:960][198]PIE: New page: PIE session: DemoLevel (Sep 5, 2018, 7:35:23 PM)
+[2018.09.04-19.35.23:960][198]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_DemoLevel
+[2018.09.04-19.35.23:962][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001915s)
+[2018.09.04-19.35.23:962][198]LogAIModule: Creating AISystem for world DemoLevel
+[2018.09.04-19.35.23:962][198]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2018.09.04-19.35.23:963][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/DemoLevel.DemoLevel to /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.002878s)
+[2018.09.04-19.35.23:988][198]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.04-19.35.23:993][198]LogInit: FAudioDevice initialized.
+[2018.09.04-19.35.24:002][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-19.35.24:038][198]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.04-19.35.24:039][198]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.09.05-07.35.24
+[2018.09.04-19.35.24:039][198]LogWorld: Bringing up level for play took: 0.000672
+[2018.09.04-19.35.24:056][198]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_DemoLevel -0.854
+[2018.09.04-19.35.37:897][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-19.35.37:936][815]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.04-19.35.37:970][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.04-19.35.38:012][816]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.09.04-19.36.13:113][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.04-19.36.13:214][699]LogSlate: Window 'OurDude*' being destroyed
+[2018.09.04-19.36.13:218][699]LogSlate: Window 'OurDude*' being destroyed
+[2018.09.04-19.40.54:624][627]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/OurDude.OurDude
+[2018.09.04-19.41.58:911][ 42]BlueprintLog: New page: Compile OurDude
+[2018.09.04-19.44.27:958][841]BlueprintLog: New page: Compile OurDude
+[2018.09.04-19.44.29:799][ 38]LogSlate: Window 'OurDude*' being destroyed
+[2018.09.04-19.44.29:802][ 38]LogSlate: Window 'OurDude*' being destroyed
+[2018.09.04-19.44.31:553][ 82]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.04-19.44.31:580][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.04-19.44.31:580][ 82]PIE: New page: PIE session: DemoLevel (Sep 5, 2018, 7:44:31 PM)
+[2018.09.04-19.44.31:580][ 82]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_DemoLevel
+[2018.09.04-19.44.31:583][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002762s)
+[2018.09.04-19.44.31:584][ 82]LogAIModule: Creating AISystem for world DemoLevel
+[2018.09.04-19.44.31:584][ 82]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2018.09.04-19.44.31:584][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/DemoLevel.DemoLevel to /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.003669s)
+[2018.09.04-19.44.31:607][ 82]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.04-19.44.31:612][ 82]LogInit: FAudioDevice initialized.
+[2018.09.04-19.44.31:621][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-19.44.31:658][ 82]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.04-19.44.31:659][ 82]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.09.05-07.44.31
+[2018.09.04-19.44.31:659][ 82]LogWorld: Bringing up level for play took: 0.000467
+[2018.09.04-19.44.31:674][ 82]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_DemoLevel 0.778
+[2018.09.04-19.44.38:183][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-19.44.38:209][858]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.04-19.44.38:241][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.04-19.44.38:292][860]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.09.04-19.45.01:460][136]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/OurDude.OurDude
+[2018.09.04-19.45.04:491][442]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/DemoLevel' took 0.024
+[2018.09.04-19.45.04:499][442]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/Blueprint/OurDude] ([1] browsable assets)...
+[2018.09.04-19.45.04:499][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Blueprint/OurDude]
+[2018.09.04-19.45.04:894][442]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/OurDude_Auto164C61FE048F100BF54F05396C1DA85F4.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/Autosaves/Game/Demo/Blueprint/OurDude_Auto1.uasset'
+[2018.09.04-19.45.04:909][442]LogFileHelpers: Auto-saving content packages took 0.417
+[2018.09.04-19.45.21:400][882]LogSlate: Window 'OurDude*' being destroyed
+[2018.09.04-19.45.21:403][882]LogSlate: Window 'OurDude*' being destroyed
+[2018.09.04-19.45.31:975][ 28]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/Demo/Blueprint/CharacterStates.CharacterStates
+[2018.09.04-19.46.08:772][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/CharacterStates" FILE="H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Demo/Blueprint/CharacterStates.uasset" SILENT=true
+[2018.09.04-19.46.08:799][417]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/CharacterStates0DCCE1BD487A02E0E98DEB9550E159D9.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Demo/Blueprint/CharacterStates.uasset'
+[2018.09.04-19.46.10:333][598]LogSlate: Window 'CharacterStates' being destroyed
+[2018.09.04-19.46.10:337][598]LogSlate: Window 'CharacterStates' being destroyed
+[2018.09.04-19.46.12:255][823]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/OurDude.OurDude
+[2018.09.04-19.46.22:836][991]LogSlate: Took 0.001560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.09.04-19.46.51:192][148]BlueprintLog: New page: Compile OurDude
+[2018.09.04-19.46.52:252][250]LogClass: Warning: In asset 'None', there is an enum property of type 'CharacterStates' with an invalid value of ''
+[2018.09.04-19.48.49:124][818]BlueprintLog: New page: Compile OurDude
+[2018.09.04-19.48.52:780][116]LogSlate: Window 'OurDude*' being destroyed
+[2018.09.04-19.48.52:784][116]LogSlate: Window 'OurDude*' being destroyed
+[2018.09.04-19.48.59:688][924]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/Demo/Blueprint/CharacterStates.CharacterStates
+[2018.09.04-19.49.03:227][337]LogSlate: Window 'CharacterStates' being destroyed
+[2018.09.04-19.49.03:231][337]LogSlate: Window 'CharacterStates' being destroyed
+[2018.09.04-19.49.04:824][524]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/OurDude.OurDude
+[2018.09.04-19.55.04:831][621]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/DemoLevel' took 0.022
+[2018.09.04-19.55.04:841][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/Blueprint/OurDude] ([1] browsable assets)...
+[2018.09.04-19.55.04:841][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Blueprint/OurDude]
+[2018.09.04-19.55.05:257][621]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/OurDude_Auto2CA6BF7CB485EC78CD77C04A809C71250.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/Autosaves/Game/Demo/Blueprint/OurDude_Auto2.uasset'
+[2018.09.04-19.55.05:269][621]LogFileHelpers: Auto-saving content packages took 0.437
+[2018.09.04-19.56.20:958][697]Cmd: SELECT NONE
+[2018.09.04-19.58.28:583][118]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.04-19.58.28:615][118]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.04-19.58.28:618][118]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2018.09.04-19.58.28:641][118]LogPlayLevel: PlayLevel: Blueprint regeneration took 26 ms (1 blueprints)
+[2018.09.04-19.58.28:641][118]PIE: New page: PIE session: DemoLevel (Sep 5, 2018, 7:58:28 PM)
+[2018.09.04-19.58.28:641][118]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_DemoLevel
+[2018.09.04-19.58.28:644][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002638s)
+[2018.09.04-19.58.28:645][118]LogAIModule: Creating AISystem for world DemoLevel
+[2018.09.04-19.58.28:645][118]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2018.09.04-19.58.28:645][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/DemoLevel.DemoLevel to /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.003749s)
+[2018.09.04-19.58.28:666][118]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.04-19.58.28:672][118]LogInit: FAudioDevice initialized.
+[2018.09.04-19.58.28:681][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-19.58.28:723][118]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.04-19.58.28:724][118]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.09.05-07.58.28
+[2018.09.04-19.58.28:724][118]LogWorld: Bringing up level for play took: 0.000535
+[2018.09.04-19.58.28:743][118]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_DemoLevel -0.131
+[2018.09.04-19.58.36:489][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-19.58.36:514][916]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.04-19.58.36:541][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.04-19.58.36:594][918]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.09.04-19.58.39:751][289]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.04-19.58.39:780][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.04-19.58.39:780][289]PIE: New page: PIE session: DemoLevel (Sep 5, 2018, 7:58:39 PM)
+[2018.09.04-19.58.39:781][289]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_DemoLevel
+[2018.09.04-19.58.39:784][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002906s)
+[2018.09.04-19.58.39:784][289]LogAIModule: Creating AISystem for world DemoLevel
+[2018.09.04-19.58.39:785][289]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2018.09.04-19.58.39:785][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/DemoLevel.DemoLevel to /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.003950s)
+[2018.09.04-19.58.39:809][289]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.04-19.58.39:814][289]LogInit: FAudioDevice initialized.
+[2018.09.04-19.58.39:823][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-19.58.39:865][289]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.04-19.58.39:866][289]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.09.05-07.58.39
+[2018.09.04-19.58.39:866][289]LogWorld: Bringing up level for play took: 0.000707
+[2018.09.04-19.58.39:884][289]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_DemoLevel 1.01
+[2018.09.04-19.58.45:310][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-19.58.45:335][845]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.04-19.58.45:364][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.04-19.58.45:419][847]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.09.04-20.00.04:512][648]LogSlate: Window 'OurDude*' being destroyed
+[2018.09.04-20.00.04:516][648]LogSlate: Window 'OurDude*' being destroyed
+[2018.09.04-20.00.22:005][714]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Demo/Blueprint/Widget_HUD.Widget_HUD
+[2018.09.04-20.04.57:207][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/Widget_HUD" FILE="H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Demo/Blueprint/Widget_HUD.uasset" SILENT=true
+[2018.09.04-20.04.57:284][385]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/Widget_HUD5EA987B64EB07FACB0D39EA97C254B43.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Demo/Blueprint/Widget_HUD.uasset'
+[2018.09.04-20.05.00:824][595]LogSlate: Window 'Widget_HUD' being destroyed
+[2018.09.04-20.05.00:828][595]LogSlate: Window 'Widget_HUD' being destroyed
+[2018.09.04-20.05.02:363][769]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/OurDude.OurDude
+[2018.09.04-20.05.21:731][  0]BlueprintLog: New page: Compile OurDude
+[2018.09.04-20.05.25:220][391]BlueprintLog: New page: Compile OurDude
+[2018.09.04-20.05.26:621][533]LogSlate: Window 'OurDude*' being destroyed
+[2018.09.04-20.05.26:626][533]LogSlate: Window 'OurDude*' being destroyed
+[2018.09.04-20.05.27:944][679]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Demo/Blueprint/Widget_HUD.Widget_HUD
+[2018.09.04-20.05.34:650][110]LogSlate: Window 'Widget_HUD' being destroyed
+[2018.09.04-20.05.34:656][110]LogSlate: Window 'Widget_HUD' being destroyed
+[2018.09.04-20.05.36:646][341]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/OurDude.OurDude
+[2018.09.04-20.08.15:750][ 76]BlueprintLog: New page: Compile OurDude
+[2018.09.04-20.08.16:701][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/OurDude" FILE="H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Demo/Blueprint/OurDude.uasset" SILENT=true
+[2018.09.04-20.08.17:148][163]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/OurDude2EAF1B8B4351FDC0159E07BB547857B6.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Demo/Blueprint/OurDude.uasset'
+[2018.09.04-20.08.19:399][426]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.04-20.08.19:434][426]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.04-20.08.19:455][426]LogPlayLevel: [PlayLevel] Compiling Widget_HUD before play...
+[2018.09.04-20.08.19:571][426]LogPlayLevel: PlayLevel: Blueprint regeneration took 137 ms (1 blueprints)
+[2018.09.04-20.08.19:572][426]PIE: New page: PIE session: DemoLevel (Sep 5, 2018, 8:08:19 PM)
+[2018.09.04-20.08.19:572][426]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_DemoLevel
+[2018.09.04-20.08.19:574][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002869s)
+[2018.09.04-20.08.19:575][426]LogAIModule: Creating AISystem for world DemoLevel
+[2018.09.04-20.08.19:575][426]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2018.09.04-20.08.19:575][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/DemoLevel.DemoLevel to /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.003945s)
+[2018.09.04-20.08.19:601][426]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.04-20.08.19:606][426]LogInit: FAudioDevice initialized.
+[2018.09.04-20.08.19:615][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-20.08.19:656][426]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.04-20.08.19:657][426]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.09.05-08.08.19
+[2018.09.04-20.08.19:657][426]LogWorld: Bringing up level for play took: 0.000508
+[2018.09.04-20.08.19:675][426]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_DemoLevel 0.813
+[2018.09.04-20.08.25:246][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-20.08.25:270][ 43]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.04-20.08.25:305][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.04-20.08.25:356][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.09.04-20.08.43:510][414]LogSlate: Window 'OurDude' being destroyed
+[2018.09.04-20.08.43:514][414]LogSlate: Window 'OurDude' being destroyed
+[2018.09.04-20.08.45:165][599]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Demo/Blueprint/Widget_HUD.Widget_HUD
+[2018.09.04-20.09.19:185][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/Widget_HUD" FILE="H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Demo/Blueprint/Widget_HUD.uasset" SILENT=true
+[2018.09.04-20.09.19:301][943]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/Widget_HUD6EA4015A48BFD744ADFBDEA59526DC18.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Demo/Blueprint/Widget_HUD.uasset'
+[2018.09.04-20.09.21:479][  5]LogSlate: Window 'Widget_HUD' being destroyed
+[2018.09.04-20.09.21:483][  5]LogSlate: Window 'Widget_HUD' being destroyed
+[2018.09.04-20.09.25:329][458]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Demo/Blueprint/Widget_HUD.Widget_HUD
+[2018.09.04-20.10.29:341][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/Widget_HUD" FILE="H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Demo/Blueprint/Widget_HUD.uasset" SILENT=true
+[2018.09.04-20.10.29:489][943]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/Widget_HUDC176735D4D595C80AD6F2A8E23DA32E8.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Demo/Blueprint/Widget_HUD.uasset'
+[2018.09.04-20.10.29:857][983]BlueprintLog: New page: Compile Widget_HUD
+[2018.09.04-20.10.31:467][157]LogSlate: Window 'Widget_HUD' being destroyed
+[2018.09.04-20.10.31:471][157]LogSlate: Window 'Widget_HUD' being destroyed
+[2018.09.04-20.10.32:820][313]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.04-20.10.32:857][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.04-20.10.32:858][313]PIE: New page: PIE session: DemoLevel (Sep 5, 2018, 8:10:32 PM)
+[2018.09.04-20.10.32:858][313]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_DemoLevel
+[2018.09.04-20.10.32:861][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003382s)
+[2018.09.04-20.10.32:862][313]LogAIModule: Creating AISystem for world DemoLevel
+[2018.09.04-20.10.32:862][313]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2018.09.04-20.10.32:862][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/DemoLevel.DemoLevel to /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.004729s)
+[2018.09.04-20.10.32:885][313]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.04-20.10.32:891][313]LogInit: FAudioDevice initialized.
+[2018.09.04-20.10.32:900][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-20.10.32:934][313]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.04-20.10.32:935][313]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.09.05-08.10.32
+[2018.09.04-20.10.32:935][313]LogWorld: Bringing up level for play took: 0.000533
+[2018.09.04-20.10.32:953][313]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_DemoLevel 0.094
+[2018.09.04-20.10.37:353][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-20.10.37:378][832]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.04-20.10.37:411][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.04-20.10.37:463][834]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.09.04-20.10.39:163][ 36]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Demo/Blueprint/Widget_HUD.Widget_HUD
+[2018.09.04-20.10.50:199][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/Widget_HUD" FILE="H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Demo/Blueprint/Widget_HUD.uasset" SILENT=true
+[2018.09.04-20.10.50:332][859]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/Widget_HUD0235E0094A02EC87319451B43891F076.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Content/Demo/Blueprint/Widget_HUD.uasset'
+[2018.09.04-20.10.50:787][893]BlueprintLog: New page: Compile Widget_HUD
+[2018.09.04-20.10.52:157][988]LogSlate: Window 'Widget_HUD' being destroyed
+[2018.09.04-20.10.52:161][988]LogSlate: Window 'Widget_HUD' being destroyed
+[2018.09.04-20.10.53:345][124]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.04-20.10.53:369][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.04-20.10.53:370][124]PIE: New page: PIE session: DemoLevel (Sep 5, 2018, 8:10:53 PM)
+[2018.09.04-20.10.53:370][124]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_DemoLevel
+[2018.09.04-20.10.53:372][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002133s)
+[2018.09.04-20.10.53:373][124]LogAIModule: Creating AISystem for world DemoLevel
+[2018.09.04-20.10.53:373][124]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2018.09.04-20.10.53:373][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/DemoLevel.DemoLevel to /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.003220s)
+[2018.09.04-20.10.53:397][124]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.04-20.10.53:403][124]LogInit: FAudioDevice initialized.
+[2018.09.04-20.10.53:411][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-20.10.53:449][124]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.04-20.10.53:450][124]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.09.05-08.10.53
+[2018.09.04-20.10.53:450][124]LogWorld: Bringing up level for play took: 0.000556
+[2018.09.04-20.10.53:466][124]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_DemoLevel 0.608
+[2018.09.04-20.10.55:461][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-20.10.55:487][357]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.04-20.10.55:520][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.04-20.10.55:573][359]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.09.04-20.11.01:492][481]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/OurDude.OurDude
+[2018.09.04-20.12.10:348][458]BlueprintLog: New page: Compile OurDude
+[2018.09.04-20.12.57:903][905]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/DemoLevel' took 0.022
+[2018.09.04-20.12.57:913][905]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/Blueprint/OurDude] ([1] browsable assets)...
+[2018.09.04-20.12.57:913][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Blueprint/OurDude]
+[2018.09.04-20.12.58:368][905]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/OurDude_Auto3B06C001B46AFBB529285BA9077BFF290.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/Autosaves/Game/Demo/Blueprint/OurDude_Auto3.uasset'
+[2018.09.04-20.12.58:380][905]LogFileHelpers: Auto-saving content packages took 0.476
+[2018.09.04-20.19.36:949][507]BlueprintLog: New page: Compile OurDude
+[2018.09.04-20.19.37:924][593]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.04-20.19.37:958][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.04-20.19.37:958][593]PIE: New page: PIE session: DemoLevel (Sep 5, 2018, 8:19:37 PM)
+[2018.09.04-20.19.37:958][593]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_DemoLevel
+[2018.09.04-20.19.37:960][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002597s)
+[2018.09.04-20.19.37:961][593]LogAIModule: Creating AISystem for world DemoLevel
+[2018.09.04-20.19.37:961][593]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2018.09.04-20.19.37:961][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/DemoLevel.DemoLevel to /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.003706s)
+[2018.09.04-20.19.37:988][593]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.04-20.19.37:994][593]LogInit: FAudioDevice initialized.
+[2018.09.04-20.19.38:003][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-20.19.38:044][593]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.04-20.19.38:045][593]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.09.05-08.19.38
+[2018.09.04-20.19.38:045][593]LogWorld: Bringing up level for play took: 0.000530
+[2018.09.04-20.19.38:062][593]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_DemoLevel -0.785
+[2018.09.04-20.19.55:274][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-20.19.55:302][546]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.04-20.19.55:332][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.04-20.19.55:614][547]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.09.04-20.24.08:191][255]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/DemoLevel' took 0.020
+[2018.09.04-20.24.08:200][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/Blueprint/OurDude] ([1] browsable assets)...
+[2018.09.04-20.24.08:201][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Blueprint/OurDude]
+[2018.09.04-20.24.08:739][255]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/OurDude_Auto4F375FC2F47CBD2078BCBC188635D96CC.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/Autosaves/Game/Demo/Blueprint/OurDude_Auto4.uasset'
+[2018.09.04-20.24.08:753][255]LogFileHelpers: Auto-saving content packages took 0.561
+[2018.09.04-20.31.43:696][537]LogEditorTransaction: Undo Move Node
+[2018.09.04-20.34.08:997][794]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/DemoLevel' took 0.021
+[2018.09.04-20.34.09:005][794]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/Blueprint/OurDude] ([1] browsable assets)...
+[2018.09.04-20.34.09:005][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Blueprint/OurDude]
+[2018.09.04-20.34.09:566][794]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/OurDude_Auto5511633134075B7D8069026A8DE5B007A.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/Autosaves/Game/Demo/Blueprint/OurDude_Auto5.uasset'
+[2018.09.04-20.34.09:585][794]LogFileHelpers: Auto-saving content packages took 0.588
+[2018.09.04-20.43.33:680][ 92]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.04-20.43.33:726][ 92]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.04-20.43.33:760][ 92]LogPlayLevel: [PlayLevel] Compiling OurDude before play...
+[2018.09.04-20.43.33:909][ 92]LogPlayLevel: PlayLevel: Blueprint regeneration took 181 ms (1 blueprints)
+[2018.09.04-20.43.33:909][ 92]PIE: New page: PIE session: DemoLevel (Sep 5, 2018, 8:43:33 PM)
+[2018.09.04-20.43.33:909][ 92]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_DemoLevel
+[2018.09.04-20.43.33:911][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002665s)
+[2018.09.04-20.43.33:912][ 92]LogAIModule: Creating AISystem for world DemoLevel
+[2018.09.04-20.43.33:912][ 92]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2018.09.04-20.43.33:912][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/DemoLevel.DemoLevel to /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.003895s)
+[2018.09.04-20.43.33:934][ 92]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.04-20.43.33:941][ 92]LogInit: FAudioDevice initialized.
+[2018.09.04-20.43.33:950][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-20.43.33:989][ 92]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.04-20.43.33:990][ 92]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.09.05-08.43.33
+[2018.09.04-20.43.33:990][ 92]LogWorld: Bringing up level for play took: 0.000636
+[2018.09.04-20.43.34:006][ 92]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_DemoLevel 1.19
+[2018.09.04-20.43.37:898][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-20.43.37:925][505]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.04-20.43.37:956][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.04-20.43.38:001][506]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.09.04-20.44.32:500][996]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/DemoLevel' took 0.021
+[2018.09.04-20.44.32:512][996]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/Blueprint/OurDude] ([1] browsable assets)...
+[2018.09.04-20.44.32:512][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Blueprint/OurDude]
+[2018.09.04-20.44.34:206][996]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/OurDude_Auto602A7C8184F7DD6AC702434AD3D67CD2A.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/Autosaves/Game/Demo/Blueprint/OurDude_Auto6.uasset'
+[2018.09.04-20.44.34:219][996]LogFileHelpers: Auto-saving content packages took 1.718
+[2018.09.04-20.48.00:066][744]BlueprintLog: New page: Compile OurDude
+[2018.09.04-20.48.01:115][843]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.04-20.48.01:152][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.04-20.48.01:152][843]PIE: New page: PIE session: DemoLevel (Sep 5, 2018, 8:48:01 PM)
+[2018.09.04-20.48.01:152][843]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_DemoLevel
+[2018.09.04-20.48.01:155][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002686s)
+[2018.09.04-20.48.01:155][843]LogAIModule: Creating AISystem for world DemoLevel
+[2018.09.04-20.48.01:156][843]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2018.09.04-20.48.01:156][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/DemoLevel.DemoLevel to /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.003778s)
+[2018.09.04-20.48.01:178][843]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.04-20.48.01:182][843]LogInit: FAudioDevice initialized.
+[2018.09.04-20.48.01:191][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-20.48.01:236][843]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.04-20.48.01:237][843]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.09.05-08.48.01
+[2018.09.04-20.48.01:237][843]LogWorld: Bringing up level for play took: 0.000455
+[2018.09.04-20.48.01:255][843]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_DemoLevel 0.441
+[2018.09.04-20.48.08:432][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-20.48.08:459][658]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.04-20.48.08:493][658]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.04-20.48.08:544][659]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.09.04-20.54.41:819][176]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/DemoLevel' took 0.025
+[2018.09.04-20.54.41:829][176]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/Blueprint/OurDude] ([1] browsable assets)...
+[2018.09.04-20.54.41:829][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Blueprint/OurDude]
+[2018.09.04-20.54.42:338][176]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/OurDude_Auto7F903E246453519E6600E13A50C614C63.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/Autosaves/Game/Demo/Blueprint/OurDude_Auto7.uasset'
+[2018.09.04-20.54.42:350][176]LogFileHelpers: Auto-saving content packages took 0.530
+[2018.09.04-21.05.26:817][555]BlueprintLog: New page: Compile OurDude
+[2018.09.04-21.06.08:229][626]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/DemoLevel' took 0.025
+[2018.09.04-21.06.08:239][626]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/Blueprint/OurDude] ([1] browsable assets)...
+[2018.09.04-21.06.08:239][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Blueprint/OurDude]
+[2018.09.04-21.06.08:865][626]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/OurDude_Auto87DF5F4ED47CEF4142F397A9268872817.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/GrabCharacter/Saved/Autosaves/Game/Demo/Blueprint/OurDude_Auto8.uasset'
+[2018.09.04-21.06.08:878][626]LogFileHelpers: Auto-saving content packages took 0.649
+[2018.09.04-21.14.47:253][ 29]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.04-21.14.47:284][ 29]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.04-21.14.47:315][ 29]LogPlayLevel: [PlayLevel] Compiling OurDude before play...
+[2018.09.04-21.14.47:461][ 29]LogPlayLevel: PlayLevel: Blueprint regeneration took 177 ms (1 blueprints)
+[2018.09.04-21.14.47:461][ 29]PIE: New page: PIE session: DemoLevel (Sep 5, 2018, 9:14:47 PM)
+[2018.09.04-21.14.47:461][ 29]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_DemoLevel
+[2018.09.04-21.14.47:464][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002744s)
+[2018.09.04-21.14.47:465][ 29]LogAIModule: Creating AISystem for world DemoLevel
+[2018.09.04-21.14.47:465][ 29]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2018.09.04-21.14.47:465][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/DemoLevel.DemoLevel to /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.003950s)
+[2018.09.04-21.14.47:487][ 29]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.04-21.14.47:492][ 29]LogInit: FAudioDevice initialized.
+[2018.09.04-21.14.47:502][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-21.14.47:543][ 29]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.04-21.14.47:544][ 29]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.09.05-09.14.47
+[2018.09.04-21.14.47:544][ 29]LogWorld: Bringing up level for play took: 0.000664
+[2018.09.04-21.14.47:561][ 29]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_DemoLevel 0.765
+[2018.09.04-21.15.03:806][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.04-21.15.03:839][843]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.04-21.15.03:870][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.04-21.15.03:919][844]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.09.04-21.16.42:020][994]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{f1fe5f97-bfaf-4619-a64a-6ade9ab22f1d} was removed. Shutting down audio device.
