@@ -1,0 +1,922 @@
+﻿Log file open, 10/03/18 09:55:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GrabCharacter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.685279
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.922s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Users/James.joh7359/Documents/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.073s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.02-20.55.22:898][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.02-20.55.22:898][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.02-20.55.22:935][  0]LogHAL: Display: Platform has ~ 32 GB [34317541376 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.02-20.55.22:951][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.02-20.55.22:951][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.02-20.55.22:994][  0]LogInit: Computer: 1806C017
+[2018.10.02-20.55.22:994][  0]LogInit: User: EthanHop7668
+[2018.10.02-20.55.22:994][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.02-20.55.22:994][  0]LogInit: High frequency timer resolution =3.515627 MHz
+[2018.10.02-20.55.22:994][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.10.02-20.55.22:994][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.02-20.55.22:994][  0]LogMemory: Process Physical Memory: 103.14 MB used, 103.14 MB peak
+[2018.10.02-20.55.22:994][  0]LogMemory: Process Virtual Memory: 88.64 MB used, 88.64 MB peak
+[2018.10.02-20.55.22:994][  0]LogMemory: Physical Memory: 9041.98 MB used,  23685.78 MB free, 32727.76 MB total
+[2018.10.02-20.55.22:994][  0]LogMemory: Virtual Memory: 547.58 MB used,  23685.78 MB free, 134217728.00 MB total
+[2018.10.02-20.55.23:379][  0]LogInit: Using OS detected language (en-US).
+[2018.10.02-20.55.23:379][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.02-20.55.23:390][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.02-20.55.23:824][  0]LogStreaming: Display: Took  0.440s to InitEngineTextLocalization.
+[2018.10.02-20.55.23:838][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.02-20.55.24:148][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.02-20.55.24:148][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.02-20.55.24:437][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.02-20.55.24:437][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.02-20.55.24:487][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.10.02-20.55.24:487][  0]LogD3D11RHI:       8086/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.02-20.55.24:491][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.02-20.55.24:491][  0]LogD3D11RHI:       0/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.02-20.55.24:491][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.02-20.55.24:498][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.02-20.55.24:498][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.02-20.55.24:499][  0]LogWindows: EnumDisplayDevices:
+[2018.10.02-20.55.24:499][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.10.02-20.55.24:499][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.10.02-20.55.24:499][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.02-20.55.24:499][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.02-20.55.24:500][  0]LogWindows:    4. 'Mirage Driver' (P:0 D:0)
+[2018.10.02-20.55.24:500][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.10.02-20.55.24:500][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.10.02-20.55.24:508][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.10.02-20.55.24:508][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.10.02-20.55.24:508][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.10.02-20.55.24:537][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.02-20.55.24:784][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.10.02-20.55.24:922][  0]LogShaderCompilers: Guid format shader working directory is -45 characters bigger than the processId version (H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Intermediate/Shaders/WorkingDirectory/7712/).
+[2018.10.02-20.55.24:922][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Users/Ethan.Hop7668/AppData/Local/Temp/UnrealShaderWorkingDir/B9B906CD4DF7D34D0AF7958DB7A5C58F/'.
+[2018.10.02-20.55.26:596][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.02-20.55.26:629][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.02-20.55.26:657][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.02-20.55.26:684][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.02-20.55.26:715][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.02-20.55.26:760][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.02-20.55.26:788][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.02-20.55.26:821][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.02-20.55.26:841][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.02-20.55.26:963][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-20.55.26:963][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-20.55.26:963][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-20.55.26:963][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-20.55.26:963][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-20.55.26:963][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-20.55.26:963][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-20.55.26:963][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-20.55.26:963][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-20.55.26:963][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-20.55.26:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-20.55.26:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-20.55.26:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-20.55.26:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-20.55.26:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-20.55.26:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-20.55.26:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-20.55.26:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-20.55.26:978][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.02-20.55.27:078][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.02-20.55.27:078][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.02-20.55.27:120][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.02-20.55.27:120][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.02-20.55.27:144][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.02-20.55.27:171][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.02-20.55.27:187][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.02-20.55.27:215][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.02-20.55.27:237][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.02-20.55.27:237][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.02-20.55.27:676][  0]LogXGEController: Cleaning working directory: D:/Users/Ethan.Hop7668/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.02-20.55.27:677][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.02-20.55.27:677][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.02-20.55.27:681][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.02-20.55.28:789][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.02-20.55.28:789][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2018.10.02-20.55.28:790][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.02-20.55.28:790][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.02-20.55.28:791][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.02-20.55.28:791][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.02-20.55.28:816][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.02-20.55.28:828][  0]LogDerivedDataCache: Using Local data cache path D:/Users/Ethan.Hop7668/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.02-20.55.28:828][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.02-20.55.28:828][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.02-20.55.28:932][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.02-20.55.28:990][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.02-20.55.29:017][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.02-20.55.29:202][  0]LogAssetRegistry: FAssetRegistry took 0.0304 seconds to start up
+[2018.10.02-20.55.33:921][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.02-20.55.34:908][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.02-20.55.34:998][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.02-20.55.34:999][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.02-20.55.34:999][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.02-20.55.34:999][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.02-20.55.35:744][  0]LogNetVersion: GrabCharacter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1405580293)
+[2018.10.02-20.55.39:846][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.664827 seconds
+[2018.10.02-20.55.39:924][  0]LogUObjectArray: 38447 objects as part of root set at end of initial load.
+[2018.10.02-20.55.39:924][  0]LogUObjectAllocator: 6692632 out of 0 bytes used by permanent object pool.
+[2018.10.02-20.55.39:924][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.02-20.55.42:786][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.02-20.55.42:816][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.02-20.55.42:832][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.02-20.55.42:842][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.02-20.55.42:842][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/', and we were unable to create a new request.
+[2018.10.02-20.55.43:868][  0]SourceControl: Source control is disabled
+[2018.10.02-20.55.43:868][  0]SourceControl: Source control is disabled
+[2018.10.02-20.55.43:935][  0]SourceControl: Source control is disabled
+[2018.10.02-20.55.43:948][  0]SourceControl: Source control is disabled
+[2018.10.02-20.55.44:895][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.02-20.55.45:018][  0]LogOcInput: OculusInput pre-init called
+[2018.10.02-20.55.45:598][  0]LogEngine: Initializing Engine...
+[2018.10.02-20.55.45:652][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.02-20.55.45:685][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.02-20.55.45:685][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.02-20.55.45:686][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.002 s
+[2018.10.02-20.55.45:686][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.02-20.55.46:312][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.02-20.55.46:780][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.02-20.55.46:935][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.02-20.55.46:970][  0]LogInit: FAudioDevice initialized.
+[2018.10.02-20.55.46:982][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.02-20.55.47:091][  0]LogDerivedDataCache: Saved boot cache 0.11s 87MB D:/Users/Ethan.Hop7668/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.02-20.55.47:092][  0]LogInit: Texture streaming: Enabled
+[2018.10.02-20.55.47:303][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.02-20.55.47:515][  0]LogInit: Transaction tracking system initialized
+[2018.10.02-20.55.47:839][  0]BlueprintLog: New page: Editor Load
+[2018.10.02-20.55.48:731][  0]LocalizationService: Localization service is disabled
+[2018.10.02-20.55.50:258][  0]LogFileCache: Scanning file cache for directory 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/' took 0.06s
+[2018.10.02-20.55.50:259][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.02-20.55.50:259][  0]LogCook: Display: Mobile HDR setting 0
+[2018.10.02-20.55.50:277][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.02-20.55.50:279][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.02-20.55.50:279][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.02-20.55.50:279][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.02-20.55.50:279][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.02-20.55.51:509][  0]SourceControl: Source control is disabled
+[2018.10.02-20.55.51:546][  0]Cmd: MAP LOAD FILE="H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/EthansStuff/Maps/test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.02-20.55.51:561][  0]LightingResults: New page: Lighting Build
+[2018.10.02-20.55.51:852][  0]MapCheck: New page: Map Check
+[2018.10.02-20.55.51:852][  0]LightingResults: New page: Lighting Build
+[2018.10.02-20.55.54:471][  0]LogTexture: Display: Building textures: Happy_jump1 (BGRA8, 30X30)
+[2018.10.02-20.55.54:471][  0]LogTexture: Display: Building textures: Happy_mask (BGRA8, 30X30)
+[2018.10.02-20.55.54:471][  0]LogTexture: Display: Building textures: rocket_launcher (BGRA8, 30X30)
+[2018.10.02-20.55.54:471][  0]LogTexture: Display: Building textures: Rock (AutoDXT, 1024X1024)
+[2018.10.02-20.55.54:472][  0]LogTexture: Display: Building textures: low_rock_lambert1_Normal (BC5, 1024X1024)
+[2018.10.02-20.55.54:472][  0]LogTexture: Display: Building textures: death_mark (BGRA8, 50X50)
+[2018.10.02-20.55.54:472][  0]LogMaterial: Display: Missing cached shader map for material Rock, compiling. 
+[2018.10.02-20.55.54:728][  0]LogTexture: Display: Building textures: backarrow (BGRA8, 279X144)
+[2018.10.02-20.55.54:729][  0]LogTexture: Display: Building textures: win_screen_happy (BGRA8, 1280X719)
+[2018.10.02-20.55.54:729][  0]LogTexture: Display: Building textures: win_screen_hockey (BGRA8, 1280X719)
+[2018.10.02-20.55.54:729][  0]LogTexture: Display: Building textures: Happy_jump4 (BGRA8, 30X30)
+[2018.10.02-20.55.54:729][  0]LogTexture: Display: Building textures: Happy_jump2 (BGRA8, 30X30)
+[2018.10.02-20.55.54:729][  0]LogTexture: Display: Building textures: Happy_jump3 (BGRA8, 30X30)
+[2018.10.02-20.55.54:729][  0]LogTexture: Display: Building textures: Running_4 (BGRA8, 30X30)
+[2018.10.02-20.55.54:729][  0]LogTexture: Display: Building textures: Diff_bullet (AutoDXT, 1024X1024)
+[2018.10.02-20.55.54:729][  0]LogTexture: Display: Building textures: Running_3 (BGRA8, 30X30)
+[2018.10.02-20.55.54:729][  0]LogTexture: Display: Building textures: Running_2 (BGRA8, 30X30)
+[2018.10.02-20.55.54:729][  0]LogStaticMesh: Building static mesh Rock...
+[2018.10.02-20.55.55:070][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.02-20.55.55:070][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.02-20.55.55:070][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.02-20.55.55:070][  0]LogStaticMesh: Built static mesh [0.34s] /Game/Mesh/Rock.Rock
+[2018.10.02-20.55.55:304][  0]LogStaticMesh: Building static mesh Gun...
+[2018.10.02-20.55.55:304][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Gun.Gun
+[2018.10.02-20.55.55:306][  0]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.10.02-20.55.55:317][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.02-20.55.55:317][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.02-20.55.55:317][  0]LogStaticMesh: Building static mesh PaperTest...
+[2018.10.02-20.55.55:320][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Material/PaperTest.PaperTest
+[2018.10.02-20.55.55:333][  0]LogMaterial: Display: Missing cached shader map for material M_Rocket, compiling. 
+[2018.10.02-20.55.55:844][  0]LogStaticMesh: Building static mesh DeskTest...
+[2018.10.02-20.55.55:844][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Material/DeskTest.DeskTest
+[2018.10.02-20.55.55:967][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave proto4_2...
+[2018.10.02-20.55.56:175][  0]LogTemp: Couldn't find amount to resample to.
+[2018.10.02-20.55.57:687][  0]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.02-20.55.57:690][  0]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.10.02-20.55.57:710][  0]LogStaticMesh: Building static mesh bulleh...
+[2018.10.02-20.55.57:723][  0]LogStaticMesh: Built static mesh [0.01s] /Game/EthansStuff/bulleh.bulleh
+[2018.10.02-20.55.57:781][  0]LogMaterial: Display: Missing cached shader map for material Bullet1, compiling. 
+[2018.10.02-20.55.57:863][  0]LogAIModule: Creating AISystem for world test
+[2018.10.02-20.55.58:625][  0]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.10.02-20.55.58:625][  0]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.10.02-20.55.58:625][  0]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.10.02-20.55.58:625][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.02-20.55.59:022][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.02-20.55.59:160][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 138.083ms to complete.
+[2018.10.02-20.55.59:161][  0]LogFileHelpers: Loading map 'test' took 7.640
+[2018.10.02-20.56.00:171][  0]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.10.02-20.56.00:171][  0]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.02-20.56.00:807][  0]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.02-20.56.00:807][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.02-20.56.00:825][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.02-20.56.00:835][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.02-20.56.00:846][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.02-20.56.00:911][  0]LogCollectionManager: Loaded 0 collections in 0.002326 seconds
+[2018.10.02-20.56.01:038][  0]LogFileCache: Scanning file cache for directory 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Collections/' took 0.01s
+[2018.10.02-20.56.01:038][  0]LogFileCache: Scanning file cache for directory 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Developers/EthanHop7668/Collections/' took 0.01s
+[2018.10.02-20.56.01:038][  0]LogFileCache: Scanning file cache for directory 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Collections/' took 0.01s
+[2018.10.02-20.56.01:038][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.02-20.56.01:053][  0]LogContentBrowser: Native class hierarchy populated in 0.0133 seconds. Added 2572 classes and 603 folders.
+[2018.10.02-20.56.01:192][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.02-20.56.01:268][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.02-20.56.01:305][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.10.02-20.56.01:771][  0]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.02-20.56.01:771][  0]LogSlate: Took 0.012652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.02-20.56.01:807][  0]LogSlate: Took 0.012179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.02-20.56.01:842][  0]LogSlate: Took 0.010044 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.02-20.56.02:243][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2018.10.02-20.56.02:674][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.02-20.56.02:721][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.10.02-20.56.02:804][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.02-20.56.02:804][  0]LogLoad: (Engine Initialization) Total time: 48.39 seconds
+[2018.10.02-20.56.02:804][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.02-20.56.03:020][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.02-20.56.03:020][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Developers/EthanHop7668/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.02-20.56.03:020][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.02-20.56.03:161][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.02-20.56.03:394][  0]LogSlate: Took 0.006569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.02-20.56.03:579][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.02-20.56.03:580][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Collections/', and we were unable to create a new request.
+[2018.10.02-20.56.03:580][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Developers/EthanHop7668/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.02-20.56.03:580][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Developers/EthanHop7668/Collections/', and we were unable to create a new request.
+[2018.10.02-20.56.03:580][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.02-20.56.03:581][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Collections/', and we were unable to create a new request.
+[2018.10.02-20.56.03:746][  3]LogAssetRegistry: Asset discovery search completed in 34.5676 seconds
+[2018.10.02-20.56.03:748][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.02-20.56.03:748][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2018.10.02-21.03.17:790][216]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.02-21.03.19:068][362]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.02-21.03.23:947][362]LogSlate: Window 'New Level' being destroyed
+[2018.10.02-21.03.23:998][362]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.02-21.03.24:008][362]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.02-21.03.24:021][362]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.02-21.03.24:028][362]LightingResults: New page: Lighting Build
+[2018.10.02-21.03.24:029][362]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.10.02-21.03.24:181][362]MapCheck: New page: Map Check
+[2018.10.02-21.03.24:181][362]LightingResults: New page: Lighting Build
+[2018.10.02-21.03.24:432][362]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.02-21.03.24:516][362]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.02-21.03.24:583][362]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.02-21.03.24:757][362]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 173.641ms to complete.
+[2018.10.02-21.03.24:757][362]LogFileHelpers: Loading map 'Template_Default' took 0.792
+[2018.10.02-21.03.32:834][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.02-21.05.08:059][698]LogSlate: Window 'Save Level As' being destroyed
+[2018.10.02-21.05.08:361][698]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.02-21.05.08:784][698]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/NewMapB633781146D9CFD66A48BBB09BBC735C.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/NewMap.umap'
+[2018.10.02-21.05.09:046][698]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/NewMap_BuiltData4385972443F8454CD4F4AE8126E65BF4.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/NewMap_BuiltData.uasset'
+[2018.10.02-21.05.09:086][698]LogFileHelpers: Saving map 'NewMap' took 0.917
+[2018.10.02-21.05.11:505][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.02-21.05.12:036][996]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/NewMapB469AC224AEAB8B47F2343A7129C0EDF.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/NewMap.umap'
+[2018.10.02-21.05.12:353][996]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/NewMap_BuiltData285DD974422ACAE279596083DB62E756.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/NewMap_BuiltData.uasset'
+[2018.10.02-21.05.15:081][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.02-21.05.26:201][791]LogSlate: Window 'Save Level As' being destroyed
+[2018.10.02-21.05.26:577][791]LogAIModule: Creating AISystem for world ReadyUp
+[2018.10.02-21.05.26:839][791]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpAEDDD7094959F22420E4B788430AB2E4.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUp.umap'
+[2018.10.02-21.05.26:976][791]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUp_BuiltDataEA5BFDA64BF89660A826BEBB4F676099.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUp_BuiltData.uasset'
+[2018.10.02-21.05.27:000][791]LogFileHelpers: Saving map 'ReadyUp' took 0.793
+[2018.10.02-21.05.27:001][791]Cmd: MAP LOAD FILE="H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUp.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.02-21.05.27:011][791]LightingResults: New page: Lighting Build
+[2018.10.02-21.05.27:012][791]LoadErrors: New page: Loading map: ReadyUp.umap
+[2018.10.02-21.05.27:013][791]MapCheck: New page: Map Check
+[2018.10.02-21.05.27:013][791]LightingResults: New page: Lighting Build
+[2018.10.02-21.05.27:080][791]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.02-21.05.27:173][791]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.02-21.05.27:276][791]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 103.043ms to complete.
+[2018.10.02-21.05.27:276][791]LogFileHelpers: Loading map 'ReadyUp' took 0.276
+[2018.10.02-21.06.13:924][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.02-21.06.14:392][924]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.02-21.06.26:394][320]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.02-21.06.29:266][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.02-21.06.37:123][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.02-21.19.23:420][628]LogMetaData: Removing '/Game/ReadyUp/ReadyUpWidget.SKEL_ReadyUpWidget_C' ref from Metadata '/Game/ReadyUp/NewWidgetBlueprint.PackageMetaData'
+[2018.10.02-21.19.23:421][628]LogMetaData: Removing '/Game/ReadyUp/ReadyUpWidget.ReadyUpWidget_C' ref from Metadata '/Game/ReadyUp/NewWidgetBlueprint.PackageMetaData'
+[2018.10.02-21.19.23:421][628]LogMetaData: Removing '/Game/ReadyUp/ReadyUpWidget.ReadyUpWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ReadyUp/NewWidgetBlueprint.PackageMetaData'
+[2018.10.02-21.19.23:421][628]LogMetaData: Removing '/Game/ReadyUp/ReadyUpWidget.ReadyUpWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ReadyUp/NewWidgetBlueprint.PackageMetaData'
+[2018.10.02-21.19.23:421][628]LogMetaData: Removing '/Game/ReadyUp/ReadyUpWidget.ReadyUpWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ReadyUp/NewWidgetBlueprint.PackageMetaData'
+[2018.10.02-21.19.23:563][628]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidget486580DF4F4C006629CA53A162AD1AEE.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUpWidget.uasset'
+[2018.10.02-21.19.24:722][733]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ReadyUp/ReadyUpWidget.ReadyUpWidget
+[2018.10.02-21.19.25:512][733]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0032 seconds. Added 116 classes and 0 folders.
+[2018.10.02-21.19.27:177][733]LogSlate: Took 0.008008 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.02-21.22.16:113][153]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.02-21.22.46:974][301]LogEditorTransaction: Undo Add Widget
+[2018.10.02-21.25.06:277][175]LogSlate: Window 'Save Asset As' being destroyed
+[2018.10.02-21.25.08:811][245]LogSlate: Window 'Save Asset As' being destroyed
+[2018.10.02-21.25.18:770][852]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.02-21.25.36:777][ 25]LogEditorTransaction: Undo Add Widget
+[2018.10.02-21.27.28:811][677]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ReadyUp/ReadyUp' took 0.078
+[2018.10.02-21.27.28:824][677]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ReadyUp/ReadyUpWidget] ([1] browsable assets)...
+[2018.10.02-21.27.28:824][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/ReadyUp/ReadyUpWidget]
+[2018.10.02-21.27.29:028][677]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidget_Auto18D8793A54ADAFFB13238A4A236FFDA13.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Autosaves/Game/ReadyUp/ReadyUpWidget_Auto1.uasset'
+[2018.10.02-21.27.29:039][677]LogFileHelpers: Auto-saving content packages took 0.227
+[2018.10.02-21.36.55:297][517]LogSlate: Window 'ReadyUpWidget*' being destroyed
+[2018.10.02-21.36.55:300][517]LogSlate: Window 'ReadyUpWidget*' being destroyed
+[2018.10.02-21.36.57:035][697]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ReadyUp/ReadyUpWidget.ReadyUpWidget
+[2018.10.02-21.37.18:662][273]LogEditorTransaction: Undo Edit Text
+[2018.10.02-21.37.19:602][326]LogEditorTransaction: Undo Add Widget
+[2018.10.02-21.38.50:986][737]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ReadyUp/ReadyUp' took 0.035
+[2018.10.02-21.38.50:994][737]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ReadyUp/ReadyUpWidget] ([1] browsable assets)...
+[2018.10.02-21.38.50:994][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/ReadyUp/ReadyUpWidget]
+[2018.10.02-21.38.51:226][737]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidget_Auto252DE241049659127E636349066FCA3B6.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Autosaves/Game/ReadyUp/ReadyUpWidget_Auto2.uasset'
+[2018.10.02-21.38.51:238][737]LogFileHelpers: Auto-saving content packages took 0.250
+[2018.10.02-21.38.51:446][749]Cmd: TRANSACTION UNDO
+[2018.10.02-21.38.51:446][749]LogEditorTransaction: Undo Move Widget
+[2018.10.02-21.44.52:974][910]LogEditorTransaction: Undo Move Widget
+[2018.10.02-21.45.00:067][314]LogEditorTransaction: Undo Move Widget
+[2018.10.02-21.49.01:117][118]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ReadyUp/ReadyUp' took 0.025
+[2018.10.02-21.49.01:126][118]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ReadyUp/ReadyUpWidget] ([1] browsable assets)...
+[2018.10.02-21.49.01:126][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/ReadyUp/ReadyUpWidget]
+[2018.10.02-21.49.01:370][118]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidget_Auto3B0F544CB4464DD1B359012A2483AF35C.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Autosaves/Game/ReadyUp/ReadyUpWidget_Auto3.uasset'
+[2018.10.02-21.49.01:380][118]LogFileHelpers: Auto-saving content packages took 0.261
+[2018.10.02-21.52.29:860][839]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidgetBC17D47C44A0E884BA650B9AC12894A9.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUpWidget.uasset'
+[2018.10.02-21.52.33:012][ 31]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidget39A45C274FBD7675389936AA02445006.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUpWidget.uasset'
+[2018.10.02-22.00.21:250][404]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidget7B68F2524871B09CF4DCEB9A5E8356DB.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUpWidget.uasset'
+[2018.10.02-22.00.23:216][568]LogSlate: Window 'ReadyUpWidget' being destroyed
+[2018.10.02-22.00.23:220][568]LogSlate: Window 'ReadyUpWidget' being destroyed
+[2018.10.02-22.01.24:118][564]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.02-22.02.22:819][597]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ReadyUp/PlayerVariables.PlayerVariables
+[2018.10.02-22.03.24:215][880]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ReadyUp/ReadyUp' took 0.042
+[2018.10.02-22.03.24:222][880]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ReadyUp/PlayerVariables] ([1] browsable assets)...
+[2018.10.02-22.03.24:222][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/ReadyUp/PlayerVariables]
+[2018.10.02-22.03.24:285][880]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/PlayerVariables_Auto4A63363A447C9FD8140D4C48A17DDDAE7.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Autosaves/Game/ReadyUp/PlayerVariables_Auto4.uasset'
+[2018.10.02-22.03.24:296][880]LogFileHelpers: Auto-saving content packages took 0.080
+[2018.10.02-22.04.27:461][315]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/PlayerVariables19CA76FB46689C559FEBD29BF159E7F6.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/PlayerVariables.uasset'
+[2018.10.02-22.04.28:848][478]LogSlate: Window 'PlayerVariables' being destroyed
+[2018.10.02-22.04.28:853][478]LogSlate: Window 'PlayerVariables' being destroyed
+[2018.10.02-22.04.33:061][967]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ReadyUp/ReadyUpWidget.ReadyUpWidget
+[2018.10.02-22.07.38:332][122]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ReadyUp/PlayerVariables.PlayerVariables
+[2018.10.02-22.16.21:945][ 46]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ReadyUp/ReadyUp' took 0.023
+[2018.10.02-22.16.21:952][ 46]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ReadyUp/ReadyUpWidget] ([1] browsable assets)...
+[2018.10.02-22.16.21:952][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/ReadyUp/ReadyUpWidget]
+[2018.10.02-22.16.22:248][ 46]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidget_Auto5FA51AFB34523A090066B8092DC414155.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Autosaves/Game/ReadyUp/ReadyUpWidget_Auto5.uasset'
+[2018.10.02-22.16.22:268][ 46]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ReadyUp/PlayerVariables] ([1] browsable assets)...
+[2018.10.02-22.16.22:268][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/ReadyUp/PlayerVariables]
+[2018.10.02-22.16.22:465][ 46]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/PlayerVariables_Auto5575C0C29444116081C33A59E96B828B4.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Autosaves/Game/ReadyUp/PlayerVariables_Auto5.uasset'
+[2018.10.02-22.16.22:475][ 46]LogFileHelpers: Auto-saving content packages took 0.529
+[2018.10.02-22.17.47:096][857]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-22.17.47:114][857]LogBlueprint: Error: [Compiler ReadyUpWidget] The type of  Object  is undetermined.  Connect something to  Cast To PlayerVariables  to imply a specific type.
+[2018.10.02-22.17.47:114][857]LogBlueprint: Error: [Compiler ReadyUpWidget] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.10.02-22.17.47:114][857]LogBlueprint: Error: [Compiler ReadyUpWidget] The property associated with  Player 1  could not be found in '/Game/ReadyUp/ReadyUpWidget.ReadyUpWidget_C'
+[2018.10.02-22.17.47:265][857]LogBlueprint: Warning: [Compiler ReadyUpWidget] [4952.86] Compile of ReadyUpWidget failed. 3 Fatal Issue(s) 0 Warning(s) [in 168 ms] (/Game/ReadyUp/ReadyUpWidget.ReadyUpWidget)
+[2018.10.02-22.18.12:796][640]LogTexture: Display: Building textures: Title (BGRA8, 728X114)
+[2018.10.02-22.18.12:796][640]LogTexture: Display: Building textures: Exit (BGRA8, 194X78)
+[2018.10.02-22.18.12:796][640]LogTexture: Display: Building textures: Start (BGRA8, 194X78)
+[2018.10.02-22.18.12:819][640]LogTexture: Display: Building textures: Back_menu (BGRA8, 1280X720)
+[2018.10.02-22.18.12:819][640]LogAIModule: Creating AISystem for world Menu
+[2018.10.02-22.18.12:824][640]LogAssetEditorManager: Opening Asset editor for World /Game/Menu/Menu.Menu
+[2018.10.02-22.18.14:614][640]LogSlate: Window 'Save Content' being destroyed
+[2018.10.02-22.20.17:669][609]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.02-22.26.22:495][221]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ReadyUp/ReadyUp' took 0.021
+[2018.10.02-22.26.22:501][221]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ReadyUp/ReadyUpWidget] ([1] browsable assets)...
+[2018.10.02-22.26.22:501][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/ReadyUp/ReadyUpWidget]
+[2018.10.02-22.26.22:813][221]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidget_Auto623E2105944D9760058BAB98A3D3DA9D9.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Autosaves/Game/ReadyUp/ReadyUpWidget_Auto6.uasset'
+[2018.10.02-22.26.22:823][221]LogFileHelpers: Auto-saving content packages took 0.327
+[2018.10.02-22.27.31:142][338]LogSlate: Took 0.004532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.02-22.30.10:708][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.02-22.35.43:952][900]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-22.35.43:958][900]LogBlueprint: Error: [Compiler ReadyUpWidget] The property associated with  Player 1  could not be found in '/Game/ReadyUp/ReadyUpWidget.ReadyUpWidget_C'
+[2018.10.02-22.35.44:070][900]LogBlueprint: Warning: [Compiler ReadyUpWidget] [6029.67] Compile of ReadyUpWidget failed. 1 Fatal Issue(s) 0 Warning(s) [in 117 ms] (/Game/ReadyUp/ReadyUpWidget.ReadyUpWidget)
+[2018.10.02-22.37.52:514][849]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-22.37.52:520][849]LogBlueprint: Error: [Compiler ReadyUpWidget] The property associated with  Player 1  could not be found in '/Game/ReadyUp/ReadyUpWidget.ReadyUpWidget_C'
+[2018.10.02-22.37.52:627][849]LogBlueprint: Warning: [Compiler ReadyUpWidget] [6158.23] Compile of ReadyUpWidget failed. 1 Fatal Issue(s) 0 Warning(s) [in 113 ms] (/Game/ReadyUp/ReadyUpWidget.ReadyUpWidget)
+[2018.10.02-22.38.25:817][783]BlueprintLog: New page: Compile PlayerVariables
+[2018.10.02-22.38.29:094][155]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-22.38.31:573][435]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-22.38.43:220][790]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-22.38.43:449][802]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-22.38.43:664][812]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-22.38.43:850][819]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-22.38.51:745][730]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-22.38.54:328][ 21]BlueprintLog: New page: Compile PlayerVariables
+[2018.10.02-22.38.55:593][165]LogSlate: Window 'PlayerVariables*' being destroyed
+[2018.10.02-22.38.55:597][165]LogSlate: Window 'PlayerVariables*' being destroyed
+[2018.10.02-22.38.57:762][358]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUp453EA7FC49D3024AA73667B458F12D62.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUp.umap'
+[2018.10.02-22.38.58:111][358]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUp_BuiltData5AE29FD3497F8675F64F96907D6E8158.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUp_BuiltData.uasset'
+[2018.10.02-22.39.45:266][651]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.02-22.39.46:859][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.02-22.39.47:046][854]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ReadyUp/ReadyUpWidget.ReadyUpWidget
+[2018.10.02-22.39.56:232][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Menu/GameOver.SKEL_GameOver_C:WidgetTree.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Menu/GameOver.GameOver_C:WidgetTree.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/EthansStuff/Blueprint/Widget_HUDP1.Widget_HUDP1:WidgetTree.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/EthansStuff/Blueprint/Widget_HUDP1.SKEL_Widget_HUDP1_C:WidgetTree.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/EthansStuff/Blueprint/Widget_HUDP1.Widget_HUDP1_C:WidgetTree.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ReadyUp/ReadyUpWidget.ReadyUpWidget:WidgetTree.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_16.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:ReadyUpWidget_C_1.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:ReadyUpWidget_C_3.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:ReadyUpWidget_C_4.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_14.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:ReadyUpWidget_C_8.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_6.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_13.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_5.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_12.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:ReadyUpWidget_C_12.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:ReadyUpWidget_C_13.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_11.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:ReadyUpWidget_C_14.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:ReadyUpWidget_C_15.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_35.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_ReadyUpWidget_C_66:WidgetTree.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:ReadyUpWidget_C_0.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:ReadyUpWidget_C_18.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:ReadyUpWidget_C_20.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_9.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:ReadyUpWidget_C_3.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Menu/MainMenu/MenuWidget.MenuWidget:WidgetTree.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:ReadyUpWidget_C_6.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:ReadyUpWidget_C_7.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_22.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:233][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_23.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_24.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_25.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:ReadyUpWidget_C_8.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_27.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:ReadyUpWidget_C_9.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Menu/MainMenu/MenuWidget.SKEL_MenuWidget_C:WidgetTree.CanvasPanel_0
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_31.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_32.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Menu/MainMenu/MenuWidget.MenuWidget_C:WidgetTree.CanvasPanel_0
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_33.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_34.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:ReadyUpWidget_C_12.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:ReadyUpWidget_C_36.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:ReadyUpWidget_C_21.WidgetTree_0.CanvasPanel_0
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Menu/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ReadyUp/ReadyUpWidget.ReadyUpWidget_C:WidgetTree.CanvasPanel_0
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_6:ReadyUpWidget_C_14.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_6:ReadyUpWidget_C_13.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_6:ReadyUpWidget_C_12.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_6:ReadyUpWidget_C_11.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Game/ReadyUp/ReadyUpWidget.ReadyUpWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_12:ReadyUpWidget_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_12:ReadyUpWidget_C_0.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_6:ReadyUpWidget_C_35.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_3.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_6:ReadyUpWidget_C_16.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_6.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_7.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_8.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Game/ReadyUp/ReadyUpWidget.ReadyUpWidget_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_12.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_6:ReadyUpWidget_C_36.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_6:ReadyUpWidget_C_22.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_6:ReadyUpWidget_C_23.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_6:ReadyUpWidget_C_24.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_6:ReadyUpWidget_C_25.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_6:ReadyUpWidget_C_27.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_6:ReadyUpWidget_C_31.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_6:ReadyUpWidget_C_32.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_6:ReadyUpWidget_C_33.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:234][407]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10 or CanvasPanelSlot /Engine/Transient.World_6:ReadyUpWidget_C_34.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10
+[2018.10.02-22.39.56:240][407]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Engine/Transient.World_9:ReadyUpWidget_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_10) from referencer (CanvasPanel /Engine/UMG/Editor/Transient.P1Widget).  Import failed...
+[2018.10.02-22.39.56:240][407]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_10"''
+[2018.10.02-22.42.34:931][758]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-22.42.35:874][847]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-22.43.20:041][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.02-22.45.05:092][226]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-22.45.06:310][311]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidget7C2108F44D640757D0598DA9BC9D8462.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUpWidget.uasset'
+[2018.10.02-22.45.07:383][426]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-22.48.32:262][145]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUp440D38B84AE5FC0C003CDCA4AB3B9F78.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUp.umap'
+[2018.10.02-22.48.32:628][145]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUp_BuiltDataDAB961F2471A6C65A701419D6C54DF89.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUp_BuiltData.uasset'
+[2018.10.02-22.51.39:596][787]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.02-22.51.39:675][788]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GrabCharacter
+[2018.10.02-22.51.39:675][788]LogTemp: CWD: D:\Users\James.joh7359\Documents\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.02-22.51.39:675][788]LogTemp: Initial Dir: D:\Users\James.joh7359\Documents\UE_4.20
+[2018.10.02-22.51.39:675][788]LogTemp: Env CWD: D:\Users\James.joh7359\Documents\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.02-22.51.39:675][788]LogTemp: BranchPath = 1806C017/D/Users/James.joh7359/Documents/UE_4.20/Engine/Binaries --- GameBranchPath = 1806C017/D/Users/James.joh7359/Documents/UE_4.20/Engine/Binaries
+[2018.10.02-22.51.39:675][788]LogTemp: IPP ERROR: Could not find provision directory 'D:\Users\Ethan.Hop7668\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.02-22.52.05:268][157]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.02-22.52.05:272][157]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.02-22.52.06:297][264]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.02-22.52.06:376][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.02-22.52.06:467][264]PIE: New page: PIE session: ReadyUp (Oct 4, 2018, 12:52:06 AM)
+[2018.10.02-22.52.06:476][264]LogPlayLevel: Creating play world package: /Game/ReadyUp/UEDPIE_0_ReadyUp
+[2018.10.02-22.52.06:485][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008909s)
+[2018.10.02-22.52.06:486][264]LogAIModule: Creating AISystem for world ReadyUp
+[2018.10.02-22.52.06:497][264]LogPlayLevel: PIE: World Init took: (0.011112s)
+[2018.10.02-22.52.06:497][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ReadyUp/ReadyUp.ReadyUp to /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp (0.020727s)
+[2018.10.02-22.52.06:554][264]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.02-22.52.06:560][264]LogInit: FAudioDevice initialized.
+[2018.10.02-22.52.06:581][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.02-22.52.06:661][264]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.02-22.52.06:662][264]LogWorld: Bringing World /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp up for play (max tick rate 0) at 2018.10.03-11.52.06
+[2018.10.02-22.52.06:670][264]LogWorld: Bringing up level for play took: 0.008243
+[2018.10.02-22.52.06:848][264]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.10.02-22.52.06:892][264]PIE: Play in editor start time for /Game/ReadyUp/UEDPIE_0_ReadyUp 0.644
+[2018.10.02-22.52.06:970][264]LogRenderer: Reallocating scene render targets to support 1208x684 Format 10 NumSamples 1 (Frame:1).
+[2018.10.02-22.52.09:533][531]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.02-22.52.09:584][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.02-22.52.09:652][532]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.10.02-22.52.35:051][349]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp
+[2018.10.02-22.52.52:167][330]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.02-22.53.14:338][959]BlueprintLog: New page: Compile ReadyUp
+[2018.10.02-22.53.15:327][ 72]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.02-22.53.15:361][ 72]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-22.53.15:361][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.02-22.53.15:362][ 72]PIE: New page: PIE session: ReadyUp (Oct 4, 2018, 12:53:15 AM)
+[2018.10.02-22.53.15:362][ 72]LogPlayLevel: Creating play world package: /Game/ReadyUp/UEDPIE_0_ReadyUp
+[2018.10.02-22.53.15:364][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001982s)
+[2018.10.02-22.53.15:364][ 72]LogAIModule: Creating AISystem for world ReadyUp
+[2018.10.02-22.53.15:364][ 72]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2018.10.02-22.53.15:365][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ReadyUp/ReadyUp.ReadyUp to /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp (0.002886s)
+[2018.10.02-22.53.15:389][ 72]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.02-22.53.15:394][ 72]LogInit: FAudioDevice initialized.
+[2018.10.02-22.53.15:402][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.02-22.53.15:440][ 72]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.02-22.53.15:441][ 72]LogWorld: Bringing World /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp up for play (max tick rate 0) at 2018.10.03-11.53.15
+[2018.10.02-22.53.15:451][ 72]LogWorld: Bringing up level for play took: 0.009479
+[2018.10.02-22.53.15:504][ 72]PIE: Play in editor start time for /Game/ReadyUp/UEDPIE_0_ReadyUp -0.743
+[2018.10.02-22.53.15:504][ 72]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-22.53.29:193][691]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.02-22.53.29:199][691]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-22.53.29:229][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.02-22.53.29:230][691]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-22.53.29:282][692]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.10.02-22.56.08:875][569]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-22.56.10:429][658]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.02-22.56.10:475][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-22.56.10:475][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.02-22.56.10:476][658]PIE: New page: PIE session: ReadyUp (Oct 4, 2018, 12:56:10 AM)
+[2018.10.02-22.56.10:476][658]LogPlayLevel: Creating play world package: /Game/ReadyUp/UEDPIE_0_ReadyUp
+[2018.10.02-22.56.10:478][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001911s)
+[2018.10.02-22.56.10:478][658]LogAIModule: Creating AISystem for world ReadyUp
+[2018.10.02-22.56.10:478][658]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2018.10.02-22.56.10:479][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ReadyUp/ReadyUp.ReadyUp to /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp (0.002884s)
+[2018.10.02-22.56.10:500][658]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.02-22.56.10:505][658]LogInit: FAudioDevice initialized.
+[2018.10.02-22.56.10:512][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.02-22.56.10:550][658]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.02-22.56.10:551][658]LogWorld: Bringing World /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp up for play (max tick rate 0) at 2018.10.03-11.56.10
+[2018.10.02-22.56.10:551][658]LogWorld: Bringing up level for play took: 0.000598
+[2018.10.02-22.56.10:568][658]PIE: Play in editor start time for /Game/ReadyUp/UEDPIE_0_ReadyUp 0.323
+[2018.10.02-22.56.10:568][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-22.56.18:895][162]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.02-22.56.18:901][162]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-22.56.18:931][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.02-22.56.18:931][162]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-22.56.18:995][163]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.10.02-22.56.37:149][580]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-22.56.39:590][734]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.02-22.56.39:626][734]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-22.56.39:626][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.02-22.56.39:626][734]PIE: New page: PIE session: ReadyUp (Oct 4, 2018, 12:56:39 AM)
+[2018.10.02-22.56.39:626][734]LogPlayLevel: Creating play world package: /Game/ReadyUp/UEDPIE_0_ReadyUp
+[2018.10.02-22.56.39:628][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001806s)
+[2018.10.02-22.56.39:628][734]LogAIModule: Creating AISystem for world ReadyUp
+[2018.10.02-22.56.39:629][734]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2018.10.02-22.56.39:629][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ReadyUp/ReadyUp.ReadyUp to /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp (0.002772s)
+[2018.10.02-22.56.39:657][734]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.02-22.56.39:662][734]LogInit: FAudioDevice initialized.
+[2018.10.02-22.56.39:669][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.02-22.56.39:704][734]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.02-22.56.39:705][734]LogWorld: Bringing World /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp up for play (max tick rate 0) at 2018.10.03-11.56.39
+[2018.10.02-22.56.39:705][734]LogWorld: Bringing up level for play took: 0.000485
+[2018.10.02-22.56.39:721][734]PIE: Play in editor start time for /Game/ReadyUp/UEDPIE_0_ReadyUp -0.523
+[2018.10.02-22.56.39:722][734]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-22.56.45:172][ 68]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.02-22.56.45:179][ 68]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-22.56.45:210][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.02-22.56.45:210][ 68]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-22.56.45:266][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.10.02-22.59.06:958][573]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidget00C2C9224ED34D53992DE7B9B4A88948.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUpWidget.uasset'
+[2018.10.02-22.59.08:637][766]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-22.59.09:591][825]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidgetD6E40EB54652F547B603758EF8956BCB.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUpWidget.uasset'
+[2018.10.02-22.59.10:533][936]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.02-22.59.10:561][936]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-22.59.10:561][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.02-22.59.10:562][936]PIE: New page: PIE session: ReadyUp (Oct 4, 2018, 12:59:10 AM)
+[2018.10.02-22.59.10:562][936]LogPlayLevel: Creating play world package: /Game/ReadyUp/UEDPIE_0_ReadyUp
+[2018.10.02-22.59.10:564][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002344s)
+[2018.10.02-22.59.10:564][936]LogAIModule: Creating AISystem for world ReadyUp
+[2018.10.02-22.59.10:565][936]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2018.10.02-22.59.10:565][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ReadyUp/ReadyUp.ReadyUp to /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp (0.003137s)
+[2018.10.02-22.59.10:590][936]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.02-22.59.10:595][936]LogInit: FAudioDevice initialized.
+[2018.10.02-22.59.10:603][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.02-22.59.10:639][936]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.02-22.59.10:640][936]LogWorld: Bringing World /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp up for play (max tick rate 0) at 2018.10.03-11.59.10
+[2018.10.02-22.59.10:640][936]LogWorld: Bringing up level for play took: 0.000441
+[2018.10.02-22.59.10:656][936]PIE: Play in editor start time for /Game/ReadyUp/UEDPIE_0_ReadyUp 0.413
+[2018.10.02-22.59.10:662][936]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-22.59.16:932][635]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-22.59.16:937][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.02-22.59.16:967][635]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.02-22.59.16:997][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.02-22.59.16:998][635]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-22.59.17:051][636]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.10.02-22.59.55:716][854]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-22.59.56:926][945]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidget5DA9FBA94B5B3778FC655A832C40B55F.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUpWidget.uasset'
+[2018.10.02-22.59.58:577][136]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.02-22.59.58:622][136]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-22.59.58:622][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.02-22.59.58:622][136]PIE: New page: PIE session: ReadyUp (Oct 4, 2018, 12:59:58 AM)
+[2018.10.02-22.59.58:622][136]LogPlayLevel: Creating play world package: /Game/ReadyUp/UEDPIE_0_ReadyUp
+[2018.10.02-22.59.58:624][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002415s)
+[2018.10.02-22.59.58:625][136]LogAIModule: Creating AISystem for world ReadyUp
+[2018.10.02-22.59.58:625][136]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2018.10.02-22.59.58:625][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ReadyUp/ReadyUp.ReadyUp to /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp (0.003226s)
+[2018.10.02-22.59.58:647][136]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.02-22.59.58:652][136]LogInit: FAudioDevice initialized.
+[2018.10.02-22.59.58:660][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.02-22.59.58:699][136]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.02-22.59.58:700][136]LogWorld: Bringing World /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp up for play (max tick rate 0) at 2018.10.03-11.59.58
+[2018.10.02-22.59.58:700][136]LogWorld: Bringing up level for play took: 0.000462
+[2018.10.02-22.59.58:717][136]PIE: Play in editor start time for /Game/ReadyUp/UEDPIE_0_ReadyUp 0.475
+[2018.10.02-22.59.58:717][136]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-23.00.11:783][600]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.02-23.00.11:790][600]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-23.00.11:820][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.02-23.00.11:820][600]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-23.00.11:877][601]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.10.02-23.00.30:253][783]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ReadyUp/PlayerVariables.PlayerVariables
+[2018.10.02-23.01.31:449][178]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUp_Auto7D308366F46D6458DA72F76BCA8BCD278.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Autosaves/Game/ReadyUp/ReadyUp_Auto7.umap'
+[2018.10.02-23.01.31:468][178]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ReadyUp/ReadyUp' took 0.674
+[2018.10.02-23.01.31:468][178]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.674
+[2018.10.02-23.01.31:476][178]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ReadyUp/ReadyUpWidget] ([1] browsable assets)...
+[2018.10.02-23.01.31:477][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/ReadyUp/ReadyUpWidget]
+[2018.10.02-23.01.31:901][178]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidget_Auto7C1F55D784DD861F0FA2AC48D4B5F7F77.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Autosaves/Game/ReadyUp/ReadyUpWidget_Auto7.uasset'
+[2018.10.02-23.01.31:919][178]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ReadyUp/PlayerVariables] ([1] browsable assets)...
+[2018.10.02-23.01.31:919][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/ReadyUp/PlayerVariables]
+[2018.10.02-23.01.32:269][178]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/PlayerVariables_Auto7736FCBB5457034FB02CDC0BB28FA3783.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Autosaves/Game/ReadyUp/PlayerVariables_Auto7.uasset'
+[2018.10.02-23.01.32:281][178]LogFileHelpers: Auto-saving content packages took 0.812
+[2018.10.02-23.12.07:914][506]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ReadyUp/ReadyUp' took 0.026
+[2018.10.02-23.12.07:919][506]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ReadyUp/ReadyUpWidget] ([1] browsable assets)...
+[2018.10.02-23.12.07:919][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/ReadyUp/ReadyUpWidget]
+[2018.10.02-23.12.08:312][506]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidget_Auto8A4F0F6F54A61989E0CE1128D0E4E9714.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Autosaves/Game/ReadyUp/ReadyUpWidget_Auto8.uasset'
+[2018.10.02-23.12.08:322][506]LogFileHelpers: Auto-saving content packages took 0.407
+[2018.10.02-23.12.45:305][500]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.02-23.12.45:374][501]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GrabCharacter
+[2018.10.02-23.12.45:374][501]LogTemp: CWD: D:\Users\James.joh7359\Documents\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.02-23.12.45:374][501]LogTemp: Initial Dir: D:\Users\James.joh7359\Documents\UE_4.20
+[2018.10.02-23.12.45:374][501]LogTemp: Env CWD: D:\Users\James.joh7359\Documents\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.02-23.12.45:374][501]LogTemp: BranchPath = 1806C017/D/Users/James.joh7359/Documents/UE_4.20/Engine/Binaries --- GameBranchPath = 1806C017/D/Users/James.joh7359/Documents/UE_4.20/Engine/Binaries
+[2018.10.02-23.12.45:374][501]LogTemp: IPP ERROR: Could not find provision directory 'D:\Users\Ethan.Hop7668\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.02-23.12.48:985][885]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.02-23.12.53:303][336]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.02-23.12.53:308][336]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.02-23.12.55:502][595]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-23.12.56:592][667]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidgetF838AC3A460EB70FB869BA8030F37D2F.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUpWidget.uasset'
+[2018.10.02-23.12.57:218][738]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.02-23.12.57:256][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-23.12.57:256][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.02-23.12.57:256][738]PIE: New page: PIE session: ReadyUp (Oct 4, 2018, 1:12:57 AM)
+[2018.10.02-23.12.57:256][738]LogPlayLevel: Creating play world package: /Game/ReadyUp/UEDPIE_0_ReadyUp
+[2018.10.02-23.12.57:258][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002571s)
+[2018.10.02-23.12.57:259][738]LogAIModule: Creating AISystem for world ReadyUp
+[2018.10.02-23.12.57:259][738]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2018.10.02-23.12.57:259][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ReadyUp/ReadyUp.ReadyUp to /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp (0.003490s)
+[2018.10.02-23.12.57:288][738]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.02-23.12.57:293][738]LogInit: FAudioDevice initialized.
+[2018.10.02-23.12.57:301][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.02-23.12.57:339][738]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.02-23.12.57:341][738]LogWorld: Bringing World /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp up for play (max tick rate 0) at 2018.10.03-12.12.57
+[2018.10.02-23.12.57:341][738]LogWorld: Bringing up level for play took: 0.000564
+[2018.10.02-23.12.57:357][738]PIE: Play in editor start time for /Game/ReadyUp/UEDPIE_0_ReadyUp -0.875
+[2018.10.02-23.12.57:358][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-23.13.57:977][562]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-23.13.57:978][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.02-23.13.58:010][562]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.02-23.13.58:040][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.02-23.13.58:041][562]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-23.13.58:084][563]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.10.02-23.14.00:529][855]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.02-23.14.00:560][855]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-23.14.00:560][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.02-23.14.00:560][855]PIE: New page: PIE session: ReadyUp (Oct 4, 2018, 1:14:00 AM)
+[2018.10.02-23.14.00:561][855]LogPlayLevel: Creating play world package: /Game/ReadyUp/UEDPIE_0_ReadyUp
+[2018.10.02-23.14.00:563][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002298s)
+[2018.10.02-23.14.00:563][855]LogAIModule: Creating AISystem for world ReadyUp
+[2018.10.02-23.14.00:564][855]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2018.10.02-23.14.00:564][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ReadyUp/ReadyUp.ReadyUp to /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp (0.003085s)
+[2018.10.02-23.14.00:591][855]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.02-23.14.00:596][855]LogInit: FAudioDevice initialized.
+[2018.10.02-23.14.00:604][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.02-23.14.00:644][855]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.02-23.14.00:645][855]LogWorld: Bringing World /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp up for play (max tick rate 0) at 2018.10.03-12.14.00
+[2018.10.02-23.14.00:646][855]LogWorld: Bringing up level for play took: 0.000525
+[2018.10.02-23.14.00:662][855]PIE: Play in editor start time for /Game/ReadyUp/UEDPIE_0_ReadyUp 0.431
+[2018.10.02-23.14.00:662][855]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-23.14.06:659][515]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-23.14.06:659][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.02-23.14.06:685][515]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.02-23.14.06:714][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.02-23.14.06:714][515]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-23.14.06:769][517]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.10.02-23.15.52:722][999]BlueprintLog: New page: Compile ReadyUp
+[2018.10.02-23.15.54:402][ 89]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUp6C7ECC0649915BF8D5E3748C2AC5AFE0.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUp.umap'
+[2018.10.02-23.15.54:508][ 89]LogFileHelpers: Saving map 'ReadyUp' took 0.847
+[2018.10.02-23.23.40:526][ 79]BlueprintLog: New page: Compile ReadyUpWidget
+[2018.10.02-23.23.41:763][212]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.02-23.23.41:817][212]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-23.23.41:817][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.02-23.23.41:818][212]PIE: New page: PIE session: ReadyUp (Oct 4, 2018, 1:23:41 AM)
+[2018.10.02-23.23.41:818][212]LogPlayLevel: Creating play world package: /Game/ReadyUp/UEDPIE_0_ReadyUp
+[2018.10.02-23.23.41:820][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002738s)
+[2018.10.02-23.23.41:821][212]LogAIModule: Creating AISystem for world ReadyUp
+[2018.10.02-23.23.41:821][212]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2018.10.02-23.23.41:821][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ReadyUp/ReadyUp.ReadyUp to /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp (0.003778s)
+[2018.10.02-23.23.41:852][212]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.02-23.23.41:858][212]LogInit: FAudioDevice initialized.
+[2018.10.02-23.23.41:866][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.02-23.23.41:903][212]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.02-23.23.41:904][212]LogWorld: Bringing World /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp up for play (max tick rate 0) at 2018.10.03-12.23.41
+[2018.10.02-23.23.41:904][212]LogWorld: Bringing up level for play took: 0.000489
+[2018.10.02-23.23.41:937][212]PIE: Play in editor start time for /Game/ReadyUp/UEDPIE_0_ReadyUp -0.289
+[2018.10.02-23.23.41:939][212]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-23.23.51:600][192]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.02-23.23.51:607][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-23.23.51:636][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.02-23.23.51:636][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.02-23.23.51:697][193]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.10.02-23.25.40:959][181]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidget760D0C6E417823E40CB83390939373F4.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUpWidget.uasset'
+[2018.10.02-23.25.53:356][578]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidget4B0A84564927C74643745E8E76CE7AFE.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUpWidget.uasset'
+[2018.10.02-23.26.37:126][454]LogEditorTransaction: Undo Move Widget
+[2018.10.02-23.26.37:498][454]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.360 s
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: 
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2103]
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: 
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: Stack: 
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffbe17371f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffbe1470c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffbe148b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffbdd84f1e8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffbdbcf4c25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd201fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd06535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd72dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffbdbdb9b6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd4c81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffbdb0605b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffbe06f24df UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffbe073437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffbdc5a3a8e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffbdc591a08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffbe06b70ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffbe073606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffbe0729846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffc0cb9ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffc0cb90270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffc0cb9f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffc0cb8c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffc2d6fb85d USER32.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffc2d6fb1ef USER32.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ffc0cba0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ff6a2ce54e5 UE4Editor.exe!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ff6a2cf5b3c UE4Editor.exe!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ff6a2cf5bba UE4Editor.exe!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ff6a2d03dac UE4Editor.exe!UnknownFunction []
+[2018.10.02-23.26.37:498][454]LogOutputDevice: Error: [Callstack] 0x00007ff6a2d05aaa UE4Editor.exe!UnknownFunction []
+[2018.10.02-23.26.37:499][454]LogOutputDevice: Error: [Callstack] 0x00007ffc2dcb1fe4 KERNEL32.DLL!UnknownFunction []
+[2018.10.02-23.26.37:499][454]LogOutputDevice: Error: [Callstack] 0x00007ffc2ea7cb31 ntdll.dll!UnknownFunction []
+[2018.10.02-23.26.37:499][454]LogOutputDevice: Error: 
+[2018.10.02-23.26.37:514][454]LogStats:                SubmitErrorReport -  0.005 s
