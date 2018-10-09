@@ -1,0 +1,1745 @@
+﻿Log file open, 10/03/18 16:44:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GrabCharacter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.265125
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.707s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Users/James.joh7359/Documents/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.025s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.03-03.44.42:400][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.03-03.44.42:400][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.03-03.44.42:430][  0]LogHAL: Display: Platform has ~ 32 GB [34317541376 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.03-03.44.42:430][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.03-03.44.42:430][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.03-03.44.42:430][  0]LogInit: Computer: 1806C017
+[2018.10.03-03.44.42:430][  0]LogInit: User: EthanHop7668
+[2018.10.03-03.44.42:430][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.03-03.44.42:430][  0]LogInit: High frequency timer resolution =3.515627 MHz
+[2018.10.03-03.44.42:430][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.10.03-03.44.42:430][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.03-03.44.42:430][  0]LogMemory: Process Physical Memory: 104.05 MB used, 104.05 MB peak
+[2018.10.03-03.44.42:430][  0]LogMemory: Process Virtual Memory: 96.16 MB used, 96.16 MB peak
+[2018.10.03-03.44.42:430][  0]LogMemory: Physical Memory: 11494.35 MB used,  21233.41 MB free, 32727.76 MB total
+[2018.10.03-03.44.42:430][  0]LogMemory: Virtual Memory: 554.95 MB used,  21233.41 MB free, 134217728.00 MB total
+[2018.10.03-03.44.42:452][  0]LogInit: Using OS detected language (en-US).
+[2018.10.03-03.44.42:452][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.03-03.44.42:453][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.03-03.44.42:733][  0]LogStreaming: Display: Took  0.281s to InitEngineTextLocalization.
+[2018.10.03-03.44.42:733][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.03-03.44.42:767][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.03-03.44.42:767][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.03-03.44.42:957][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.03-03.44.42:957][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.03-03.44.43:019][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.10.03-03.44.43:019][  0]LogD3D11RHI:       8086/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.03-03.44.43:023][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.03-03.44.43:023][  0]LogD3D11RHI:       0/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.03-03.44.43:023][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.03-03.44.43:028][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.03-03.44.43:028][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.03-03.44.43:028][  0]LogWindows: EnumDisplayDevices:
+[2018.10.03-03.44.43:028][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.10.03-03.44.43:028][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.10.03-03.44.43:028][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.03-03.44.43:028][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.03-03.44.43:028][  0]LogWindows:    4. 'Mirage Driver' (P:0 D:0)
+[2018.10.03-03.44.43:028][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.10.03-03.44.43:028][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.10.03-03.44.43:028][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.10.03-03.44.43:028][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.10.03-03.44.43:029][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.10.03-03.44.43:051][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.03-03.44.43:062][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.10.03-03.44.43:147][  0]LogShaderCompilers: Guid format shader working directory is -45 characters bigger than the processId version (H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Intermediate/Shaders/WorkingDirectory/9060/).
+[2018.10.03-03.44.43:147][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Users/Ethan.Hop7668/AppData/Local/Temp/UnrealShaderWorkingDir/129FE9FA46C16EDF723DBC8EEE6B00BA/'.
+[2018.10.03-03.44.43:360][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.03-03.44.43:375][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.03-03.44.43:390][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.03-03.44.43:405][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.03-03.44.43:424][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.03-03.44.43:441][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.03-03.44.43:457][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.03-03.44.43:473][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.03-03.44.43:479][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.03-03.44.43:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-03.44.43:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-03.44.43:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-03.44.43:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-03.44.43:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-03.44.43:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-03.44.43:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-03.44.43:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-03.44.43:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-03.44.43:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-03.44.43:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-03.44.43:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-03.44.43:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-03.44.43:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-03.44.43:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-03.44.43:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-03.44.43:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-03.44.43:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-03.44.43:568][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.03-03.44.43:635][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.03-03.44.43:635][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.03-03.44.43:666][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.03-03.44.43:666][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.03-03.44.43:691][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.03-03.44.43:706][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.03-03.44.43:723][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.03-03.44.43:741][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.03-03.44.43:752][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.03-03.44.43:752][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.03-03.44.43:792][  0]LogXGEController: Cleaning working directory: D:/Users/Ethan.Hop7668/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.03-03.44.43:792][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.03-03.44.43:792][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.03-03.44.43:792][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.03-03.44.44:349][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.03-03.44.44:394][  0]LogDerivedDataCache: Loaded boot cache 0.04s 87MB D:/Users/Ethan.Hop7668/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.03-03.44.44:394][  0]LogDerivedDataCache: Display: Loaded Boot cache: D:/Users/Ethan.Hop7668/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.03-03.44.44:395][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.03-03.44.44:395][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.03-03.44.44:396][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.03-03.44.44:396][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.03-03.44.44:406][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.03-03.44.44:418][  0]LogDerivedDataCache: Using Local data cache path D:/Users/Ethan.Hop7668/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.03-03.44.44:418][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.03-03.44.44:418][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.03-03.44.44:432][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.03-03.44.44:433][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.03-03.44.44:434][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.03-03.44.44:504][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.10.03-03.44.44:838][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.03-03.44.44:941][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.03-03.44.44:944][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.03-03.44.44:944][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.03-03.44.44:944][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.03-03.44.44:944][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.03-03.44.44:958][  0]LogNetVersion: GrabCharacter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1405580293)
+[2018.10.03-03.44.45:728][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.436690 seconds
+[2018.10.03-03.44.45:733][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.03-03.44.45:733][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.03-03.44.45:733][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.03-03.44.46:453][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.03-03.44.46:466][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.03-03.44.46:466][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.03-03.44.46:606][  0]SourceControl: Source control is disabled
+[2018.10.03-03.44.46:606][  0]SourceControl: Source control is disabled
+[2018.10.03-03.44.46:607][  0]SourceControl: Source control is disabled
+[2018.10.03-03.44.46:608][  0]SourceControl: Source control is disabled
+[2018.10.03-03.44.46:808][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.03-03.44.46:839][  0]LogOcInput: OculusInput pre-init called
+[2018.10.03-03.44.46:887][  0]LogEngine: Initializing Engine...
+[2018.10.03-03.44.46:887][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.03-03.44.46:889][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.03-03.44.46:889][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.03-03.44.46:890][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2018.10.03-03.44.46:890][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.03-03.44.47:054][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.03-03.44.47:062][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.03-03.44.47:101][  0]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.03-03.44.47:110][  0]LogInit: FAudioDevice initialized.
+[2018.10.03-03.44.47:110][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.03-03.44.47:227][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB D:/Users/Ethan.Hop7668/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.03-03.44.47:232][  0]LogInit: Texture streaming: Enabled
+[2018.10.03-03.44.47:243][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.03-03.44.47:251][  0]LogInit: Transaction tracking system initialized
+[2018.10.03-03.44.47:264][  0]BlueprintLog: New page: Editor Load
+[2018.10.03-03.44.47:322][  0]LocalizationService: Localization service is disabled
+[2018.10.03-03.44.47:531][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.03-03.44.47:531][  0]LogCook: Display: Mobile HDR setting 0
+[2018.10.03-03.44.47:531][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.03-03.44.47:531][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.03-03.44.47:531][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.03-03.44.47:533][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2018.10.03-03.44.47:533][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.03-03.44.47:616][  0]LogFileCache: Scanning file cache for directory 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/' took 0.02s
+[2018.10.03-03.44.47:616][  0]SourceControl: Source control is disabled
+[2018.10.03-03.44.47:617][  0]Cmd: MAP LOAD FILE="H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUp.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.03-03.44.47:621][  0]LightingResults: New page: Lighting Build
+[2018.10.03-03.44.47:623][  0]MapCheck: New page: Map Check
+[2018.10.03-03.44.47:623][  0]LightingResults: New page: Lighting Build
+[2018.10.03-03.44.47:874][  0]LogAIModule: Creating AISystem for world ReadyUp
+[2018.10.03-03.44.47:878][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.03-03.44.47:901][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.03-03.44.47:955][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.021ms to complete.
+[2018.10.03-03.44.47:955][  0]LogFileHelpers: Loading map 'ReadyUp' took 0.338
+[2018.10.03-03.44.48:014][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.03-03.44.48:015][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.03-03.44.48:039][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-03.44.48:045][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-03.44.48:050][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-03.44.48:056][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-03.44.48:062][  0]LogCollectionManager: Loaded 0 collections in 0.002300 seconds
+[2018.10.03-03.44.48:102][  0]LogFileCache: Scanning file cache for directory 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Collections/' took 0.01s
+[2018.10.03-03.44.48:102][  0]LogFileCache: Scanning file cache for directory 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Developers/EthanHop7668/Collections/' took 0.01s
+[2018.10.03-03.44.48:102][  0]LogFileCache: Scanning file cache for directory 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Collections/' took 0.01s
+[2018.10.03-03.44.48:102][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.03-03.44.48:110][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2572 classes and 603 folders.
+[2018.10.03-03.44.48:114][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.03-03.44.48:145][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.03-03.44.48:148][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.10.03-03.44.48:165][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.03-03.44.48:166][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.03-03.44.48:170][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.03-03.44.48:231][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2018.10.03-03.44.48:361][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.03-03.44.48:372][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.10.03-03.44.48:400][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.03-03.44.48:400][  0]LogLoad: (Engine Initialization) Total time: 8.01 seconds
+[2018.10.03-03.44.48:400][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.03-03.44.48:430][  0]LogAssetRegistry: Asset discovery search completed in 3.9485 seconds
+[2018.10.03-03.44.48:431][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.03-03.44.48:431][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2018.10.03-03.44.48:435][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.03-03.44.48:579][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.03-03.44.48:600][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.03-03.44.48:602][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/', and we were unable to create a new request.
+[2018.10.03-03.44.48:602][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.03-03.44.48:602][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Developers/EthanHop7668/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.03-03.44.48:602][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.03-03.44.48:615][  2]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.03-03.44.48:616][  2]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/Collections/', and we were unable to create a new request.
+[2018.10.03-03.44.48:616][  2]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Developers/EthanHop7668/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.03-03.44.48:616][  2]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Developers/EthanHop7668/Collections/', and we were unable to create a new request.
+[2018.10.03-03.44.48:616][  2]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.03-03.44.48:617][  2]LogDirectoryWatcher: A directory notification failed for 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Collections/', and we were unable to create a new request.
+[2018.10.03-03.44.51:794][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.03-03.44.57:394][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.03-03.44.58:899][210]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.03-03.45.01:534][454]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.10.03-03.45.01:538][454]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.10.03-03.45.02:482][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-03.45.04:684][727]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.03-03.45.04:737][728]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GrabCharacter
+[2018.10.03-03.45.04:737][728]LogTemp: CWD: D:\Users\James.joh7359\Documents\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.03-03.45.04:737][728]LogTemp: Initial Dir: D:\Users\James.joh7359\Documents\UE_4.20
+[2018.10.03-03.45.04:737][728]LogTemp: Env CWD: D:\Users\James.joh7359\Documents\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.03-03.45.04:737][728]LogTemp: BranchPath = 1806C017/D/Users/James.joh7359/Documents/UE_4.20/Engine/Binaries --- GameBranchPath = 1806C017/D/Users/James.joh7359/Documents/UE_4.20/Engine/Binaries
+[2018.10.03-03.45.04:737][728]LogTemp: IPP ERROR: Could not find provision directory 'D:\Users\Ethan.Hop7668\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.03-03.45.13:879][805]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.03-03.45.21:203][441]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.03-03.45.21:207][441]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.03-03.45.23:879][583]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUp09FDDF864A0AB03153C0D08F21722F59.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUp.umap'
+[2018.10.03-03.45.24:269][583]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUp_BuiltData311887DE4B106FF68812BA964DF166EB.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUp_BuiltData.uasset'
+[2018.10.03-03.45.26:591][859]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.03-03.45.26:614][859]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.03-03.45.26:614][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.03-03.45.26:626][859]PIE: New page: PIE session: ReadyUp (Oct 4, 2018, 5:45:26 AM)
+[2018.10.03-03.45.26:632][859]LogPlayLevel: Creating play world package: /Game/ReadyUp/UEDPIE_0_ReadyUp
+[2018.10.03-03.45.26:635][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002505s)
+[2018.10.03-03.45.26:635][859]LogAIModule: Creating AISystem for world ReadyUp
+[2018.10.03-03.45.26:636][859]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2018.10.03-03.45.26:636][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ReadyUp/ReadyUp.ReadyUp to /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp (0.003517s)
+[2018.10.03-03.45.26:655][859]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.03-03.45.26:660][859]LogInit: FAudioDevice initialized.
+[2018.10.03-03.45.26:668][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-03.45.26:716][859]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.03-03.45.26:718][859]LogWorld: Bringing World /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp up for play (max tick rate 0) at 2018.10.03-16.45.26
+[2018.10.03-03.45.26:718][859]LogWorld: Bringing up level for play took: 0.000715
+[2018.10.03-03.45.26:733][859]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.10.03-03.45.26:737][859]PIE: Play in editor start time for /Game/ReadyUp/UEDPIE_0_ReadyUp 0.58
+[2018.10.03-03.45.26:738][859]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.03-03.45.26:774][859]LogRenderer: Reallocating scene render targets to support 1208x684 Format 10 NumSamples 1 (Frame:1).
+[2018.10.03-03.45.30:286][274]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.03-03.45.30:290][274]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.03-03.45.30:321][274]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.03-03.45.30:321][274]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel' has LevelScriptBlueprint '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp' with GeneratedClass '/Game/ReadyUp/ReadyUp.ReadyUp_C' with ClassGeneratedBy '/Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp'
+[2018.10.03-03.45.30:363][275]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.10.03-03.45.54:799][ 96]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.03-03.45.54:858][ 97]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GrabCharacter
+[2018.10.03-03.45.54:858][ 97]LogTemp: CWD: D:\Users\James.joh7359\Documents\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.03-03.45.54:858][ 97]LogTemp: Initial Dir: D:\Users\James.joh7359\Documents\UE_4.20
+[2018.10.03-03.45.54:858][ 97]LogTemp: Env CWD: D:\Users\James.joh7359\Documents\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.03-03.45.54:858][ 97]LogTemp: BranchPath = 1806C017/D/Users/James.joh7359/Documents/UE_4.20/Engine/Binaries --- GameBranchPath = 1806C017/D/Users/James.joh7359/Documents/UE_4.20/Engine/Binaries
+[2018.10.03-03.45.54:858][ 97]LogTemp: IPP ERROR: Could not find provision directory 'D:\Users\Ethan.Hop7668\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.03-03.46.01:298][854]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.03-03.46.01:302][854]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.03-03.46.09:041][772]Cmd: MAP LOAD FILE="H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Menu/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.03-03.46.09:053][772]LightingResults: New page: Lighting Build
+[2018.10.03-03.46.09:054][772]LoadErrors: New page: Loading map: Menu.umap
+[2018.10.03-03.46.09:056][772]MapCheck: New page: Map Check
+[2018.10.03-03.46.09:056][772]LightingResults: New page: Lighting Build
+[2018.10.03-03.46.09:196][772]LogAIModule: Creating AISystem for world Menu
+[2018.10.03-03.46.09:205][772]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.03-03.46.09:289][772]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.03-03.46.09:369][772]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 80.745ms to complete.
+[2018.10.03-03.46.09:369][772]LogFileHelpers: Loading map 'Menu' took 0.329
+[2018.10.03-03.46.09:371][772]LogSlate: Window 'Open Level' being destroyed
+[2018.10.03-03.46.10:869][950]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.03-03.46.10:891][950]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.46.10:891][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.03-03.46.10:892][950]PIE: New page: PIE session: Menu (Oct 4, 2018, 5:46:10 AM)
+[2018.10.03-03.46.10:893][950]LogPlayLevel: Creating play world package: /Game/Menu/UEDPIE_0_Menu
+[2018.10.03-03.46.10:894][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000838s)
+[2018.10.03-03.46.10:894][950]LogAIModule: Creating AISystem for world Menu
+[2018.10.03-03.46.10:895][950]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2018.10.03-03.46.10:895][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu/Menu.Menu to /Game/Menu/UEDPIE_0_Menu.Menu (0.001682s)
+[2018.10.03-03.46.10:915][950]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.03-03.46.10:920][950]LogInit: FAudioDevice initialized.
+[2018.10.03-03.46.10:927][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-03.46.10:966][950]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.03-03.46.10:968][950]LogWorld: Bringing World /Game/Menu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2018.10.03-16.46.10
+[2018.10.03-03.46.10:968][950]LogWorld: Bringing up level for play took: 0.000412
+[2018.10.03-03.46.10:987][950]PIE: Play in editor start time for /Game/Menu/UEDPIE_0_Menu 0.83
+[2018.10.03-03.46.10:989][950]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.46.13:847][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-03.46.13:939][298]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.46.13:939][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-03.46.13:963][298]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.03-03.46.13:993][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.03-03.46.13:993][298]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.46.14:045][302]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.10.03-03.46.14:778][390]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.03-03.46.14:811][390]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.46.14:811][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.03-03.46.14:812][390]PIE: New page: PIE session: Menu (Oct 4, 2018, 5:46:14 AM)
+[2018.10.03-03.46.14:819][390]LogPlayLevel: Creating play world package: /Game/Menu/UEDPIE_0_Menu
+[2018.10.03-03.46.14:820][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000946s)
+[2018.10.03-03.46.14:820][390]LogAIModule: Creating AISystem for world Menu
+[2018.10.03-03.46.14:820][390]LogPlayLevel: PIE: World Init took: (0.000553s)
+[2018.10.03-03.46.14:820][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu/Menu.Menu to /Game/Menu/UEDPIE_0_Menu.Menu (0.001617s)
+[2018.10.03-03.46.14:838][390]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.03-03.46.14:843][390]LogInit: FAudioDevice initialized.
+[2018.10.03-03.46.14:851][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-03.46.14:886][390]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.03-03.46.14:886][390]LogWorld: Bringing World /Game/Menu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2018.10.03-16.46.14
+[2018.10.03-03.46.14:886][390]LogWorld: Bringing up level for play took: 0.000328
+[2018.10.03-03.46.14:901][390]PIE: Play in editor start time for /Game/Menu/UEDPIE_0_Menu 0.744
+[2018.10.03-03.46.14:902][390]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.46.16:276][550]LogNet: Browse: /Game/EthansStuff/Maps/test
+[2018.10.03-03.46.16:276][550]LogLoad: LoadMap: /Game/EthansStuff/Maps/test
+[2018.10.03-03.46.17:368][550]LogAIModule: Creating AISystem for world test
+[2018.10.03-03.46.17:369][550]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.03-03.46.17:371][550]LogWorld: Bringing World /Game/EthansStuff/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2018.10.03-16.46.17
+[2018.10.03-03.46.17:372][550]LogWorld: Bringing up level for play took: 0.002023
+[2018.10.03-03.46.17:372][550]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.03-03.46.17:373][550]LogLoad: Took 1.097198 seconds to LoadMap(/Game/EthansStuff/Maps/test)
+[2018.10.03-03.46.17:374][550]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:398][551]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:432][552]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:460][553]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:481][554]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:490][555]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:498][556]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:507][557]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:515][558]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:523][559]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:532][560]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:540][561]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:548][562]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:557][563]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:565][564]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:573][565]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:581][566]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:590][567]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:598][568]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:606][569]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:615][570]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:623][571]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:631][572]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:640][573]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:648][574]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:657][575]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:665][576]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:673][577]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:682][578]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:690][579]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:698][580]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:707][581]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:715][582]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:723][583]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:731][584]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:740][585]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:748][586]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:756][587]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:765][588]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:774][589]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:782][590]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:790][591]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:798][592]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:807][593]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:815][594]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:823][595]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:832][596]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:841][597]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:848][598]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:857][599]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:865][600]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:873][601]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:882][602]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:890][603]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:898][604]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:907][605]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:915][606]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:923][607]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:932][608]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:940][609]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:948][610]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:956][611]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:965][612]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:973][613]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:981][614]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:990][615]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.17:998][616]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:006][617]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:015][618]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:023][619]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:032][620]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:040][621]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:048][622]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:057][623]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:065][624]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:073][625]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:082][626]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:090][627]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:098][628]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:106][629]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:115][630]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:123][631]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:132][632]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:140][633]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:148][634]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:157][635]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:165][636]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:173][637]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:182][638]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:190][639]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:199][640]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:206][641]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:215][642]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:223][643]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:232][644]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:241][645]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:248][646]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:257][647]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:265][648]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:273][649]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:282][650]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:290][651]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:298][652]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:307][653]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:315][654]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:323][655]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:332][656]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:340][657]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:348][658]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:356][659]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:365][660]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:373][661]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:382][662]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:390][663]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:398][664]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:406][665]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:415][666]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:423][667]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:431][668]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:441][669]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:449][670]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:457][671]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:465][672]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:473][673]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:481][674]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:490][675]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:499][676]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:507][677]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:515][678]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:524][679]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:532][680]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:540][681]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:548][682]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:557][683]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:565][684]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:573][685]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:581][686]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:590][687]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:598][688]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:606][689]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:615][690]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:623][691]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:632][692]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:640][693]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:648][694]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:657][695]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:665][696]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:673][697]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:682][698]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:690][699]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:698][700]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:707][701]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:715][702]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:723][703]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:731][704]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:740][705]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:748][706]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:757][707]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:765][708]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:773][709]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:782][710]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:790][711]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:798][712]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:806][713]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:815][714]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:824][715]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:832][716]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:840][717]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:848][718]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:857][719]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:865][720]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:873][721]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:882][722]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:890][723]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.46.18:925][724]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.03-03.46.18:931][724]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.46.18:961][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.03-03.46.18:962][724]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.46.19:002][726]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.10.03-03.46.27:525][746]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menu/GameOver.GameOver
+[2018.10.03-03.46.27:898][746]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.10.03-03.46.28:528][746]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.03-03.46.34:097][235]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menu/MainMenu/MenuWidget.MenuWidget
+[2018.10.03-03.46.35:839][348]LogSlate: Took 0.028957 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.10.03-03.46.40:113][687]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.03-03.46.47:728][598]BlueprintLog: New page: Compile MenuWidget
+[2018.10.03-03.46.49:268][692]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/MenuWidget64368985438E5DB67C2557AC03D77AA7.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Menu/MainMenu/MenuWidget.uasset'
+[2018.10.03-03.46.49:877][755]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.03-03.46.49:911][755]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.46.49:911][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.03-03.46.49:912][755]PIE: New page: PIE session: Menu (Oct 4, 2018, 5:46:49 AM)
+[2018.10.03-03.46.49:924][755]LogPlayLevel: Creating play world package: /Game/Menu/UEDPIE_0_Menu
+[2018.10.03-03.46.49:926][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001510s)
+[2018.10.03-03.46.49:926][755]LogAIModule: Creating AISystem for world Menu
+[2018.10.03-03.46.49:927][755]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2018.10.03-03.46.49:927][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu/Menu.Menu to /Game/Menu/UEDPIE_0_Menu.Menu (0.002149s)
+[2018.10.03-03.46.49:952][755]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.03-03.46.49:957][755]LogInit: FAudioDevice initialized.
+[2018.10.03-03.46.49:965][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-03.46.49:999][755]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.03-03.46.50:000][755]LogWorld: Bringing World /Game/Menu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2018.10.03-16.46.50
+[2018.10.03-03.46.50:001][755]LogWorld: Bringing up level for play took: 0.000329
+[2018.10.03-03.46.50:016][755]PIE: Play in editor start time for /Game/Menu/UEDPIE_0_Menu -0.141
+[2018.10.03-03.46.50:023][755]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.46.51:221][887]LogNet: Browse: /Game/ReadyUp/ReadyUp
+[2018.10.03-03.46.51:221][887]LogLoad: LoadMap: /Game/ReadyUp/ReadyUp
+[2018.10.03-03.46.51:432][887]LogAIModule: Creating AISystem for world ReadyUp
+[2018.10.03-03.46.51:432][887]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.03-03.46.51:434][887]LogWorld: Bringing World /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp up for play (max tick rate 0) at 2018.10.03-16.46.51
+[2018.10.03-03.46.51:434][887]LogWorld: Bringing up level for play took: 0.000977
+[2018.10.03-03.46.51:436][887]LogLoad: Took 0.215089 seconds to LoadMap(/Game/ReadyUp/ReadyUp)
+[2018.10.03-03.46.56:275][454]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.46.56:275][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-03.46.56:303][454]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.03-03.46.56:333][454]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.03-03.46.56:333][454]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.46.56:383][456]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.10.03-03.47.13:175][447]LogSlate: Window 'GameOver' being destroyed
+[2018.10.03-03.47.18:775][945]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ReadyUp/ReadyUpWidget.ReadyUpWidget
+[2018.10.03-03.48.03:195][339]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.03-03.48.03:229][339]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.48.03:229][339]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.03-03.48.03:240][339]LogPlayLevel: [PlayLevel] Compiling ReadyUpWidget before play...
+[2018.10.03-03.48.03:381][339]LogPlayLevel: PlayLevel: Blueprint regeneration took 152 ms (1 blueprints)
+[2018.10.03-03.48.03:382][339]PIE: New page: PIE session: Menu (Oct 4, 2018, 5:48:03 AM)
+[2018.10.03-03.48.03:409][339]LogPlayLevel: Creating play world package: /Game/Menu/UEDPIE_0_Menu
+[2018.10.03-03.48.03:411][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001603s)
+[2018.10.03-03.48.03:412][339]LogAIModule: Creating AISystem for world Menu
+[2018.10.03-03.48.03:412][339]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2018.10.03-03.48.03:412][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu/Menu.Menu to /Game/Menu/UEDPIE_0_Menu.Menu (0.002330s)
+[2018.10.03-03.48.03:436][339]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.03-03.48.03:441][339]LogInit: FAudioDevice initialized.
+[2018.10.03-03.48.03:449][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-03.48.03:489][339]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.03-03.48.03:490][339]LogWorld: Bringing World /Game/Menu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2018.10.03-16.48.03
+[2018.10.03-03.48.03:490][339]LogWorld: Bringing up level for play took: 0.000336
+[2018.10.03-03.48.03:506][339]PIE: Play in editor start time for /Game/Menu/UEDPIE_0_Menu -0.651
+[2018.10.03-03.48.03:507][339]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.48.07:163][715]LogEditorViewport: Clicking Background
+[2018.10.03-03.48.08:237][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-03.48.08:323][850]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.48.08:323][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-03.48.08:345][850]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.03-03.48.08:376][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.03-03.48.08:376][850]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.48.08:425][852]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.10.03-03.48.15:098][371]LogSlate: Window 'Save Content' being destroyed
+[2018.10.03-03.48.16:039][371]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpWidget9617383140664F40CDDE70A297BCF522.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUpWidget.uasset'
+[2018.10.03-03.48.16:068][371]Cmd: MAP LOAD FILE="H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUp.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.03-03.48.16:079][371]LightingResults: New page: Lighting Build
+[2018.10.03-03.48.16:080][371]LoadErrors: New page: Loading map: ReadyUp.umap
+[2018.10.03-03.48.16:082][371]MapCheck: New page: Map Check
+[2018.10.03-03.48.16:082][371]LightingResults: New page: Lighting Build
+[2018.10.03-03.48.16:232][371]LogAIModule: Creating AISystem for world ReadyUp
+[2018.10.03-03.48.16:238][371]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.03-03.48.16:327][371]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.03-03.48.16:707][371]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 379.549ms to complete.
+[2018.10.03-03.48.16:707][371]LogFileHelpers: Loading map 'ReadyUp' took 0.640
+[2018.10.03-03.48.16:709][371]LogSlate: Window 'Open Level' being destroyed
+[2018.10.03-03.48.21:844][954]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ReadyUp/ReadyUp.ReadyUp:PersistentLevel.ReadyUp
+[2018.10.03-03.48.28:539][720]BlueprintLog: New page: Compile ReadyUp
+[2018.10.03-03.48.30:231][812]LogSavePackage: Moving 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Saved/ReadyUpDBD8B1CF4E83F5CF38EAE6AEC0CB33F9.tmp' to 'H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/ReadyUp/ReadyUp.umap'
+[2018.10.03-03.48.30:305][812]LogFileHelpers: Saving map 'ReadyUp' took 0.854
+[2018.10.03-03.48.43:404][337]Cmd: MAP LOAD FILE="H:/Year 2/Semester 2/Rapid Games Prototyping/Mini Production - Brawly Boys/BrawlyBoys/GrabCharacter/Content/Menu/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.03-03.48.43:415][337]LightingResults: New page: Lighting Build
+[2018.10.03-03.48.43:415][337]LoadErrors: New page: Loading map: Menu.umap
+[2018.10.03-03.48.43:461][337]MapCheck: New page: Map Check
+[2018.10.03-03.48.43:461][337]LightingResults: New page: Lighting Build
+[2018.10.03-03.48.43:572][337]LogAIModule: Creating AISystem for world Menu
+[2018.10.03-03.48.43:579][337]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.03-03.48.43:677][337]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.03-03.48.44:661][337]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 984.269ms to complete.
+[2018.10.03-03.48.44:661][337]LogFileHelpers: Loading map 'Menu' took 1.258
+[2018.10.03-03.48.44:663][337]LogSlate: Window 'Open Level' being destroyed
+[2018.10.03-03.48.47:886][696]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Menu/Menu.Menu:PersistentLevel.Menu
+[2018.10.03-03.48.53:617][353]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.03-03.48.53:641][353]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.48.53:641][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.03-03.48.53:642][353]PIE: New page: PIE session: Menu (Oct 4, 2018, 5:48:53 AM)
+[2018.10.03-03.48.53:645][353]LogPlayLevel: Creating play world package: /Game/Menu/UEDPIE_0_Menu
+[2018.10.03-03.48.53:646][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000877s)
+[2018.10.03-03.48.53:646][353]LogAIModule: Creating AISystem for world Menu
+[2018.10.03-03.48.53:646][353]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2018.10.03-03.48.53:646][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu/Menu.Menu to /Game/Menu/UEDPIE_0_Menu.Menu (0.001559s)
+[2018.10.03-03.48.53:672][353]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.03-03.48.53:678][353]LogInit: FAudioDevice initialized.
+[2018.10.03-03.48.53:685][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-03.48.53:722][353]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.03-03.48.53:723][353]LogWorld: Bringing World /Game/Menu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2018.10.03-16.48.53
+[2018.10.03-03.48.53:723][353]LogWorld: Bringing up level for play took: 0.000373
+[2018.10.03-03.48.53:738][353]PIE: Play in editor start time for /Game/Menu/UEDPIE_0_Menu -0.418
+[2018.10.03-03.48.53:740][353]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.48.55:718][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-03.48.55:805][577]LogNet: Browse: /Game/ReadyUp/ReadyUp
+[2018.10.03-03.48.55:805][577]LogLoad: LoadMap: /Game/ReadyUp/ReadyUp
+[2018.10.03-03.48.55:963][577]LogAIModule: Creating AISystem for world ReadyUp
+[2018.10.03-03.48.55:963][577]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.03-03.48.55:965][577]LogWorld: Bringing World /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp up for play (max tick rate 0) at 2018.10.03-16.48.55
+[2018.10.03-03.48.55:965][577]LogWorld: Bringing up level for play took: 0.001435
+[2018.10.03-03.48.55:968][577]LogLoad: Took 0.161957 seconds to LoadMap(/Game/ReadyUp/ReadyUp)
+[2018.10.03-03.48.59:936][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-03.49.02:342][271]LogNet: Browse: /Game/EthansStuff/Maps/test
+[2018.10.03-03.49.02:342][271]LogLoad: LoadMap: /Game/EthansStuff/Maps/test
+[2018.10.03-03.49.02:930][271]LogAIModule: Creating AISystem for world test
+[2018.10.03-03.49.02:931][271]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.03-03.49.02:933][271]LogWorld: Bringing World /Game/EthansStuff/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2018.10.03-16.49.02
+[2018.10.03-03.49.02:934][271]LogWorld: Bringing up level for play took: 0.001902
+[2018.10.03-03.49.02:934][271]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.03-03.49.02:935][271]LogLoad: Took 0.592693 seconds to LoadMap(/Game/EthansStuff/Maps/test)
+[2018.10.03-03.49.02:935][271]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.02:952][272]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.02:977][273]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:008][274]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:038][275]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:064][276]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:090][277]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:117][278]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:143][279]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:172][280]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:181][281]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:190][282]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:200][283]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:209][284]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:219][285]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:228][286]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:237][287]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:247][288]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:257][289]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:267][290]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:276][291]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:287][292]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:297][293]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:308][294]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:318][295]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:329][296]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:340][297]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:349][298]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:359][299]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:369][300]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:379][301]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:390][302]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:399][303]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:409][304]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:418][305]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:427][306]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:437][307]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:446][308]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:455][309]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:465][310]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:474][311]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:483][312]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:492][313]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:502][314]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:511][315]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:520][316]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:529][317]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:538][318]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:547][319]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:557][320]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:566][321]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:576][322]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:584][323]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:594][324]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:603][325]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:612][326]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:621][327]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:630][328]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:639][329]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:648][330]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:658][331]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:667][332]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:676][333]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:686][334]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:695][335]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:704][336]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:713][337]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:723][338]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:732][339]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:741][340]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:750][341]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:759][342]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:768][343]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:777][344]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:786][345]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:795][346]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:804][347]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:813][348]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:823][349]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:832][350]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:841][351]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:851][352]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:860][353]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:869][354]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:878][355]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:888][356]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:897][357]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:906][358]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:915][359]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:925][360]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:934][361]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:943][362]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:952][363]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:962][364]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:971][365]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:980][366]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:990][367]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.03:999][368]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:008][369]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:017][370]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:027][371]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:037][372]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:046][373]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:056][374]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:066][375]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:077][376]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:089][377]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:098][378]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:108][379]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:117][380]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:127][381]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:138][382]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:147][383]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:157][384]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:166][385]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:176][386]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:186][387]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:195][388]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:204][389]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:213][390]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:223][391]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:232][392]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:241][393]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:250][394]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:260][395]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:268][396]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:278][397]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:287][398]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:297][399]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:306][400]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:315][401]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:325][402]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:334][403]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:344][404]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:354][405]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:363][406]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:374][407]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:383][408]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:393][409]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:403][410]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:413][411]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:423][412]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:431][413]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:441][414]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:450][415]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:459][416]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:469][417]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:478][418]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:487][419]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:498][420]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:508][421]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:516][422]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:526][423]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:535][424]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:544][425]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:553][426]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:562][427]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:571][428]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:580][429]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:590][430]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:599][431]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:609][432]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:618][433]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:627][434]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:636][435]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:645][436]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:655][437]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:664][438]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:673][439]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:684][440]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:693][441]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:702][442]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:712][443]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:721][444]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:730][445]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:740][446]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:750][447]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:760][448]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:768][449]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:778][450]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:786][451]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:796][452]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:807][453]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:816][454]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:825][455]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:834][456]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:843][457]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:852][458]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:861][459]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:871][460]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:880][461]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:889][462]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:898][463]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:908][464]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:917][465]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:927][466]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:936][467]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:945][468]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:955][469]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:964][470]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:973][471]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:984][472]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.04:993][473]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:003][474]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:013][475]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:023][476]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:033][477]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:044][478]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:054][479]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:064][480]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:074][481]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:083][482]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:093][483]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:103][484]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:116][485]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:127][486]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:135][487]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:145][488]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:155][489]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:164][490]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:175][491]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:185][492]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:194][493]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:204][494]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:213][495]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:223][496]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:232][497]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:242][498]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:252][499]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:262][500]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:271][501]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:281][502]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:290][503]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:300][504]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:310][505]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:319][506]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:329][507]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:338][508]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:347][509]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:357][510]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:366][511]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:376][512]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:385][513]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:397][514]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:408][515]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:417][516]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:426][517]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:435][518]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:444][519]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:458][520]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:467][521]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:478][522]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:486][523]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:495][524]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:505][525]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:513][526]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:523][527]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:532][528]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:541][529]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:550][530]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:560][531]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:569][532]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:579][533]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:588][534]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:597][535]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:606][536]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:615][537]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:624][538]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:633][539]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:643][540]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:652][541]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:661][542]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:671][543]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:680][544]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:690][545]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:699][546]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:708][547]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:718][548]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:727][549]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:736][550]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:746][551]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:755][552]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:765][553]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:775][554]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:785][555]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:794][556]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:803][557]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:813][558]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:822][559]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:831][560]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:841][561]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:850][562]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:860][563]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:869][564]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:878][565]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:887][566]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:897][567]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:907][568]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:917][569]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:927][570]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:936][571]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:945][572]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:955][573]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:965][574]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:974][575]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:984][576]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.05:993][577]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:003][578]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:012][579]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:022][580]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:030][581]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:040][582]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:049][583]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:059][584]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:068][585]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:078][586]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:087][587]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:096][588]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:105][589]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:114][590]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:123][591]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:133][592]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:143][593]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:151][594]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:161][595]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:170][596]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:179][597]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:189][598]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:198][599]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:207][600]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:217][601]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:227][602]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:236][603]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:246][604]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:256][605]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:265][606]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:275][607]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:284][608]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:294][609]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:304][610]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:313][611]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:322][612]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:331][613]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:341][614]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:350][615]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:360][616]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:369][617]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:378][618]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:388][619]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:397][620]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:406][621]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:415][622]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:425][623]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:434][624]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:444][625]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:453][626]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:462][627]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:471][628]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:480][629]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:490][630]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:498][631]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:508][632]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:517][633]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:526][634]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:535][635]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:545][636]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:554][637]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:564][638]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:573][639]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:582][640]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:592][641]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:601][642]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:611][643]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:621][644]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:630][645]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:640][646]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:649][647]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:659][648]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:668][649]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:677][650]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:686][651]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:695][652]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:704][653]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:713][654]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:723][655]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:732][656]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:742][657]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:751][658]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:760][659]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:770][660]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:779][661]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:788][662]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:797][663]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:806][664]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:816][665]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:825][666]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:834][667]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:844][668]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:853][669]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:862][670]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:871][671]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:881][672]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:891][673]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:900][674]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:910][675]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:919][676]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:929][677]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:938][678]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:947][679]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:956][680]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:965][681]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:975][682]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:984][683]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.06:994][684]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:003][685]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:012][686]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:023][687]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:032][688]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:042][689]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:051][690]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:060][691]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:070][692]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:079][693]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:088][694]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:097][695]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:107][696]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:115][697]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:125][698]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:133][699]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:143][700]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:152][701]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:161][702]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:170][703]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:180][704]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:189][705]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:198][706]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:207][707]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:216][708]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:226][709]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:235][710]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:245][711]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:254][712]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:263][713]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:272][714]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:281][715]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:291][716]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:300][717]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:309][718]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:318][719]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:328][720]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:337][721]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:346][722]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:355][723]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:364][724]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:374][725]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:383][726]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:393][727]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:402][728]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:412][729]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:421][730]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:430][731]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:439][732]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:449][733]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:459][734]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:468][735]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:477][736]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:486][737]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:496][738]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:506][739]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:516][740]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:525][741]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:535][742]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:546][743]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:555][744]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:565][745]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:575][746]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:585][747]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:595][748]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:605][749]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:615][750]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:626][751]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:635][752]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:647][753]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:656][754]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:665][755]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:675][756]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:684][757]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:695][758]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:704][759]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:713][760]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:722][761]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:732][762]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:742][763]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:751][764]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:762][765]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:771][766]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:781][767]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:790][768]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:799][769]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:810][770]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:820][771]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:830][772]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:839][773]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:849][774]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:858][775]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:868][776]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:878][777]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:887][778]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:897][779]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:906][780]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:915][781]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:925][782]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:935][783]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:945][784]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:954][785]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:963][786]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:972][787]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:982][788]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.07:992][789]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:001][790]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:012][791]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:021][792]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:031][793]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:041][794]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:050][795]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:060][796]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:069][797]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:079][798]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:089][799]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:099][800]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:108][801]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:118][802]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:129][803]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:138][804]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:147][805]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:157][806]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:166][807]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:176][808]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:185][809]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:196][810]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:205][811]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:214][812]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:224][813]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:233][814]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:243][815]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:252][816]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:262][817]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:271][818]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:287][819]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:296][820]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:306][821]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:316][822]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:325][823]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:335][824]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:347][825]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:357][826]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:368][827]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:378][828]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:388][829]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:397][830]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:407][831]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:416][832]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:426][833]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:435][834]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:446][835]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:455][836]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:465][837]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:474][838]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:484][839]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:494][840]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:503][841]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:513][842]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:522][843]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:531][844]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:541][845]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:550][846]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:560][847]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:569][848]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:578][849]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:587][850]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:597][851]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:606][852]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:615][853]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:624][854]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:633][855]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:643][856]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:652][857]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:661][858]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:670][859]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:679][860]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:688][861]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:698][862]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:707][863]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:716][864]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:725][865]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:734][866]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:744][867]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:753][868]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:762][869]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:771][870]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:781][871]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:791][872]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:800][873]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:809][874]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:818][875]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:828][876]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:837][877]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:846][878]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:855][879]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:865][880]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:874][881]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:883][882]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:893][883]LogBlueprintUserMessages: [Player1_2] PlayerController
+[2018.10.03-03.49.08:926][884]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.03-03.49.08:932][884]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.49.08:960][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.03-03.49.08:960][884]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.49.09:005][885]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.10.03-03.49.10:396][ 52]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.03-03.49.10:421][ 52]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.49.10:421][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.03-03.49.10:421][ 52]PIE: New page: PIE session: Menu (Oct 4, 2018, 5:49:10 AM)
+[2018.10.03-03.49.10:427][ 52]LogPlayLevel: Creating play world package: /Game/Menu/UEDPIE_0_Menu
+[2018.10.03-03.49.10:428][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000914s)
+[2018.10.03-03.49.10:429][ 52]LogAIModule: Creating AISystem for world Menu
+[2018.10.03-03.49.10:429][ 52]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2018.10.03-03.49.10:429][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu/Menu.Menu to /Game/Menu/UEDPIE_0_Menu.Menu (0.001625s)
+[2018.10.03-03.49.10:454][ 52]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.03-03.49.10:460][ 52]LogInit: FAudioDevice initialized.
+[2018.10.03-03.49.10:467][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-03.49.10:503][ 52]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.03-03.49.10:504][ 52]LogWorld: Bringing World /Game/Menu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2018.10.03-16.49.10
+[2018.10.03-03.49.10:504][ 52]LogWorld: Bringing up level for play took: 0.000359
+[2018.10.03-03.49.10:520][ 52]PIE: Play in editor start time for /Game/Menu/UEDPIE_0_Menu 0.363
+[2018.10.03-03.49.10:521][ 52]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.49.11:796][188]LogNet: Browse: /Game/ReadyUp/ReadyUp
+[2018.10.03-03.49.11:796][188]LogLoad: LoadMap: /Game/ReadyUp/ReadyUp
+[2018.10.03-03.49.11:931][188]LogAIModule: Creating AISystem for world ReadyUp
+[2018.10.03-03.49.11:931][188]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.03-03.49.11:933][188]LogWorld: Bringing World /Game/ReadyUp/UEDPIE_0_ReadyUp.ReadyUp up for play (max tick rate 0) at 2018.10.03-16.49.11
+[2018.10.03-03.49.11:933][188]LogWorld: Bringing up level for play took: 0.001014
+[2018.10.03-03.49.11:935][188]LogLoad: Took 0.138784 seconds to LoadMap(/Game/ReadyUp/ReadyUp)
+[2018.10.03-03.49.48:614][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-03.49.48:699][103]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.49.48:699][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-03.49.48:726][103]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.03-03.49.48:755][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.03-03.49.48:755][103]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.10.03-03.49.48:806][105]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.10.03-03.49.50:892][335]LogSlate: Window 'Menu - Level Blueprint Editor' being destroyed
+[2018.10.03-03.49.50:913][335]LogSlate: Window 'GrabCharacter - Unreal Editor' being destroyed
+[2018.10.03-03.49.50:914][335]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.03-03.49.50:914][335]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.03-03.49.51:113][336]Cmd: QUIT_EDITOR
+[2018.10.03-03.49.52:053][336]LogExit: Preparing to exit.
+[2018.10.03-03.49.52:624][336]LogExit: Editor shut down
+[2018.10.03-03.49.52:624][336]LogExit: Transaction tracking system shut down
+[2018.10.03-03.49.54:036][336]LogExit: Object subsystem successfully closed.
+[2018.10.03-03.49.54:054][336]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.03-03.49.54:056][336]LogD3D11RHI: Shutdown
+[2018.10.03-03.49.54:056][336]LogD3D11RHI: CleanupD3DDevice
+[2018.10.03-03.49.54:058][336]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.03-03.49.54:064][336]LogModuleManager: Shutting down and abandoning module SequencerWidgets (620)
+[2018.10.03-03.49.54:064][336]LogModuleManager: Shutting down and abandoning module BlueprintGraph (618)
+[2018.10.03-03.49.54:064][336]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2018.10.03-03.49.54:064][336]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2018.10.03-03.49.54:064][336]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (612)
+[2018.10.03-03.49.54:064][336]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.10.03-03.49.54:064][336]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.10.03-03.49.54:064][336]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.10.03-03.49.54:064][336]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.10.03-03.49.54:065][336]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.10.03-03.49.54:462][336]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.10.03-03.49.54:462][336]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.10.03-03.49.54:462][336]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.10.03-03.49.54:462][336]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.10.03-03.49.54:462][336]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.10.03-03.49.54:462][336]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.10.03-03.49.54:462][336]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.10.03-03.49.54:462][336]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.10.03-03.49.54:462][336]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.10.03-03.49.54:462][336]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.10.03-03.49.54:462][336]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.10.03-03.49.54:462][336]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.10.03-03.49.54:463][336]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.10.03-03.49.54:463][336]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.10.03-03.49.54:463][336]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.10.03-03.49.54:463][336]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.10.03-03.49.54:463][336]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.10.03-03.49.54:463][336]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.10.03-03.49.54:463][336]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.10.03-03.49.54:463][336]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.10.03-03.49.54:463][336]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.10.03-03.49.54:463][336]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.10.03-03.49.54:525][336]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.10.03-03.49.54:525][336]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.10.03-03.49.54:525][336]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.10.03-03.49.54:525][336]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.10.03-03.49.54:525][336]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.10.03-03.49.54:525][336]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.10.03-03.49.54:525][336]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.10.03-03.49.54:525][336]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.10.03-03.49.54:525][336]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.10.03-03.49.54:525][336]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.10.03-03.49.54:528][336]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.10.03-03.49.54:528][336]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.10.03-03.49.54:528][336]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.10.03-03.49.54:528][336]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.10.03-03.49.54:528][336]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.10.03-03.49.54:528][336]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.10.03-03.49.54:528][336]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.10.03-03.49.54:528][336]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.10.03-03.49.54:529][336]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.10.03-03.49.54:529][336]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.10.03-03.49.54:529][336]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.10.03-03.49.54:529][336]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.10.03-03.49.54:529][336]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.10.03-03.49.54:529][336]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.10.03-03.49.54:529][336]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.10.03-03.49.54:529][336]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.10.03-03.49.54:529][336]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.10.03-03.49.54:529][336]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.10.03-03.49.54:529][336]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.10.03-03.49.54:529][336]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.10.03-03.49.54:529][336]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.10.03-03.49.54:529][336]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.10.03-03.49.54:712][336]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.10.03-03.49.54:712][336]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.10.03-03.49.54:712][336]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.10.03-03.49.54:712][336]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.10.03-03.49.54:712][336]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.10.03-03.49.54:712][336]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.10.03-03.49.54:712][336]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.10.03-03.49.54:712][336]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.10.03-03.49.54:712][336]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.10.03-03.49.54:712][336]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.10.03-03.49.54:712][336]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.10.03-03.49.54:712][336]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.10.03-03.49.54:712][336]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.10.03-03.49.54:712][336]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.10.03-03.49.54:712][336]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.10.03-03.49.54:712][336]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.10.03-03.49.54:712][336]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.10.03-03.49.54:712][336]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.10.03-03.49.54:715][336]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.10.03-03.49.54:715][336]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.10.03-03.49.54:715][336]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.10.03-03.49.54:715][336]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.10.03-03.49.54:715][336]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.10.03-03.49.54:715][336]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.10.03-03.49.54:715][336]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.10.03-03.49.54:715][336]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.10.03-03.49.54:715][336]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.10.03-03.49.54:715][336]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.10.03-03.49.54:715][336]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.10.03-03.49.54:715][336]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.10.03-03.49.54:723][336]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.10.03-03.49.54:724][336]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.10.03-03.49.54:724][336]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.10.03-03.49.54:724][336]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.10.03-03.49.54:724][336]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.10.03-03.49.54:724][336]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.10.03-03.49.54:724][336]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.10.03-03.49.54:724][336]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.10.03-03.49.54:724][336]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.10.03-03.49.54:724][336]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.10.03-03.49.54:724][336]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.10.03-03.49.54:825][336]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.10.03-03.49.54:926][336]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.03-03.49.54:926][336]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.03-03.49.54:926][336]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.03-03.49.54:926][336]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.03-03.49.54:926][336]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.03-03.49.54:926][336]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.03-03.49.54:926][336]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.03-03.49.54:926][336]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.03-03.49.54:926][336]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.03-03.49.54:927][336]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.03-03.49.54:927][336]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.03-03.49.54:927][336]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.03-03.49.54:928][336]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.03-03.49.54:928][336]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.03-03.49.54:928][336]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.03-03.49.54:928][336]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.03-03.49.54:928][336]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.03-03.49.54:928][336]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.03-03.49.54:929][336]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.03-03.49.54:935][336]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.03-03.49.54:936][336]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.03-03.49.54:936][336]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.03-03.49.54:936][336]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.03-03.49.54:936][336]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.03-03.49.54:936][336]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.03-03.49.54:936][336]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.03-03.49.54:936][336]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.03-03.49.54:936][336]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.03-03.49.54:936][336]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.03-03.49.54:936][336]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.03-03.49.54:936][336]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.03-03.49.54:936][336]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.03-03.49.54:936][336]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.03-03.49.54:936][336]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.03-03.49.54:936][336]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.03-03.49.54:936][336]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.03-03.49.54:936][336]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.03-03.49.54:936][336]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.03-03.49.55:013][336]LogDerivedDataCache: Shutdown
+[2018.10.03-03.49.55:013][336]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.03-03.49.55:013][336]LogXGEController: Cleaning working directory: D:/Users/Ethan.Hop7668/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.03-03.49.55:014][336]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.03-03.49.55:015][336]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.03-03.49.55:015][336]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.03-03.49.55:019][336]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.03-03.49.55:019][336]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.03-03.49.55:019][336]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.03-03.49.55:019][336]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.03-03.49.55:019][336]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.03-03.49.55:019][336]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.03-03.49.55:019][336]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.03-03.49.55:019][336]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.03-03.49.55:019][336]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.03-03.49.55:019][336]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.03-03.49.55:019][336]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.03-03.49.55:019][336]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.03-03.49.55:020][336]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.03-03.49.55:020][336]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.03-03.49.55:020][336]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.03-03.49.55:020][336]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.03-03.49.55:020][336]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.03-03.49.55:020][336]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.03-03.49.55:020][336]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.03-03.49.55:020][336]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.03-03.49.55:046][336]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.03-03.49.55:046][336]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.03-03.49.55:046][336]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0C3BBFBA-428B-A8EC-8A58-44B10F20AF11%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=c4d3839441589dea5b66159187911c6b%7C%7C44ddbd55-48ab-472f-86cb-b64b3aa5bd5f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.03-03.49.55:077][336]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.03-03.49.55:077][336]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.03-03.49.55:077][336]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.03-03.49.55:077][336]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.03-03.49.55:077][336]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.03-03.49.55:077][336]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.03-03.49.55:077][336]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.03-03.49.55:077][336]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.03-03.49.55:077][336]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.03-03.49.55:077][336]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.03-03.49.55:078][336]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.03-03.49.55:078][336]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.03-03.49.55:083][336]LogExit: Exiting.
+[2018.10.03-03.49.55:116][336]Log file closed, 10/03/18 16:49:55
