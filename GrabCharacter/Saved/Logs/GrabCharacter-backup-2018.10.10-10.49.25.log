@@ -1,0 +1,1737 @@
+<<<<<<< HEAD
+﻿Log file open, 10/10/18 10:40:09
+=======
+﻿Log file open, 10/10/18 10:46:16
+>>>>>>> Jayden
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GrabCharacter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+<<<<<<< HEAD
+LogStats: Stats thread started at 0.261643
+=======
+LogStats: Stats thread started at 0.261155
+>>>>>>> Jayden
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< HEAD
+LogStreaming: Display: Took  0.086s to configure plugins.
+=======
+LogStreaming: Display: Took  0.111s to configure plugins.
+>>>>>>> Jayden
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+<<<<<<< HEAD
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+=======
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+>>>>>>> Jayden
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Unreal/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+<<<<<<< HEAD
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.09-21.40.09:726][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.09-21.40.09:726][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.09-21.40.09:733][  0]LogHAL: Display: Platform has ~ 32 GB [34317541376 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.09-21.40.09:733][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.09-21.40.09:733][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.09-21.40.09:734][  0]LogInit: Computer: 1806C016
+[2018.10.09-21.40.09:734][  0]LogInit: User: brandonvan7367
+[2018.10.09-21.40.09:734][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.09-21.40.09:734][  0]LogInit: High frequency timer resolution =3.515625 MHz
+[2018.10.09-21.40.09:734][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.10.09-21.40.09:734][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.09-21.40.09:734][  0]LogMemory: Process Physical Memory: 104.18 MB used, 104.18 MB peak
+[2018.10.09-21.40.09:734][  0]LogMemory: Process Virtual Memory: 94.07 MB used, 94.07 MB peak
+[2018.10.09-21.40.09:734][  0]LogMemory: Physical Memory: 10236.77 MB used,  22490.98 MB free, 32727.76 MB total
+[2018.10.09-21.40.09:734][  0]LogMemory: Virtual Memory: 552.95 MB used,  22490.98 MB free, 134217728.00 MB total
+[2018.10.09-21.40.09:753][  0]LogInit: Using OS detected language (en-US).
+[2018.10.09-21.40.09:753][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.09-21.40.09:753][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.09-21.40.10:033][  0]LogStreaming: Display: Took  0.279s to InitEngineTextLocalization.
+[2018.10.09-21.40.10:033][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.09-21.40.10:059][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.09-21.40.10:059][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.09-21.40.10:248][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.09-21.40.10:248][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.09-21.40.10:309][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.10.09-21.40.10:309][  0]LogD3D11RHI:       8086/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.09-21.40.10:311][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.09-21.40.10:311][  0]LogD3D11RHI:       0/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.09-21.40.10:311][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.09-21.40.10:316][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.09-21.40.10:316][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.09-21.40.10:316][  0]LogWindows: EnumDisplayDevices:
+[2018.10.09-21.40.10:316][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.10.09-21.40.10:316][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.10.09-21.40.10:316][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.09-21.40.10:316][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.09-21.40.10:316][  0]LogWindows:    4. 'Mirage Driver' (P:0 D:0)
+[2018.10.09-21.40.10:316][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.10.09-21.40.10:316][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.10.09-21.40.10:316][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.10.09-21.40.10:316][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.10.09-21.40.10:316][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.10.09-21.40.10:338][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.09-21.40.10:348][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.10.09-21.40.10:433][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../Users/brandon.van7367/Documents/GitHub/BrawlyBoys/GrabCharacter/Intermediate/Shaders/WorkingDirectory/9760/).
+[2018.10.09-21.40.10:433][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Users/brandon.van7367/AppData/Local/Temp/UnrealShaderWorkingDir/DC729DED490E0EE32FE57487F393C9A6/'.
+[2018.10.09-21.40.10:641][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.09-21.40.10:651][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.09-21.40.10:662][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.09-21.40.10:672][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.09-21.40.10:683][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.09-21.40.10:694][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.09-21.40.10:704][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.09-21.40.10:714][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.09-21.40.10:719][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.09-21.40.10:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.40.10:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.40.10:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.40.10:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.40.10:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.40.10:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.40.10:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.40.10:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.40.10:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.40.10:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.40.10:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.40.10:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.40.10:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.40.10:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.40.10:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.40.10:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.40.10:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.40.10:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.40.10:785][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.09-21.40.10:839][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.09-21.40.10:839][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.09-21.40.10:859][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.09-21.40.10:859][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.09-21.40.10:869][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.09-21.40.10:879][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.09-21.40.10:889][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.09-21.40.10:900][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.09-21.40.10:907][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.09-21.40.10:907][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.09-21.40.10:944][  0]LogXGEController: Cleaning working directory: D:/Users/brandon.van7367/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.09-21.40.10:944][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.09-21.40.10:944][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.09-21.40.10:945][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.09-21.40.11:503][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.09-21.40.11:543][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB D:/Users/brandon.van7367/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.09-21.40.11:544][  0]LogDerivedDataCache: Display: Loaded Boot cache: D:/Users/brandon.van7367/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.09-21.40.11:544][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/brandon.van7367/Documents/GitHub/BrawlyBoys/GrabCharacter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.09-21.40.11:544][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.09-21.40.11:544][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/brandon.van7367/Documents/GitHub/BrawlyBoys/GrabCharacter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.09-21.40.11:544][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.09-21.40.11:554][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.09-21.40.11:566][  0]LogDerivedDataCache: Using Local data cache path D:/Users/brandon.van7367/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.09-21.40.11:566][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.09-21.40.11:566][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.09-21.40.11:580][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.09-21.40.11:581][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.09-21.40.11:582][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.09-21.40.11:651][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2018.10.09-21.40.11:962][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.09-21.40.12:071][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.09-21.40.12:074][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.09-21.40.12:074][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.09-21.40.12:074][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.09-21.40.12:074][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.09-21.40.12:090][  0]LogNetVersion: GrabCharacter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1405580293)
+[2018.10.09-21.40.12:498][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.085313 seconds
+[2018.10.09-21.40.12:504][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.09-21.40.12:504][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.09-21.40.12:504][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.09-21.40.13:226][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.09-21.40.13:240][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.09-21.40.13:362][  0]SourceControl: Source control is disabled
+[2018.10.09-21.40.13:362][  0]SourceControl: Source control is disabled
+[2018.10.09-21.40.13:364][  0]SourceControl: Source control is disabled
+[2018.10.09-21.40.13:365][  0]SourceControl: Source control is disabled
+[2018.10.09-21.40.13:513][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.09-21.40.13:545][  0]LogOcInput: OculusInput pre-init called
+[2018.10.09-21.40.13:593][  0]LogEngine: Initializing Engine...
+[2018.10.09-21.40.13:593][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.09-21.40.13:595][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.09-21.40.13:595][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.09-21.40.13:595][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.09-21.40.13:595][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.09-21.40.13:755][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.09-21.40.13:763][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.09-21.40.13:803][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-21.40.13:818][  0]LogInit: FAudioDevice initialized.
+[2018.10.09-21.40.13:818][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.09-21.40.13:940][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB D:/Users/brandon.van7367/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.09-21.40.13:940][  0]LogInit: Texture streaming: Enabled
+[2018.10.09-21.40.13:950][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.09-21.40.13:957][  0]LogInit: Transaction tracking system initialized
+[2018.10.09-21.40.13:969][  0]BlueprintLog: New page: Editor Load
+[2018.10.09-21.40.14:014][  0]LocalizationService: Localization service is disabled
+[2018.10.09-21.40.14:228][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.09-21.40.14:228][  0]LogCook: Display: Mobile HDR setting 0
+[2018.10.09-21.40.14:228][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.09-21.40.14:228][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.09-21.40.14:228][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.09-21.40.14:228][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.09-21.40.14:228][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.09-21.40.14:307][  0]LogFileCache: Scanning file cache for directory 'D:/Users/brandon.van7367/Documents/GitHub/BrawlyBoys/GrabCharacter/Content/' took 0.01s
+[2018.10.09-21.40.14:307][  0]SourceControl: Source control is disabled
+[2018.10.09-21.40.14:307][  0]Cmd: MAP LOAD FILE="../../../../../Users/brandon.van7367/Documents/GitHub/BrawlyBoys/GrabCharacter/Content/Menu/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.09-21.40.14:308][  0]LightingResults: New page: Lighting Build
+[2018.10.09-21.40.14:309][  0]MapCheck: New page: Map Check
+[2018.10.09-21.40.14:309][  0]LightingResults: New page: Lighting Build
+[2018.10.09-21.40.14:349][  0]LogAIModule: Creating AISystem for world Menu
+[2018.10.09-21.40.14:350][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.09-21.40.14:368][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.09-21.40.14:410][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.995ms to complete.
+[2018.10.09-21.40.14:410][  0]LogFileHelpers: Loading map 'Menu' took 0.103
+[2018.10.09-21.40.14:478][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.09-21.40.14:478][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.09-21.40.14:505][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-21.40.14:511][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-21.40.14:517][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-21.40.14:523][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-21.40.14:527][  0]LogCollectionManager: Loaded 0 collections in 0.000575 seconds
+[2018.10.09-21.40.14:566][  0]LogFileCache: Scanning file cache for directory 'D:/Users/brandon.van7367/Documents/GitHub/BrawlyBoys/GrabCharacter/Saved/Collections/' took 0.01s
+[2018.10.09-21.40.14:566][  0]LogFileCache: Scanning file cache for directory 'D:/Users/brandon.van7367/Documents/GitHub/BrawlyBoys/GrabCharacter/Content/Developers/brandonvan7367/Collections/' took 0.01s
+[2018.10.09-21.40.14:566][  0]LogFileCache: Scanning file cache for directory 'D:/Users/brandon.van7367/Documents/GitHub/BrawlyBoys/GrabCharacter/Content/Collections/' took 0.01s
+[2018.10.09-21.40.14:566][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.09-21.40.14:574][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2572 classes and 603 folders.
+[2018.10.09-21.40.14:578][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.09-21.40.14:604][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.09-21.40.14:608][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.10.09-21.40.14:619][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.09-21.40.14:621][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.09-21.40.14:625][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.09-21.40.14:685][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2018.10.09-21.40.14:798][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.09-21.40.14:798][  0]LogLoad: (Engine Initialization) Total time: 6.14 seconds
+[2018.10.09-21.40.14:798][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.09-21.40.14:826][  0]LogAssetRegistry: Asset discovery search completed in 3.1974 seconds
+[2018.10.09-21.40.14:828][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.09-21.40.14:828][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2018.10.09-21.40.14:831][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.09-21.40.14:896][  0]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.09-21.40.15:826][109]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.09-21.40.16:217][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-21.40.18:319][362]LogAIModule: Creating AISystem for world test
+[2018.10.09-21.40.18:331][362]LogAssetEditorManager: Opening Asset editor for World /Game/EthansStuff/Maps/test.test
+[2018.10.09-21.40.18:352][362]Cmd: MAP LOAD FILE="../../../../../Users/brandon.van7367/Documents/GitHub/BrawlyBoys/GrabCharacter/Content/EthansStuff/Maps/test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.09-21.40.18:352][362]LightingResults: New page: Lighting Build
+[2018.10.09-21.40.18:352][362]LoadErrors: New page: Loading map: test.umap
+[2018.10.09-21.40.18:353][362]MapCheck: New page: Map Check
+[2018.10.09-21.40.18:353][362]LightingResults: New page: Lighting Build
+[2018.10.09-21.40.18:374][362]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.09-21.40.18:423][362]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.09-21.40.18:478][362]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.594ms to complete.
+[2018.10.09-21.40.18:478][362]LogFileHelpers: Loading map 'test' took 0.127
+[2018.10.09-21.40.37:742][661]LogEditorViewport: Clicking on Actor (LMB): Player1_C (Player1)
+[2018.10.09-21.40.40:963][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-21.41.25:598][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-21.41.27:581][579]LogSavePackage: Moving '../../../../../Users/brandon.van7367/Documents/GitHub/BrawlyBoys/GrabCharacter/Saved/test2CCEBB13432273812FFB57966ED89B61.tmp' to '../../../../../Users/brandon.van7367/Documents/GitHub/BrawlyBoys/GrabCharacter/Content/EthansStuff/Maps/test.umap'
+[2018.10.09-21.41.27:617][579]LogFileHelpers: Saving map 'test' took 0.222
+[2018.10.09-21.41.28:571][679]LogSlate: Window 'GrabCharacter - Unreal Editor' being destroyed
+[2018.10.09-21.41.28:571][679]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.09-21.41.28:572][679]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.09-21.41.28:734][680]Cmd: QUIT_EDITOR
+[2018.10.09-21.41.28:757][680]LogExit: Preparing to exit.
+[2018.10.09-21.41.29:289][680]LogExit: Editor shut down
+[2018.10.09-21.41.29:289][680]LogExit: Transaction tracking system shut down
+[2018.10.09-21.41.29:472][680]LogExit: Object subsystem successfully closed.
+[2018.10.09-21.41.29:488][680]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.09-21.41.29:490][680]LogD3D11RHI: Shutdown
+[2018.10.09-21.41.29:490][680]LogD3D11RHI: CleanupD3DDevice
+[2018.10.09-21.41.29:491][680]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.09-21.41.29:497][680]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.10.09-21.41.29:497][680]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.10.09-21.41.29:497][680]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.10.09-21.41.29:497][680]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.10.09-21.41.29:497][680]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.10.09-21.41.29:497][680]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.10.09-21.41.29:497][680]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.10.09-21.41.29:497][680]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.10.09-21.41.29:497][680]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.10.09-21.41.29:498][680]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.10.09-21.41.30:072][680]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.10.09-21.41.30:136][680]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.10.09-21.41.30:137][680]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.10.09-21.41.30:137][680]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.10.09-21.41.30:137][680]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.10.09-21.41.30:146][680]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.10.09-21.41.30:146][680]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.10.09-21.41.30:146][680]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.10.09-21.41.30:146][680]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.10.09-21.41.30:146][680]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.10.09-21.41.30:146][680]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.10.09-21.41.30:146][680]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.10.09-21.41.30:146][680]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.10.09-21.41.30:146][680]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.10.09-21.41.30:146][680]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.10.09-21.41.30:146][680]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.10.09-21.41.30:146][680]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.10.09-21.41.30:146][680]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.10.09-21.41.30:146][680]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.10.09-21.41.30:146][680]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.10.09-21.41.30:146][680]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.10.09-21.41.30:146][680]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.10.09-21.41.30:146][680]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.10.09-21.41.30:149][680]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.10.09-21.41.30:149][680]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.10.09-21.41.30:149][680]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.10.09-21.41.30:149][680]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.10.09-21.41.30:149][680]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.10.09-21.41.30:149][680]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.10.09-21.41.30:149][680]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.10.09-21.41.30:149][680]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.10.09-21.41.30:149][680]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.10.09-21.41.30:149][680]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.10.09-21.41.30:149][680]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.10.09-21.41.30:149][680]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.10.09-21.41.30:149][680]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.10.09-21.41.30:149][680]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.10.09-21.41.30:150][680]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.10.09-21.41.30:251][680]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.10.09-21.41.30:351][680]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.09-21.41.30:351][680]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.09-21.41.30:351][680]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.09-21.41.30:351][680]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.09-21.41.30:351][680]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.09-21.41.30:351][680]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.09-21.41.30:351][680]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.09-21.41.30:351][680]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.09-21.41.30:351][680]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.09-21.41.30:351][680]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.09-21.41.30:351][680]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.09-21.41.30:352][680]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.09-21.41.30:353][680]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.09-21.41.30:353][680]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.09-21.41.30:353][680]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.09-21.41.30:353][680]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.09-21.41.30:353][680]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.09-21.41.30:353][680]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.09-21.41.30:354][680]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.09-21.41.30:360][680]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.09-21.41.30:360][680]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.09-21.41.30:360][680]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.09-21.41.30:360][680]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.09-21.41.30:360][680]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.09-21.41.30:360][680]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.09-21.41.30:360][680]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.09-21.41.30:360][680]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.09-21.41.30:360][680]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.09-21.41.30:361][680]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.09-21.41.30:361][680]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.09-21.41.30:361][680]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.09-21.41.30:361][680]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.09-21.41.30:361][680]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.09-21.41.30:361][680]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.09-21.41.30:361][680]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.09-21.41.30:361][680]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.09-21.41.30:361][680]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.09-21.41.30:361][680]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.09-21.41.30:361][680]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.09-21.41.30:363][680]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.09-21.41.30:363][680]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.09-21.41.30:363][680]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.09-21.41.30:363][680]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.09-21.41.30:363][680]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.09-21.41.30:363][680]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.09-21.41.30:363][680]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.09-21.41.30:363][680]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.09-21.41.30:363][680]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.09-21.41.30:363][680]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.09-21.41.30:363][680]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.09-21.41.30:363][680]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.09-21.41.30:363][680]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.09-21.41.30:363][680]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.09-21.41.30:363][680]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.09-21.41.30:363][680]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.09-21.41.30:363][680]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.09-21.41.30:364][680]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.09-21.41.30:615][680]LogDerivedDataCache: Shutdown
+[2018.10.09-21.41.30:615][680]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.09-21.41.30:615][680]LogXGEController: Cleaning working directory: D:/Users/brandon.van7367/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.09-21.41.30:615][680]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.09-21.41.30:615][680]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.09-21.41.30:615][680]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.09-21.41.30:615][680]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.09-21.41.30:615][680]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.09-21.41.30:615][680]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.09-21.41.30:615][680]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.09-21.41.30:615][680]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.09-21.41.30:615][680]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.09-21.41.30:615][680]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.09-21.41.30:615][680]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.09-21.41.30:615][680]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.09-21.41.30:615][680]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.09-21.41.30:616][680]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.09-21.41.30:616][680]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.09-21.41.30:616][680]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.09-21.41.30:616][680]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.09-21.41.30:616][680]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.09-21.41.30:616][680]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.09-21.41.30:616][680]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.09-21.41.30:616][680]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.09-21.41.30:616][680]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.09-21.41.30:616][680]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.09-21.41.30:616][680]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.09-21.41.30:617][680]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.09-21.41.30:617][680]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.09-21.41.30:621][680]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.09-21.41.30:621][680]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.09-21.41.30:621][680]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.09-21.41.30:621][680]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.09-21.41.30:621][680]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.09-21.41.30:622][680]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.09-21.41.30:622][680]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.09-21.41.30:622][680]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.09-21.41.30:622][680]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.09-21.41.30:622][680]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.09-21.41.30:622][680]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.09-21.41.30:622][680]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.09-21.41.30:622][680]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.09-21.41.30:622][680]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.09-21.41.30:622][680]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.09-21.41.30:622][680]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.09-21.41.30:622][680]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.09-21.41.30:622][680]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.09-21.41.30:622][680]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.09-21.41.30:622][680]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.09-21.41.30:632][680]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.09-21.41.30:632][680]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.09-21.41.30:632][680]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E003627-4B83-FBAA-B12A-8CB0E845D53F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=ae19cb9941c7afe1712635a2d477ff78%7C18199573a9024700b6fe1c27ce7f3acc%7C6ccd4748-953c-4077-8c65-e64367dbbcd0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.09-21.41.30:647][680]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.09-21.41.30:648][680]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.09-21.41.30:648][680]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.09-21.41.30:648][680]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.09-21.41.30:648][680]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.09-21.41.30:648][680]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.09-21.41.30:648][680]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.09-21.41.30:648][680]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.09-21.41.30:648][680]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.09-21.41.30:648][680]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.09-21.41.30:648][680]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.09-21.41.30:648][680]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.09-21.41.30:648][680]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.09-21.41.30:648][680]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.09-21.41.30:648][680]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.09-21.41.30:648][680]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.09-21.41.30:649][680]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.09-21.41.30:649][680]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.09-21.41.30:649][680]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.09-21.41.30:649][680]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.09-21.41.30:649][680]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.09-21.41.30:649][680]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.09-21.41.30:649][680]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.09-21.41.30:649][680]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.09-21.41.30:649][680]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.09-21.41.30:649][680]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.09-21.41.30:649][680]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.09-21.41.30:649][680]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.09-21.41.30:649][680]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.09-21.41.30:649][680]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.09-21.41.30:654][680]LogExit: Exiting.
+[2018.10.09-21.41.30:677][680]Log file closed, 10/10/18 10:41:30
+=======
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.09-21.46.16:428][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.09-21.46.16:428][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.09-21.46.16:436][  0]LogHAL: Display: Platform has ~ 32 GB [34317541376 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.09-21.46.16:436][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.09-21.46.16:436][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.09-21.46.16:437][  0]LogInit: Computer: 1806C018
+[2018.10.09-21.46.16:437][  0]LogInit: User: jaydenfac6880
+[2018.10.09-21.46.16:437][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.09-21.46.16:437][  0]LogInit: High frequency timer resolution =3.515632 MHz
+[2018.10.09-21.46.16:437][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.10.09-21.46.16:437][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.09-21.46.16:437][  0]LogMemory: Process Physical Memory: 104.21 MB used, 104.21 MB peak
+[2018.10.09-21.46.16:437][  0]LogMemory: Process Virtual Memory: 97.33 MB used, 97.33 MB peak
+[2018.10.09-21.46.16:437][  0]LogMemory: Physical Memory: 9457.66 MB used,  23270.10 MB free, 32727.76 MB total
+[2018.10.09-21.46.16:437][  0]LogMemory: Virtual Memory: 555.95 MB used,  23270.10 MB free, 134217728.00 MB total
+[2018.10.09-21.46.16:457][  0]LogInit: Using OS detected language (en-US).
+[2018.10.09-21.46.16:457][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.09-21.46.16:457][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.09-21.46.16:759][  0]LogStreaming: Display: Took  0.302s to InitEngineTextLocalization.
+[2018.10.09-21.46.16:759][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.09-21.46.16:786][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.09-21.46.16:786][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.09-21.46.16:976][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.09-21.46.16:976][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.09-21.46.17:024][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.10.09-21.46.17:024][  0]LogD3D11RHI:       8086/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.09-21.46.17:027][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.09-21.46.17:027][  0]LogD3D11RHI:       0/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.09-21.46.17:027][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.09-21.46.17:032][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.09-21.46.17:032][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.09-21.46.17:032][  0]LogWindows: EnumDisplayDevices:
+[2018.10.09-21.46.17:032][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.10.09-21.46.17:032][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.10.09-21.46.17:032][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.09-21.46.17:033][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.09-21.46.17:033][  0]LogWindows:    4. 'Mirage Driver' (P:0 D:0)
+[2018.10.09-21.46.17:033][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.10.09-21.46.17:033][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.10.09-21.46.17:033][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.10.09-21.46.17:033][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.10.09-21.46.17:033][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.10.09-21.46.17:053][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.09-21.46.17:063][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.10.09-21.46.17:149][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Intermediate/Shaders/WorkingDirectory/15228/).
+[2018.10.09-21.46.17:149][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Users/jayden.fac6880/AppData/Local/Temp/UnrealShaderWorkingDir/1BB701CD4D82D15C3C5E0C9FD0883E21/'.
+[2018.10.09-21.46.17:375][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.09-21.46.17:385][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.09-21.46.17:395][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.09-21.46.17:405][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.09-21.46.17:416][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.09-21.46.17:426][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.09-21.46.17:437][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.09-21.46.17:447][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.09-21.46.17:451][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.09-21.46.17:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.46.17:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.46.17:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.46.17:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.46.17:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.46.17:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.46.17:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.46.17:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.46.17:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.46.17:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.46.17:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.46.17:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.46.17:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.46.17:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.46.17:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.46.17:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.46.17:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.46.17:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-21.46.17:516][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.09-21.46.17:569][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.09-21.46.17:569][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.09-21.46.17:588][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.09-21.46.17:588][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.09-21.46.17:598][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.09-21.46.17:608][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.09-21.46.17:619][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.09-21.46.17:631][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.09-21.46.17:638][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.09-21.46.17:638][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.09-21.46.17:674][  0]LogXGEController: Cleaning working directory: D:/Users/jayden.fac6880/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.09-21.46.17:675][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.09-21.46.17:675][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.09-21.46.17:675][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.09-21.46.18:252][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.09-21.46.18:295][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB D:/Users/jayden.fac6880/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.09-21.46.18:295][  0]LogDerivedDataCache: Display: Loaded Boot cache: D:/Users/jayden.fac6880/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.09-21.46.18:295][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.09-21.46.18:295][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.09-21.46.18:295][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.09-21.46.18:295][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.09-21.46.18:307][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.09-21.46.18:319][  0]LogDerivedDataCache: Using Local data cache path D:/Users/jayden.fac6880/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.09-21.46.18:319][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.09-21.46.18:319][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.09-21.46.18:334][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.09-21.46.18:335][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.09-21.46.18:335][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.09-21.46.18:409][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.10.09-21.46.18:686][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.09-21.46.18:786][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.09-21.46.18:789][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.09-21.46.18:789][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.09-21.46.18:789][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.09-21.46.18:789][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.09-21.46.18:805][  0]LogNetVersion: GrabCharacter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1405580293)
+[2018.10.09-21.46.19:242][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.124696 seconds
+[2018.10.09-21.46.19:249][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.09-21.46.19:249][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.09-21.46.19:249][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.09-21.46.20:013][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.09-21.46.20:026][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.09-21.46.20:155][  0]SourceControl: Source control is disabled
+[2018.10.09-21.46.20:155][  0]SourceControl: Source control is disabled
+[2018.10.09-21.46.20:157][  0]SourceControl: Source control is disabled
+[2018.10.09-21.46.20:158][  0]SourceControl: Source control is disabled
+[2018.10.09-21.46.20:317][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.09-21.46.20:347][  0]LogOcInput: OculusInput pre-init called
+[2018.10.09-21.46.20:398][  0]LogEngine: Initializing Engine...
+[2018.10.09-21.46.20:398][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.09-21.46.20:399][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.09-21.46.20:399][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.09-21.46.20:399][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.09-21.46.20:399][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.09-21.46.20:569][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.09-21.46.20:578][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.09-21.46.20:585][  0]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-21.46.20:599][  0]LogInit: FAudioDevice initialized.
+[2018.10.09-21.46.20:599][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.09-21.46.20:705][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB D:/Users/jayden.fac6880/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.09-21.46.20:707][  0]LogInit: Texture streaming: Enabled
+[2018.10.09-21.46.20:717][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.09-21.46.20:724][  0]LogInit: Transaction tracking system initialized
+[2018.10.09-21.46.20:736][  0]BlueprintLog: New page: Editor Load
+[2018.10.09-21.46.20:780][  0]LocalizationService: Localization service is disabled
+[2018.10.09-21.46.20:976][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.09-21.46.20:976][  0]LogCook: Display: Mobile HDR setting 0
+[2018.10.09-21.46.20:976][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.09-21.46.20:976][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.09-21.46.20:976][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.09-21.46.20:976][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.09-21.46.20:976][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.09-21.46.21:055][  0]LogFileCache: Scanning file cache for directory 'D:/Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Content/' took 0.01s
+[2018.10.09-21.46.21:055][  0]SourceControl: Source control is disabled
+[2018.10.09-21.46.21:055][  0]Cmd: MAP LOAD FILE="../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Content/EthansStuff/Maps/test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.09-21.46.21:055][  0]LightingResults: New page: Lighting Build
+[2018.10.09-21.46.21:057][  0]MapCheck: New page: Map Check
+[2018.10.09-21.46.21:057][  0]LightingResults: New page: Lighting Build
+[2018.10.09-21.46.21:240][  0]LogLinker: Warning: Can't find file '/Game/Material/Test_Drawing_OnGrid_Mat'
+[2018.10.09-21.46.21:240][  0]LogLinker: Warning: Can't find file for asset '/Game/Material/Test_Drawing_OnGrid_Mat' while loading ../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Content/EthansStuff/Blueprint/PaperTest_Blueprint.uasset.
+[2018.10.09-21.46.21:240][  0]LoadErrors: Error: /Game/EthansStuff/Blueprint/PaperTest_Blueprint : Can't find file for asset. /Game/Material/Test_Drawing_OnGrid_Mat
+[2018.10.09-21.46.21:240][  0]LogLinker: Warning: Can't find file '/Game/Material/PaperTest'
+[2018.10.09-21.46.21:240][  0]LogLinker: Warning: Can't find file for asset '/Game/Material/PaperTest' while loading ../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Content/EthansStuff/Blueprint/PaperTest_Blueprint.uasset.
+[2018.10.09-21.46.21:240][  0]LoadErrors: Error: /Game/EthansStuff/Blueprint/PaperTest_Blueprint : Can't find file for asset. /Game/Material/PaperTest
+[2018.10.09-21.46.21:240][  0]LogLinker: Warning: Can't find file '/Game/Material/Test_Drawing_OnGrid_Mat'
+[2018.10.09-21.46.21:240][  0]LogLinker: Warning: Can't find file for asset '/Game/Material/Test_Drawing_OnGrid_Mat' while loading ../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Content/EthansStuff/Blueprint/PaperTest_Blueprint.uasset.
+[2018.10.09-21.46.21:240][  0]LoadErrors: Error: /Game/EthansStuff/Blueprint/PaperTest_Blueprint : Can't find file for asset. /Game/Material/Test_Drawing_OnGrid_Mat
+[2018.10.09-21.46.21:241][  0]LogLinker: Warning: Can't find file '/Game/Material/PaperTest'
+[2018.10.09-21.46.21:241][  0]LogLinker: Warning: Can't find file for asset '/Game/Material/PaperTest' while loading ../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Content/EthansStuff/Blueprint/PaperTest_Blueprint.uasset.
+[2018.10.09-21.46.21:241][  0]LoadErrors: Error: /Game/EthansStuff/Blueprint/PaperTest_Blueprint : Can't find file for asset. /Game/Material/PaperTest
+[2018.10.09-21.46.21:241][  0]LogLinker: Warning: Can't find file '/Game/Material/Test_Drawing_OnGrid_Mat'
+[2018.10.09-21.46.21:241][  0]LogLinker: Warning: Can't find file for asset '/Game/Material/Test_Drawing_OnGrid_Mat' while loading ../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Content/EthansStuff/Maps/test.umap.
+[2018.10.09-21.46.21:241][  0]LoadErrors: Error: /Game/EthansStuff/Maps/test : Can't find file for asset. /Game/Material/Test_Drawing_OnGrid_Mat
+[2018.10.09-21.46.21:241][  0]LogLinker: Warning: Can't find file '/Game/Material/PaperTest'
+[2018.10.09-21.46.21:241][  0]LogLinker: Warning: Can't find file for asset '/Game/Material/PaperTest' while loading ../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Content/EthansStuff/Maps/test.umap.
+[2018.10.09-21.46.21:241][  0]LoadErrors: Error: /Game/EthansStuff/Maps/test : Can't find file for asset. /Game/Material/PaperTest
+[2018.10.09-21.46.21:241][  0]LogLinker: Warning: Can't find file '/Game/Material/Test_Drawing_OnGrid_Mat'
+[2018.10.09-21.46.21:241][  0]LogLinker: Warning: Can't find file for asset '/Game/Material/Test_Drawing_OnGrid_Mat' while loading ../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Content/EthansStuff/Maps/test.umap.
+[2018.10.09-21.46.21:241][  0]LoadErrors: Error: /Game/EthansStuff/Maps/test : Can't find file for asset. /Game/Material/Test_Drawing_OnGrid_Mat
+[2018.10.09-21.46.21:241][  0]LogLinker: Warning: Can't find file '/Game/Material/PaperTest'
+[2018.10.09-21.46.21:242][  0]LogLinker: Warning: Can't find file for asset '/Game/Material/PaperTest' while loading ../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Content/EthansStuff/Maps/test.umap.
+[2018.10.09-21.46.21:242][  0]LoadErrors: Error: /Game/EthansStuff/Maps/test : Can't find file for asset. /Game/Material/PaperTest
+[2018.10.09-21.46.21:242][  0]LogLinker: Warning: Can't find file '/Game/Material/PaperTest'
+[2018.10.09-21.46.21:242][  0]LoadErrors: Failed to load /Game/Material/PaperTest.PaperTest Referenced by StaticMeshComponent0_GEN_VARIABLE
+[2018.10.09-21.46.21:242][  0]LogLinker: Warning: Can't find file for asset '/Game/Material/PaperTest' while loading ../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Content/EthansStuff/Maps/test.umap.
+[2018.10.09-21.46.21:242][  0]LoadErrors: Failed to load /Game/Material/PaperTest.PaperTest Referenced by StaticMeshComponent0_GEN_VARIABLE
+[2018.10.09-21.46.21:242][  0]LoadErrors: Error: /Game/EthansStuff/Maps/test : Can't find file for asset. /Game/Material/PaperTest
+[2018.10.09-21.46.21:242][  0]LogLinker: Warning: Can't find file '/Game/Material/Test_Drawing_OnGrid_Mat'
+[2018.10.09-21.46.21:242][  0]LoadErrors: Failed to load /Game/Material/Test_Drawing_OnGrid_Mat.Test_Drawing_OnGrid_Mat Referenced by StaticMeshComponent0_GEN_VARIABLE
+[2018.10.09-21.46.21:243][  0]LogLinker: Warning: Can't find file for asset '/Game/Material/Test_Drawing_OnGrid_Mat' while loading ../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Content/EthansStuff/Maps/test.umap.
+[2018.10.09-21.46.21:243][  0]LoadErrors: Failed to load /Game/Material/Test_Drawing_OnGrid_Mat.Test_Drawing_OnGrid_Mat Referenced by StaticMeshComponent0_GEN_VARIABLE
+[2018.10.09-21.46.21:243][  0]LoadErrors: Error: /Game/EthansStuff/Maps/test : Can't find file for asset. /Game/Material/Test_Drawing_OnGrid_Mat
+[2018.10.09-21.46.21:428][  0]LogAIModule: Creating AISystem for world test
+[2018.10.09-21.46.21:435][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.09-21.46.21:454][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.09-21.46.21:504][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 48.819ms to complete.
+[2018.10.09-21.46.21:504][  0]LogFileHelpers: Loading map 'test' took 0.448
+[2018.10.09-21.46.21:596][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.09-21.46.21:596][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.09-21.46.21:627][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-21.46.21:633][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-21.46.21:642][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-21.46.21:649][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-21.46.21:654][  0]LogCollectionManager: Loaded 0 collections in 0.000897 seconds
+[2018.10.09-21.46.21:696][  0]LogFileCache: Scanning file cache for directory 'D:/Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Saved/Collections/' took 0.01s
+[2018.10.09-21.46.21:696][  0]LogFileCache: Scanning file cache for directory 'D:/Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Content/Developers/jaydenfac6880/Collections/' took 0.01s
+[2018.10.09-21.46.21:696][  0]LogFileCache: Scanning file cache for directory 'D:/Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Content/Collections/' took 0.01s
+[2018.10.09-21.46.21:696][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.09-21.46.21:703][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2572 classes and 603 folders.
+[2018.10.09-21.46.21:708][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.09-21.46.21:734][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.09-21.46.21:738][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.10.09-21.46.21:749][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.09-21.46.21:751][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.09-21.46.21:755][  0]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.09-21.46.21:818][  0]LogRenderer: Reallocating scene render targets to support 1132x580 Format 10 NumSamples 1 (Frame:1).
+[2018.10.09-21.46.21:974][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.09-21.46.21:974][  0]LogLoad: (Engine Initialization) Total time: 6.65 seconds
+[2018.10.09-21.46.21:974][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.09-21.46.22:004][  0]LogAssetRegistry: Asset discovery search completed in 3.6173 seconds
+[2018.10.09-21.46.22:005][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.09-21.46.22:005][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2018.10.09-21.46.22:010][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.10.09-21.46.22:022][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-21.46.22:133][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.09-21.46.23:004][ 99]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.09-21.46.23:677][180]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-21.46.23:681][180]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-21.46.24:453][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-21.46.29:629][806]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/EthansStuff/Bullet.Bullet
+[2018.10.09-21.46.30:006][806]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.10.09-21.46.30:650][806]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.09-21.46.30:707][807]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.09-21.46.33:975][188]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/EthansStuff/Blueprint/Weapons/Pistol.Pistol
+[2018.10.09-21.47.28:355][543]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.09-21.47.28:376][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EthansStuff/Maps/test.test:PersistentLevel' has LevelScriptBlueprint '/Game/EthansStuff/Maps/test.test:PersistentLevel.test' with GeneratedClass '/Game/EthansStuff/Maps/test.test_C' with ClassGeneratedBy '/Game/EthansStuff/Maps/test.test:PersistentLevel.test'
+[2018.10.09-21.47.28:377][543]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.09-21.47.28:383][543]LogPlayLevel: [PlayLevel] Compiling Pistol before play...
+[2018.10.09-21.47.28:516][543]LogPlayLevel: PlayLevel: Blueprint regeneration took 139 ms (1 blueprints)
+[2018.10.09-21.47.28:527][543]PIE: New page: PIE session: test (Oct 10, 2018, 11:47:28 PM)
+[2018.10.09-21.47.28:531][543]LogPlayLevel: Creating play world package: /Game/EthansStuff/Maps/UEDPIE_0_test
+[2018.10.09-21.47.28:536][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005557s)
+[2018.10.09-21.47.28:537][543]LogAIModule: Creating AISystem for world test
+[2018.10.09-21.47.28:537][543]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2018.10.09-21.47.28:537][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EthansStuff/Maps/test.test to /Game/EthansStuff/Maps/UEDPIE_0_test.test (0.006340s)
+[2018.10.09-21.47.28:561][543]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-21.47.28:566][543]LogInit: FAudioDevice initialized.
+[2018.10.09-21.47.28:575][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-21.47.28:628][543]LogLoad: Game class is 'GameModeDude_C'
+[2018.10.09-21.47.28:630][543]LogWorld: Bringing World /Game/EthansStuff/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2018.10.10-10.47.28
+[2018.10.09-21.47.28:631][543]LogWorld: Bringing up level for play took: 0.001272
+[2018.10.09-21.47.28:648][543]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2018.10.09-21.47.28:652][543]PIE: Play in editor start time for /Game/EthansStuff/Maps/UEDPIE_0_test 0.506
+[2018.10.09-21.47.28:653][543]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EthansStuff/Maps/test.test:PersistentLevel' has LevelScriptBlueprint '/Game/EthansStuff/Maps/test.test:PersistentLevel.test' with GeneratedClass '/Game/EthansStuff/Maps/test.test_C' with ClassGeneratedBy '/Game/EthansStuff/Maps/test.test:PersistentLevel.test'
+[2018.10.09-21.47.28:653][543]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:703][543]LogRenderer: Reallocating scene render targets to support 1164x684 Format 10 NumSamples 1 (Frame:1).
+[2018.10.09-21.47.28:741][544]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:763][545]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:783][546]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:796][547]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:807][548]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:817][549]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:826][550]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:835][551]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:843][552]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:853][553]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:861][554]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:869][555]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:878][556]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:886][557]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:895][558]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:905][559]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:914][560]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:923][561]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:932][562]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:940][563]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:948][564]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:956][565]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:965][566]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:973][567]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:982][568]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:990][569]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.28:998][570]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:007][571]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:016][572]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:026][573]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:035][574]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:044][575]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:054][576]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:063][577]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:072][578]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:080][579]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:089][580]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:098][581]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:107][582]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:116][583]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:123][584]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:132][585]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:140][586]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:149][587]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:157][588]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:169][589]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:177][590]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:185][591]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:194][592]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:202][593]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:210][594]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:219][595]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:227][596]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:235][597]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:244][598]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:253][599]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:261][600]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:269][601]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:277][602]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:286][603]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:294][604]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:303][605]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:312][606]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:320][607]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:329][608]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:338][609]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:346][610]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:354][611]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:364][612]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:372][613]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:381][614]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:389][615]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:397][616]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:406][617]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:415][618]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:423][619]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:432][620]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:440][621]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:448][622]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:456][623]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:464][624]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:473][625]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:482][626]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:490][627]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:498][628]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:507][629]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:515][630]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:523][631]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:531][632]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:540][633]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:548][634]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:556][635]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:565][636]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:574][637]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:582][638]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:591][639]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:599][640]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:607][641]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:616][642]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:624][643]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:632][644]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:641][645]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:650][646]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:658][647]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:666][648]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:674][649]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:682][650]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:691][651]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:699][652]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:707][653]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:716][654]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:724][655]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:732][656]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:741][657]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:749][658]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:758][659]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:766][660]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:775][661]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:783][662]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:791][663]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:799][664]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:808][665]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:816][666]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:824][667]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:833][668]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:841][669]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:849][670]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:858][671]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:866][672]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:874][673]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:883][674]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:891][675]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:899][676]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:908][677]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:916][678]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:924][679]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:932][680]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:941][681]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:949][682]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:957][683]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:966][684]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:974][685]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:983][686]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:991][687]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.29:999][688]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:008][689]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:016][690]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:024][691]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:033][692]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:041][693]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:049][694]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:058][695]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:066][696]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:074][697]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:083][698]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:091][699]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:099][700]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:108][701]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:116][702]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:124][703]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:124][703]LogBlueprintUserMessages: [Player1_2] Attached
+[2018.10.09-21.47.30:133][704]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:141][705]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:149][706]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:157][707]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:166][708]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:174][709]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:182][710]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:191][711]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:199][712]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:208][713]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:216][714]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:224][715]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:233][716]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:241][717]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:249][718]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:258][719]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:266][720]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:274][721]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:283][722]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:291][723]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:300][724]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:308][725]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:316][726]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:325][727]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.30:325][727]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.30:326][727]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.30:326][727]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.30:326][727]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.30:326][727]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.30:327][727]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:334][728]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:343][729]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:352][730]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:360][731]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:368][732]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:376][733]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:385][734]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:393][735]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:401][736]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:410][737]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:418][738]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:426][739]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:435][740]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:443][741]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:452][742]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:460][743]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:468][744]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:477][745]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:485][746]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:493][747]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:502][748]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:510][749]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:518][750]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:526][751]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:535][752]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.30:536][752]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.30:536][752]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.30:536][752]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.30:536][752]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.30:536][752]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.30:537][752]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:544][753]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:554][754]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:563][755]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:571][756]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:579][757]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:587][758]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:596][759]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:604][760]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:613][761]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:621][762]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:629][763]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:638][764]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:646][765]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:654][766]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:662][767]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:671][768]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:679][769]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:688][770]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:696][771]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:705][772]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.30:705][772]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.30:705][772]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.30:705][772]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.30:706][772]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.30:706][772]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.30:706][772]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:714][773]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:722][774]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:731][775]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:740][776]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:749][777]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:757][778]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:766][779]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:774][780]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:783][781]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:792][782]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:801][783]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:809][784]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:818][785]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:825][786]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:834][787]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:843][788]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:851][789]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:859][790]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:868][791]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:876][792]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:884][793]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:893][794]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:901][795]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:909][796]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:918][797]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:926][798]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:934][799]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:943][800]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:951][801]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:959][802]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:967][803]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:976][804]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:984][805]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.30:992][806]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:001][807]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:009][808]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:018][809]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:026][810]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:034][811]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:043][812]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:051][813]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:059][814]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:067][815]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:077][816]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:085][817]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:093][818]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:101][819]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:109][820]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:117][821]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:126][822]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:134][823]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:142][824]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:151][825]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:159][826]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:168][827]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:176][828]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:184][829]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:193][830]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:201][831]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:210][832]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:218][833]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:226][834]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:234][835]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:243][836]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:251][837]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:259][838]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:268][839]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:276][840]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:284][841]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.31:285][841]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.31:285][841]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.31:285][841]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.31:285][841]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.31:286][841]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.31:286][841]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:293][842]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:302][843]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:311][844]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:319][845]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:327][846]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:335][847]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:344][848]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:352][849]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:360][850]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:369][851]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:377][852]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:385][853]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:394][854]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:402][855]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:410][856]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:419][857]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:427][858]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:435][859]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:444][860]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:452][861]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.31:453][861]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.31:453][861]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.31:453][861]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.31:453][861]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.31:453][861]LogBlueprintUserMessages: [Shotgun_2] Hello
+[2018.10.09-21.47.31:454][861]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:461][862]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:470][863]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:478][864]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:486][865]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:495][866]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:503][867]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:511][868]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:519][869]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:528][870]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:536][871]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:544][872]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:553][873]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:561][874]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:569][875]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:578][876]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:586][877]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:595][878]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:603][879]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:611][880]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:620][881]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:628][882]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:636][883]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:645][884]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:653][885]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:661][886]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:670][887]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:678][888]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:686][889]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:695][890]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:703][891]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:711][892]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:720][893]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:728][894]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:736][895]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:745][896]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:753][897]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:761][898]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:770][899]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:778][900]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:786][901]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:795][902]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:803][903]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:811][904]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:820][905]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:828][906]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:837][907]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:845][908]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:853][909]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:862][910]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:870][911]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:878][912]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:886][913]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:895][914]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:903][915]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:911][916]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:920][917]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:928][918]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:936][919]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:945][920]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:953][921]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:961][922]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:970][923]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:978][924]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:986][925]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.31:995][926]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:003][927]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:011][928]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:020][929]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:028][930]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:036][931]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:045][932]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:053][933]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:061][934]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:070][935]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:078][936]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:086][937]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:095][938]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:103][939]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:111][940]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:120][941]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:128][942]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:136][943]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:145][944]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:153][945]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:162][946]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:170][947]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:178][948]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:186][949]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:195][950]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:203][951]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:211][952]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:220][953]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:228][954]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:236][955]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:245][956]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:253][957]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:262][958]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:270][959]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:278][960]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:287][961]LogBlueprintUserMessages: [Shotgun_2] P=0.000000 Y=0.000000 R=0.000000
+[2018.10.09-21.47.32:288][961]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EthansStuff/Maps/test.test:PersistentLevel' has LevelScriptBlueprint '/Game/EthansStuff/Maps/test.test:PersistentLevel.test' with GeneratedClass '/Game/EthansStuff/Maps/test.test_C' with ClassGeneratedBy '/Game/EthansStuff/Maps/test.test:PersistentLevel.test'
+[2018.10.09-21.47.32:288][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-21.47.32:307][961]LogSlate: Window 'GrabCharacter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.09-21.47.32:339][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-21.47.32:339][961]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EthansStuff/Maps/test.test:PersistentLevel' has LevelScriptBlueprint '/Game/EthansStuff/Maps/test.test:PersistentLevel.test' with GeneratedClass '/Game/EthansStuff/Maps/test.test_C' with ClassGeneratedBy '/Game/EthansStuff/Maps/test.test:PersistentLevel.test'
+[2018.10.09-21.47.32:396][963]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.10.09-21.47.41:822][988]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/EthansStuff/Blueprint/Weapons/Shotgun.Shotgun
+[2018.10.09-21.47.47:830][606]BlueprintLog: New page: Compile Shotgun
+[2018.10.09-21.47.48:281][631]LogSavePackage: Moving '../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Saved/ShotgunDA56FE814E62282A0ED523830301827B.tmp' to '../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Content/EthansStuff/Blueprint/Weapons/Shotgun.uasset'
+[2018.10.09-21.47.49:116][691]LogSavePackage: Moving '../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Saved/test1F287F454412E306422A69B0141A6D25.tmp' to '../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Content/EthansStuff/Maps/test.umap'
+[2018.10.09-21.47.49:160][691]LogFileHelpers: Saving map 'test' took 0.291
+[2018.10.09-21.47.49:216][691]LogSavePackage: Moving '../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Saved/Pistol4382B21947B97EE36E7D5BBF4BB32E62.tmp' to '../../../../../Users/jayden.fac6880/Desktop/BrawlyBoys/GrabCharacter/Content/EthansStuff/Blueprint/Weapons/Pistol.uasset'
+[2018.10.09-21.47.49:687][742]LogSlate: Window 'Shotgun' being destroyed
+[2018.10.09-21.47.49:690][742]LogSlate: Window 'Shotgun' being destroyed
+[2018.10.09-21.47.49:757][742]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.09-21.47.50:418][801]LogSlate: Window 'GrabCharacter - Unreal Editor' being destroyed
+[2018.10.09-21.47.50:418][801]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.09-21.47.50:419][801]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.09-21.47.50:578][802]Cmd: QUIT_EDITOR
+[2018.10.09-21.47.50:932][802]LogExit: Preparing to exit.
+[2018.10.09-21.47.51:102][802]LogExit: Editor shut down
+[2018.10.09-21.47.51:103][802]LogExit: Transaction tracking system shut down
+[2018.10.09-21.47.51:714][802]LogExit: Object subsystem successfully closed.
+[2018.10.09-21.47.51:727][802]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.09-21.47.51:729][802]LogD3D11RHI: Shutdown
+[2018.10.09-21.47.51:729][802]LogD3D11RHI: CleanupD3DDevice
+[2018.10.09-21.47.51:730][802]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.09-21.47.51:737][802]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2018.10.09-21.47.51:737][802]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2018.10.09-21.47.51:737][802]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2018.10.09-21.47.51:737][802]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.10.09-21.47.51:737][802]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.10.09-21.47.51:737][802]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.10.09-21.47.51:737][802]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.10.09-21.47.51:737][802]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.10.09-21.47.51:737][802]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.10.09-21.47.51:738][802]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.10.09-21.47.51:841][802]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.10.09-21.47.51:841][802]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.10.09-21.47.51:841][802]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.10.09-21.47.51:841][802]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.10.09-21.47.51:841][802]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.10.09-21.47.51:841][802]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.10.09-21.47.51:841][802]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.10.09-21.47.51:841][802]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.10.09-21.47.51:841][802]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.10.09-21.47.51:841][802]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.10.09-21.47.51:841][802]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.10.09-21.47.51:841][802]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.10.09-21.47.51:841][802]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.10.09-21.47.51:841][802]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.10.09-21.47.51:841][802]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.10.09-21.47.51:842][802]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.10.09-21.47.51:842][802]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.10.09-21.47.51:842][802]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.10.09-21.47.51:842][802]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.10.09-21.47.51:842][802]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.10.09-21.47.51:842][802]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.10.09-21.47.51:842][802]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.10.09-21.47.51:906][802]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.10.09-21.47.51:906][802]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.10.09-21.47.51:906][802]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.10.09-21.47.51:906][802]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.10.09-21.47.51:906][802]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.10.09-21.47.51:906][802]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.10.09-21.47.51:906][802]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.10.09-21.47.51:906][802]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.10.09-21.47.51:906][802]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.10.09-21.47.51:906][802]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.10.09-21.47.51:910][802]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.10.09-21.47.51:910][802]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.10.09-21.47.51:910][802]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.10.09-21.47.51:910][802]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.10.09-21.47.51:911][802]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.10.09-21.47.51:911][802]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.10.09-21.47.51:911][802]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.10.09-21.47.51:911][802]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.10.09-21.47.51:911][802]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.10.09-21.47.51:911][802]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.10.09-21.47.51:911][802]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.10.09-21.47.51:911][802]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.10.09-21.47.51:911][802]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.10.09-21.47.51:911][802]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.10.09-21.47.51:911][802]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.10.09-21.47.51:911][802]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.10.09-21.47.51:911][802]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.10.09-21.47.51:911][802]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.10.09-21.47.51:911][802]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.10.09-21.47.51:911][802]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.10.09-21.47.51:911][802]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.10.09-21.47.51:911][802]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.10.09-21.47.51:960][802]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.10.09-21.47.51:960][802]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.10.09-21.47.51:960][802]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.10.09-21.47.51:960][802]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.10.09-21.47.51:960][802]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.10.09-21.47.51:960][802]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.10.09-21.47.51:960][802]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.10.09-21.47.51:960][802]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.10.09-21.47.51:960][802]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.10.09-21.47.51:960][802]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.10.09-21.47.51:960][802]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.10.09-21.47.51:960][802]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.10.09-21.47.51:960][802]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.10.09-21.47.51:960][802]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.10.09-21.47.51:960][802]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.10.09-21.47.51:960][802]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.10.09-21.47.51:960][802]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.10.09-21.47.51:960][802]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.10.09-21.47.51:963][802]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.10.09-21.47.51:963][802]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.10.09-21.47.51:963][802]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.10.09-21.47.51:963][802]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.10.09-21.47.51:963][802]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.10.09-21.47.51:963][802]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.10.09-21.47.51:963][802]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.10.09-21.47.51:963][802]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.10.09-21.47.51:963][802]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.10.09-21.47.51:963][802]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.10.09-21.47.51:963][802]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.10.09-21.47.51:963][802]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.10.09-21.47.51:964][802]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.10.09-21.47.52:065][802]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.10.09-21.47.52:165][802]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.09-21.47.52:165][802]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.09-21.47.52:165][802]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.09-21.47.52:165][802]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.09-21.47.52:165][802]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.09-21.47.52:165][802]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.09-21.47.52:165][802]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.09-21.47.52:165][802]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.09-21.47.52:165][802]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.09-21.47.52:165][802]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.09-21.47.52:165][802]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.09-21.47.52:166][802]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.09-21.47.52:166][802]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.09-21.47.52:166][802]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.09-21.47.52:166][802]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.09-21.47.52:166][802]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.09-21.47.52:166][802]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.09-21.47.52:166][802]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.09-21.47.52:167][802]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.09-21.47.52:175][802]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.09-21.47.52:175][802]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.09-21.47.52:175][802]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.09-21.47.52:175][802]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.09-21.47.52:175][802]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.09-21.47.52:175][802]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.09-21.47.52:175][802]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.09-21.47.52:175][802]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.09-21.47.52:175][802]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.09-21.47.52:175][802]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.09-21.47.52:175][802]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.09-21.47.52:175][802]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.09-21.47.52:175][802]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.09-21.47.52:176][802]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.09-21.47.52:176][802]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.09-21.47.52:176][802]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.09-21.47.52:176][802]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.09-21.47.52:176][802]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.09-21.47.52:176][802]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.09-21.47.52:176][802]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.09-21.47.52:177][802]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.09-21.47.52:177][802]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.09-21.47.52:177][802]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.09-21.47.52:177][802]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.09-21.47.52:177][802]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.09-21.47.52:177][802]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.09-21.47.52:177][802]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.09-21.47.52:177][802]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.09-21.47.52:177][802]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.09-21.47.52:177][802]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.09-21.47.52:177][802]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.09-21.47.52:177][802]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.09-21.47.52:177][802]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.09-21.47.52:177][802]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.09-21.47.52:177][802]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.09-21.47.52:177][802]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.09-21.47.52:177][802]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.09-21.47.52:178][802]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.09-21.47.52:376][802]LogDerivedDataCache: Shutdown
+[2018.10.09-21.47.52:376][802]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.09-21.47.52:376][802]LogXGEController: Cleaning working directory: D:/Users/jayden.fac6880/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.09-21.47.52:376][802]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.09-21.47.52:376][802]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.09-21.47.52:376][802]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.09-21.47.52:376][802]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.09-21.47.52:376][802]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.09-21.47.52:376][802]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.09-21.47.52:376][802]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.09-21.47.52:376][802]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.09-21.47.52:376][802]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.09-21.47.52:376][802]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.09-21.47.52:376][802]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.09-21.47.52:377][802]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.09-21.47.52:377][802]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.09-21.47.52:377][802]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.09-21.47.52:377][802]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.09-21.47.52:377][802]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.09-21.47.52:377][802]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.09-21.47.52:377][802]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.09-21.47.52:377][802]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.09-21.47.52:377][802]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.09-21.47.52:377][802]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.09-21.47.52:377][802]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.09-21.47.52:378][802]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.09-21.47.52:378][802]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.09-21.47.52:378][802]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.09-21.47.52:378][802]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.09-21.47.52:383][802]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.09-21.47.52:403][802]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.09-21.47.52:403][802]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.09-21.47.52:403][802]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B115B9903-4B16-396A-B1D9-8A89913842FE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=56ae42ad4c71f70cd10c76b2438c6dd9%7C%7C01ff08d6-f488-4110-a82f-ce7876761d14&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.09-21.47.52:408][802]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.09-21.47.52:409][802]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.09-21.47.52:409][802]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.09-21.47.52:409][802]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.09-21.47.52:409][802]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.09-21.47.52:409][802]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.09-21.47.52:409][802]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.09-21.47.52:409][802]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.09-21.47.52:409][802]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.09-21.47.52:410][802]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.09-21.47.52:418][802]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.09-21.47.52:418][802]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.09-21.47.52:418][802]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.09-21.47.52:418][802]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.09-21.47.52:418][802]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.09-21.47.52:418][802]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.09-21.47.52:418][802]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.09-21.47.52:418][802]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.09-21.47.52:418][802]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.09-21.47.52:418][802]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.09-21.47.52:418][802]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.09-21.47.52:418][802]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.09-21.47.52:418][802]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.09-21.47.52:418][802]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.09-21.47.52:418][802]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.09-21.47.52:419][802]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.09-21.47.52:419][802]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.09-21.47.52:419][802]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.09-21.47.52:419][802]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.09-21.47.52:419][802]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.09-21.47.52:424][802]LogExit: Exiting.
+[2018.10.09-21.47.52:436][802]Log file closed, 10/10/18 10:47:52
+>>>>>>> Jayden
