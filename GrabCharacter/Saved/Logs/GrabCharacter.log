@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 10/17/18 18:20:58
+=======
+﻿Log file open, 10/17/18 18:24:09
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 10/17/18 18:24:09
 >>>>>>> Stashed changes
@@ -15,7 +19,11 @@ LogInit: Display: Running engine for game: GrabCharacter
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.264383
+=======
+LogStats: Stats thread started at 0.263450
+>>>>>>> Stashed changes
 =======
 LogStats: Stats thread started at 0.263450
 >>>>>>> Stashed changes
@@ -102,7 +110,11 @@ LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogStreaming: Display: Took  0.079s to configure plugins.
+=======
+LogStreaming: Display: Took  0.102s to configure plugins.
+>>>>>>> Stashed changes
 =======
 LogStreaming: Display: Took  0.102s to configure plugins.
 >>>>>>> Stashed changes
@@ -160,6 +172,7 @@ LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogStreaming: Display: Took  0.007s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
@@ -988,6 +1001,11 @@ Make sure 'Shotgun_C' has been compiled for  Get Flipbook
 LogStreaming: Display: Took  0.002s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+=======
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+>>>>>>> Stashed changes
 [2018.10.17-05.24.09:881][  0]LogInit: Selected Device Profile: [Windows]
 [2018.10.17-05.24.09:881][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.10.17-05.24.09:889][  0]LogHAL: Display: Platform has ~ 32 GB [34317541376 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
@@ -2877,4 +2895,7 @@ Make sure 'Pistol_C' has been compiled for  Get Flipbook
 [2018.10.17-05.39.02:375][429]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.10.17-05.39.02:380][429]LogExit: Exiting.
 [2018.10.17-05.39.02:403][429]Log file closed, 10/17/18 18:39:02
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
